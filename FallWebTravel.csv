@@ -1,0 +1,673 @@
+Year of Date,State,CountySt,County,CityState,City,Targeted,Bounces,Exits,New Users,Number of Records,Pageviews,Session Duration,Sessions,Time On Page,Unique Pageviews,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Bethel, Connecticut",Bethel,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Bridgeport, Connecticut",Bridgeport,Targeted,72,76,43,47,85,239,76,239,77,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Brookfield, Connecticut",Brookfield,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Danbury, Connecticut",Danbury,Targeted,3,6,5,6,12,171,6,171,7,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Darien, Connecticut",Darien,Targeted,0,2,2,2,11,252,2,252,9,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Easton, Connecticut",Easton,Targeted,1,2,2,2,6,95,2,95,3,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Fairfield, Connecticut",Fairfield,Targeted,20,22,12,22,25,42,22,42,22,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Greenwich, Connecticut",Greenwich,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Monroe, Connecticut",Monroe,Targeted,5,5,4,4,5,0,5,0,5,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"New Canaan, Connecticut",New Canaan,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"New Fairfield, Connecticut",New Fairfield,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Newtown, Connecticut",Newtown,Targeted,11,11,5,9,11,0,11,0,11,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Norwalk, Connecticut",Norwalk,Targeted,44,50,33,35,63,"1,813",50,"1,812",58,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Redding, Connecticut",Redding,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Shelton, Connecticut",Shelton,Targeted,5,6,6,6,7,2,6,2,7,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Sherman, Connecticut",Sherman,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Stamford, Connecticut",Stamford,Targeted,20,22,14,19,24,667,22,667,22,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Stratford, Connecticut",Stratford,Targeted,15,15,7,12,15,0,15,0,15,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Trumbull, Connecticut",Trumbull,Targeted,17,18,14,16,19,12,18,12,18,EventCity
+2017,Connecticut,"Fairfield, CT",Fairfield,"Weston, Connecticut",Weston,Targeted,2,2,0,2,2,0,2,0,2,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Westport, Connecticut",Westport,Targeted,8,8,7,8,8,0,8,0,8,No Event
+2017,Connecticut,"Fairfield, CT",Fairfield,"Wilton, Connecticut",Wilton,Targeted,4,4,3,4,4,0,4,0,4,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Avon, Connecticut",Avon,Targeted,5,6,6,5,9,85,6,84,8,No Event
+2017,Connecticut,"Hartford, CT",Hartford,"Canton, Connecticut",Canton,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Enfield, Connecticut",Enfield,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Hartford, Connecticut",Hartford,Targeted,9,10,6,8,11,0,10,0,10,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Manchester, Connecticut",Manchester,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Hartford, CT",Hartford,"New Britain, Connecticut",New Britain,Targeted,2,2,2,1,2,0,2,0,2,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Newington, Connecticut",Newington,Targeted,3,4,2,4,5,962,4,962,4,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"West Hartford, Connecticut",West Hartford,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Connecticut,"Hartford, CT",Hartford,"Windsor, Connecticut",Windsor,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2017,Connecticut,"Middlesex, CT",Middlesex,"Cromwell, Connecticut",Cromwell,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Middlesex, CT",Middlesex,"Durham, Connecticut",Durham,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Middlesex, CT",Middlesex,"Middletown, Connecticut",Middletown,Other,0,1,1,1,2,87,1,87,2,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Ansonia, Connecticut",Ansonia,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"Branford, Connecticut",Branford,Targeted,5,8,5,8,14,139,8,139,8,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Cheshire, Connecticut",Cheshire,Targeted,13,14,12,12,18,"1,392",14,"1,392",15,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"Derby, Connecticut",Derby,Targeted,3,3,2,2,3,0,3,0,3,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"East Haven, Connecticut",East Haven,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Guilford, Connecticut",Guilford,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"Hamden, Connecticut",Hamden,Targeted,3,4,3,3,5,0,4,0,4,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"Madison, Connecticut",Madison,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Meriden, Connecticut",Meriden,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Milford, Connecticut",Milford,Targeted,15,15,11,12,15,0,15,0,15,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Naugatuck, Connecticut",Naugatuck,Targeted,35,36,25,32,37,17,36,17,36,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"New Haven, Connecticut",New Haven,Targeted,52,52,40,45,52,0,52,0,52,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"North Haven, Connecticut",North Haven,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Orange, Connecticut",Orange,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Seymour, Connecticut",Seymour,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Southbury, Connecticut",Southbury,Targeted,2,3,3,3,4,12,3,12,3,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Wallingford, Connecticut",Wallingford,Targeted,8,8,8,7,8,0,8,0,8,No Event
+2017,Connecticut,"New Haven, CT",New Haven,"Waterbury, Connecticut",Waterbury,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"West Haven, Connecticut",West Haven,Targeted,2,2,1,2,2,0,2,0,2,EventCity
+2017,Connecticut,"New Haven, CT",New Haven,"Woodbridge, Connecticut",Woodbridge,Targeted,7,9,6,7,13,116,9,116,11,No Event
+2017,Connecticut,"New London, CT",New London,"Groton, Connecticut",Groton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"New London, CT",New London,"Norwich, Connecticut",Norwich,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"New London, CT",New London,"Waterford, Connecticut",Waterford,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Connecticut,"Tolland, CT",Tolland,"Mansfield, Connecticut",Mansfield,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Connecticut,"Windham, CT",Windham,"Thompson, Connecticut",Thompson,Other,2,2,2,2,2,0,2,0,2,No Event
+2017,Connecticut,"Windham, CT",Windham,"Windham, Connecticut",Windham,Other,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Barnstable, MA",Barnstable,"Barnstable, Massachusetts",Barnstable,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Barnstable, MA",Barnstable,"Dennis, Massachusetts",Dennis,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Barnstable, MA",Barnstable,"Yarmouth, Massachusetts",Yarmouth,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Berkshire, MA",Berkshire,"Williamstown, Massachusetts",Williamstown,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"Attleboro, Massachusetts",Attleboro,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2017,Massachusetts,"Bristol, MA",Bristol,"Fall River, Massachusetts",Fall River,Targeted,4,5,3,5,8,3,5,4,5,EventCity
+2017,Massachusetts,"Bristol, MA",Bristol,"Mansfield, Massachusetts",Mansfield,Targeted,0,1,1,1,3,933,1,932,1,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"New Bedford, Massachusetts",New Bedford,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Massachusetts,"Bristol, MA",Bristol,"North Attleborough, Massachusetts",North Attleborough,Targeted,5,5,3,3,5,0,5,0,5,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"Norton, Massachusetts",Norton,Targeted,2,2,1,2,2,0,2,0,2,EventCity
+2017,Massachusetts,"Bristol, MA",Bristol,"Rehoboth, Massachusetts",Rehoboth,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"Seekonk, Massachusetts",Seekonk,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"Swansea, Massachusetts",Swansea,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Bristol, MA",Bristol,"Taunton, Massachusetts",Taunton,Targeted,5,7,4,6,10,209,7,209,7,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Amesbury, Massachusetts",Amesbury,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Andover, Massachusetts",Andover,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Beverly, Massachusetts",Beverly,Targeted,4,4,3,4,4,0,4,0,4,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Boxford, Massachusetts",Boxford,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Gloucester, Massachusetts",Gloucester,Targeted,39,39,17,28,39,0,39,0,39,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Haverhill, Massachusetts",Haverhill,Targeted,34,37,31,31,41,93,37,93,38,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Lawrence, Massachusetts",Lawrence,Targeted,12,13,9,13,14,103,13,103,13,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Lynn, Massachusetts",Lynn,Targeted,10,11,11,11,12,4,11,4,11,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Methuen, Massachusetts",Methuen,Targeted,8,8,8,8,8,0,8,0,8,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Newburyport, Massachusetts",Newburyport,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"North Andover, Massachusetts",North Andover,Targeted,15,16,9,12,17,"1,335",16,"1,335",16,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Peabody, Massachusetts",Peabody,Targeted,6,7,5,7,8,151,7,151,7,EventCity
+2017,Massachusetts,"Essex, MA",Essex,"Salem, Massachusetts",Salem,Targeted,4,4,3,4,4,0,4,0,4,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Saugus, Massachusetts",Saugus,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Essex, MA",Essex,"Wenham, Massachusetts",Wenham,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Hampden, MA",Hampden,"Springfield, Massachusetts",Springfield,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,Massachusetts,"Hampden, MA",Hampden,"West Springfield, Massachusetts",West Springfield,Targeted,2,3,1,3,5,97,3,97,4,EventCity
+2017,Massachusetts,"Hampshire, MA",Hampshire,"Amherst, Massachusetts",Amherst,Other,2,2,1,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Hampshire, MA",Hampshire,"Northampton, Massachusetts",Northampton,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Acton, Massachusetts",Acton,Targeted,4,5,5,5,6,3,5,3,5,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Arlington, Massachusetts",Arlington,Targeted,14,16,14,14,38,644,16,645,32,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Ashby, Massachusetts",Ashby,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Ashland, Massachusetts",Ashland,Targeted,6,6,4,6,6,0,6,0,6,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Bedford, Massachusetts",Bedford,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Belmont, Massachusetts",Belmont,Targeted,3,3,1,2,3,0,3,0,3,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Billerica, Massachusetts",Billerica,Targeted,19,21,13,20,25,"1,093",21,"1,093",22,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Burlington, Massachusetts",Burlington,Targeted,10,11,6,10,12,17,11,17,11,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Cambridge, Massachusetts",Cambridge,Targeted,15,17,16,16,24,789,17,789,18,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Chelmsford, Massachusetts",Chelmsford,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Concord, Massachusetts",Concord,Targeted,5,5,4,5,5,0,5,0,5,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Dracut, Massachusetts",Dracut,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Everett, Massachusetts",Everett,Targeted,4,5,5,4,8,41,5,42,6,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Framingham, Massachusetts",Framingham,Targeted,12,13,10,12,21,151,13,151,18,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Holliston, Massachusetts",Holliston,Targeted,13,13,10,10,13,0,13,0,13,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Hopkinton, Massachusetts",Hopkinton,Targeted,10,11,11,11,12,29,11,29,11,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Lexington, Massachusetts",Lexington,Targeted,5,5,5,5,5,0,5,0,5,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Littleton, Massachusetts",Littleton,Targeted,8,8,8,7,8,0,8,0,8,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Lowell, Massachusetts",Lowell,Targeted,7,10,10,10,13,"1,441",10,"1,441",11,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Malden, Massachusetts",Malden,Targeted,24,25,20,23,26,9,25,9,25,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Marlborough, Massachusetts",Marlborough,Targeted,30,33,30,28,36,37,33,37,33,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Medford, Massachusetts",Medford,Targeted,10,12,12,11,15,58,12,58,13,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Melrose, Massachusetts",Melrose,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Natick, Massachusetts",Natick,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Newton, Massachusetts",Newton,Targeted,5,5,5,4,5,0,5,0,5,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"North Reading, Massachusetts",North Reading,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Pepperell, Massachusetts",Pepperell,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Reading, Massachusetts",Reading,Targeted,12,13,10,12,14,"1,007",13,"1,007",13,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Somerville, Massachusetts",Somerville,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Stoneham, Massachusetts",Stoneham,Targeted,5,7,1,6,9,36,7,36,7,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Sudbury, Massachusetts",Sudbury,Targeted,8,9,9,8,10,30,9,30,9,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Tewksbury, Massachusetts",Tewksbury,Targeted,25,27,14,21,30,65,27,65,27,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Townsend, Massachusetts",Townsend,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Tyngsborough, Massachusetts",Tyngsborough,Targeted,3,3,1,3,3,0,3,0,3,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Wakefield, Massachusetts",Wakefield,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Waltham, Massachusetts",Waltham,Targeted,5,6,5,5,7,914,6,914,6,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Watertown, Massachusetts",Watertown,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Westford, Massachusetts",Westford,Targeted,6,8,6,7,10,33,8,33,9,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Weston, Massachusetts",Weston,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Wilmington, Massachusetts",Wilmington,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Winchester, Massachusetts",Winchester,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2017,Massachusetts,"Middlesex, MA",Middlesex,"Woburn, Massachusetts",Woburn,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Foxborough, Massachusetts",Foxborough,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Franklin, Massachusetts",Franklin,Targeted,5,7,4,6,10,849,7,849,7,EventCity
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Medway, Massachusetts",Medway,Targeted,2,2,0,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Quincy, Massachusetts",Quincy,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Randolph, Massachusetts",Randolph,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2017,Massachusetts,"Norfolk, MA",Norfolk,"Weymouth, Massachusetts",Weymouth,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Plymouth, MA",Plymouth,"Bridgewater, Massachusetts",Bridgewater,Targeted,2,3,1,2,6,29,3,28,3,EventCity
+2017,Massachusetts,"Plymouth, MA",Plymouth,"Brockton, Massachusetts",Brockton,Targeted,0,2,2,2,6,28,2,27,2,EventCity
+2017,Massachusetts,"Suffolk, MA",Suffolk,"Boston, Massachusetts",Boston,Targeted,"1,808","1,943","1,023",229,"2,284","34,101","1,943","34,102","2,029",EventCity
+2017,Massachusetts,"Suffolk, MA",Suffolk,"Revere, Massachusetts",Revere,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Athol, Massachusetts",Athol,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Auburn, Massachusetts",Auburn,Targeted,19,20,9,15,21,66,20,66,20,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Barre, Massachusetts",Barre,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Charlton, Massachusetts",Charlton,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Fitchburg, Massachusetts",Fitchburg,Targeted,10,10,8,9,10,0,10,0,10,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Gardner, Massachusetts",Gardner,Targeted,7,7,7,6,7,0,7,0,7,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Leicester, Massachusetts",Leicester,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Leominster, Massachusetts",Leominster,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Milford, Massachusetts",Milford,Targeted,37,38,24,31,39,1,38,1,38,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Northborough, Massachusetts",Northborough,Targeted,1,2,2,2,3,2,2,2,2,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Oxford, Massachusetts",Oxford,Targeted,14,14,6,11,14,0,14,0,14,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Princeton, Massachusetts",Princeton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Shrewsbury, Massachusetts",Shrewsbury,Targeted,1,2,1,1,3,16,2,16,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Southborough, Massachusetts",Southborough,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Spencer, Massachusetts",Spencer,Targeted,1,2,2,2,3,9,2,9,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Templeton, Massachusetts",Templeton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Upton, Massachusetts",Upton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Uxbridge, Massachusetts",Uxbridge,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Webster, Massachusetts",Webster,Targeted,8,8,5,8,8,0,8,0,8,EventCity
+2017,Massachusetts,"Worcester, MA",Worcester,"Westborough, Massachusetts",Westborough,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Westminster, Massachusetts",Westminster,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Massachusetts,"Worcester, MA",Worcester,"Worcester, Massachusetts",Worcester,Targeted,19,21,18,21,27,682,21,681,22,EventCity
+2017,New Hampshire,"Belknap, NH",Belknap,"Alton, New Hampshire",Alton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Belknap, NH",Belknap,"Gilford, New Hampshire",Gilford,Other,0,1,1,1,2,7,1,7,1,EventCity
+2017,New Hampshire,"Belknap, NH",Belknap,"Laconia, New Hampshire",Laconia,Other,4,4,4,4,4,0,4,0,4,EventCity
+2017,New Hampshire,"Belknap, NH",Belknap,"Meredith, New Hampshire",Meredith,Other,0,1,1,1,2,135,1,135,2,EventCity
+2017,New Hampshire,"Belknap, NH",Belknap,"New Hampton, New Hampshire",New Hampton,Other,2,2,1,2,2,0,2,0,2,EventCity
+2017,New Hampshire,"Carroll, NH",Carroll,"Bartlett, New Hampshire",Bartlett,Other,3,3,3,3,3,0,3,0,3,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Conway, New Hampshire",Conway,Other,29,29,28,27,29,0,29,0,29,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Freedom, New Hampshire",Freedom,Other,8,9,9,9,16,162,9,161,16,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Jackson, New Hampshire",Jackson,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Madison, New Hampshire",Madison,Other,3,4,4,4,12,813,4,813,11,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Moultonborough, New Hampshire",Moultonborough,Other,13,13,12,13,13,0,13,0,13,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Tamworth, New Hampshire",Tamworth,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Wakefield, New Hampshire",Wakefield,Other,2,3,3,3,4,18,3,18,4,No Event
+2017,New Hampshire,"Carroll, NH",Carroll,"Wolfeboro, New Hampshire",Wolfeboro,Other,12,13,12,13,14,116,13,116,13,No Event
+2017,New Hampshire,"Cheshire, NH",Cheshire,"Keene, New Hampshire",Keene,Other,6,6,6,6,6,0,6,0,6,No Event
+2017,New Hampshire,"Cheshire, NH",Cheshire,"Rindge, New Hampshire",Rindge,Other,5,5,3,5,5,0,5,0,5,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Berlin, New Hampshire",Berlin,Other,12,17,14,17,26,792,17,793,20,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Carroll, New Hampshire",Carroll,Other,4,4,3,3,4,0,4,0,4,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Colebrook, New Hampshire",Colebrook,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Gorham, New Hampshire",Gorham,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Lancaster, New Hampshire",Lancaster,Other,9,9,9,9,9,0,9,0,9,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Northumberland, New Hampshire",Northumberland,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Pittsburg, New Hampshire",Pittsburg,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Coos, NH",Coos,"Whitefield, New Hampshire",Whitefield,Other,2,2,2,2,2,0,2,0,2,No Event
+2017,New Hampshire,"Grafton, NH",Grafton,"Bethlehem, New Hampshire",Bethlehem,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Grafton, NH",Grafton,"Hanover, New Hampshire",Hanover,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Grafton, NH",Grafton,"Lyme, New Hampshire",Lyme,Other,6,6,5,5,6,0,6,0,6,No Event
+2017,New Hampshire,"Grafton, NH",Grafton,"Woodstock, New Hampshire",Woodstock,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Bedford, New Hampshire",Bedford,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Brookline, New Hampshire",Brookline,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Goffstown, New Hampshire",Goffstown,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Hudson, New Hampshire",Hudson,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Manchester, New Hampshire",Manchester,Targeted,33,33,28,28,33,0,33,0,33,EventCity
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Merrimack, New Hampshire",Merrimack,Targeted,12,14,14,12,16,2,14,2,14,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Nashua, New Hampshire",Nashua,Targeted,17,18,17,18,21,223,18,223,19,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Pelham, New Hampshire",Pelham,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Peterborough, New Hampshire",Peterborough,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Hillsborough, NH",Hillsborough,"Temple, New Hampshire",Temple,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Merrimack, NH",Merrimack,"Concord, New Hampshire",Concord,Targeted,7,7,5,6,7,0,7,0,7,EventCity
+2017,New Hampshire,"Merrimack, NH",Merrimack,"Epsom, New Hampshire",Epsom,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,New Hampshire,"Merrimack, NH",Merrimack,"Hopkinton, New Hampshire",Hopkinton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Merrimack, NH",Merrimack,"Newbury, New Hampshire",Newbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Merrimack, NH",Merrimack,"Salisbury, New Hampshire",Salisbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Atkinson, New Hampshire",Atkinson,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Deerfield, New Hampshire",Deerfield,Targeted,0,1,1,1,2,0,1,0,1,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Derry, New Hampshire",Derry,Targeted,23,25,22,25,28,22,25,21,26,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Exeter, New Hampshire",Exeter,Targeted,21,27,21,20,37,"1,693",27,"1,692",29,EventCity
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Hampton, New Hampshire",Hampton,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Londonderry, New Hampshire",Londonderry,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Newmarket, New Hampshire",Newmarket,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Northwood, New Hampshire",Northwood,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Portsmouth, New Hampshire",Portsmouth,Targeted,6,8,8,8,10,"1,500",8,"1,500",8,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Raymond, New Hampshire",Raymond,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Salem, New Hampshire",Salem,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2017,New Hampshire,"Rockingham, NH",Rockingham,"Windham, New Hampshire",Windham,Targeted,6,6,6,6,6,0,6,0,6,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Barrington, New Hampshire",Barrington,Targeted,4,5,4,5,6,0,5,0,5,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Dover, New Hampshire",Dover,Targeted,38,38,29,35,38,0,38,0,38,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Durham, New Hampshire",Durham,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2017,New Hampshire,"Strafford, NH",Strafford,"Farmington, New Hampshire",Farmington,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Milton, New Hampshire",Milton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Rochester, New Hampshire",Rochester,Targeted,10,11,10,10,12,7,11,7,12,No Event
+2017,New Hampshire,"Strafford, NH",Strafford,"Somersworth, New Hampshire",Somersworth,Targeted,1,2,2,2,3,4,2,4,2,No Event
+2017,New Hampshire,"Sullivan, NH",Sullivan,"Claremont, New Hampshire",Claremont,Other,6,6,2,6,6,0,6,0,6,No Event
+2017,New Hampshire,"Sullivan, NH",Sullivan,"Sunapee, New Hampshire",Sunapee,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Bristol, RI",Bristol,"Barrington, Rhode Island",Barrington,Targeted,20,20,16,17,20,0,20,0,20,No Event
+2017,Rhode Island,"Bristol, RI",Bristol,"Bristol, Rhode Island",Bristol,Targeted,12,12,10,7,12,0,12,0,12,EventCity
+2017,Rhode Island,"Kent, RI",Kent,"Coventry, Rhode Island",Coventry,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Kent, RI",Kent,"East Greenwich, Rhode Island",East Greenwich,Targeted,4,4,3,4,4,0,4,0,4,No Event
+2017,Rhode Island,"Kent, RI",Kent,"Warwick, Rhode Island",Warwick,Targeted,32,34,18,27,36,"1,425",34,"1,425",34,EventCity
+2017,Rhode Island,"Kent, RI",Kent,"West Warwick, Rhode Island",West Warwick,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Newport, RI",Newport,"Newport, Rhode Island",Newport,Other,1,1,0,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Burrillville, Rhode Island",Burrillville,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Cranston, Rhode Island",Cranston,Targeted,96,97,42,52,98,"1,049",97,"1,049",97,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Cumberland, Rhode Island",Cumberland,Targeted,3,4,3,4,8,456,4,455,7,No Event
+2017,Rhode Island,"Providence, RI",Providence,"East Providence, Rhode Island",East Providence,Targeted,16,16,15,13,16,0,16,0,16,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Johnston, Rhode Island",Johnston,Targeted,6,6,3,6,6,0,6,0,6,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Lincoln, Rhode Island",Lincoln,Targeted,4,5,4,5,7,9,5,9,7,No Event
+2017,Rhode Island,"Providence, RI",Providence,"North Providence, Rhode Island",North Providence,Targeted,24,27,12,21,30,908,27,908,29,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Pawtucket, Rhode Island",Pawtucket,Targeted,30,34,13,29,39,"2,876",34,"2,876",36,EventCity
+2017,Rhode Island,"Providence, RI",Providence,"Providence, Rhode Island",Providence,Targeted,592,643,342,85,719,"22,239",643,"22,237",662,EventCity
+2017,Rhode Island,"Providence, RI",Providence,"Smithfield, Rhode Island",Smithfield,Targeted,7,8,4,7,9,49,8,49,8,No Event
+2017,Rhode Island,"Providence, RI",Providence,"Woonsocket, Rhode Island",Woonsocket,Targeted,11,12,9,8,13,100,12,100,13,No Event
+2017,Rhode Island,"Washington, RI",Washington,"Narragansett, Rhode Island",Narragansett,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2017,Rhode Island,"Washington, RI",Washington,"North Kingstown, Rhode Island",North Kingstown,Targeted,3,3,2,2,3,0,3,0,3,No Event
+2017,Rhode Island,"Washington, RI",Washington,"South Kingstown, Rhode Island",South Kingstown,Targeted,6,6,6,5,6,0,6,0,6,No Event
+2017,Vermont,"Caledonia, VT",Caledonia,"Lyndon, Vermont",Lyndon,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Vermont,"Caledonia, VT",Caledonia,"Saint Johnsbury, Vermont",Saint Johnsbury,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Burlington, Vermont",Burlington,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Charlotte, Vermont",Charlotte,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Colchester, Vermont",Colchester,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Vermont,"Chittenden, VT",Chittenden,"Essex, Vermont",Essex,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Hinesburg, Vermont",Hinesburg,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Jericho, Vermont",Jericho,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Shelburne, Vermont",Shelburne,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"South Burlington, Vermont",South Burlington,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2017,Vermont,"Chittenden, VT",Chittenden,"Williston, Vermont",Williston,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Grand Isle, VT",Grand Isle,"Alburgh, Vermont",Alburgh,Other,1,1,0,1,1,0,1,0,1,No Event
+2017,Vermont,"Lamouille, VT",Lamouille,"Stowe, Vermont",Stowe,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2017,Vermont,"Orleans, VT",Orleans,"Jay, Vermont",Jay,Targeted,0,1,1,1,3,234,1,233,1,No Event
+2017,Vermont,"Rutland, VT",Rutland,"Danby, Vermont",Danby,Other,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Rutland, VT",Rutland,"Rutland, Vermont",Rutland,Other,2,2,2,2,2,0,2,0,2,No Event
+2017,Vermont,"Washington, VT",Washington,"Barre, Vermont",Barre,Targeted,5,5,4,5,5,0,5,0,5,EventCity
+2017,Vermont,"Washington, VT",Washington,"Warren, Vermont",Warren,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Windham, VT",Windham,"Townshend, Vermont",Townshend,Other,3,3,2,3,3,0,3,0,3,No Event
+2017,Vermont,"Windsor, VT",Windsor,"Chester, Vermont",Chester,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2017,Vermont,"Windsor, VT",Windsor,"Weathersfield, Vermont",Weathersfield,Targeted,0,1,1,1,2,130,1,130,1,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Bridgeport, Connecticut",Bridgeport,Targeted,108,119,82,92,143,"5,180",119,"5,182",122,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Danbury, Connecticut",Danbury,Targeted,9,10,9,9,11,4,10,4,10,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Fairfield, Connecticut",Fairfield,Targeted,35,36,32,31,37,2,36,2,36,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Greenwich, Connecticut",Greenwich,Targeted,4,5,4,5,6,59,5,59,6,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Monroe, Connecticut",Monroe,Targeted,2,3,3,3,4,17,3,17,3,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"New Canaan, Connecticut",New Canaan,Targeted,5,5,3,5,5,0,5,0,5,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Newtown, Connecticut",Newtown,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Norwalk, Connecticut",Norwalk,Targeted,41,46,26,40,51,995,46,995,46,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Redding, Connecticut",Redding,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Ridgefield, Connecticut",Ridgefield,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Shelton, Connecticut",Shelton,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Stamford, Connecticut",Stamford,Targeted,16,19,13,18,23,"1,510",19,"1,510",19,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Stratford, Connecticut",Stratford,Targeted,49,51,37,43,53,30,51,30,51,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Trumbull, Connecticut",Trumbull,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Fairfield, CT",Fairfield,"Westport, Connecticut",Westport,Targeted,21,22,17,22,23,4,22,4,22,No Event
+2018,Connecticut,"Fairfield, CT",Fairfield,"Wilton, Connecticut",Wilton,Targeted,4,4,2,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Avon, Connecticut",Avon,Targeted,7,7,7,7,7,0,7,0,7,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"Berlin, Connecticut",Berlin,Targeted,5,5,4,5,5,0,5,0,5,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Bloomfield, Connecticut",Bloomfield,Targeted,15,15,13,14,15,0,15,0,15,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Bristol, Connecticut",Bristol,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"East Hartford, Connecticut",East Hartford,Targeted,51,55,43,49,60,11,55,11,55,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"East Windsor, Connecticut",East Windsor,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"Enfield, Connecticut",Enfield,Targeted,6,6,5,6,6,0,6,0,6,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Farmington, Connecticut",Farmington,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Glastonbury, Connecticut",Glastonbury,Targeted,12,12,8,10,12,0,12,0,12,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Granby, Connecticut",Granby,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Hartford, Connecticut",Hartford,Targeted,135,142,113,108,150,934,142,934,143,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Manchester, Connecticut",Manchester,Targeted,19,21,15,19,23,"1,100",21,"1,100",21,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"New Britain, Connecticut",New Britain,Targeted,33,38,23,31,45,"2,115",38,"2,115",38,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Newington, Connecticut",Newington,Targeted,7,7,6,7,7,0,7,0,7,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Plainville, Connecticut",Plainville,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Rocky Hill, Connecticut",Rocky Hill,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"Simsbury, Connecticut",Simsbury,Targeted,4,5,5,4,6,131,5,131,6,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"South Windsor, Connecticut",South Windsor,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Southington, Connecticut",Southington,Targeted,3,4,4,4,7,40,4,40,7,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Suffield, Connecticut",Suffield,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"West Hartford, Connecticut",West Hartford,Targeted,24,26,21,21,30,213,26,213,27,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Wethersfield, Connecticut",Wethersfield,Targeted,9,9,6,8,9,0,9,0,9,No Event
+2018,Connecticut,"Hartford, CT",Hartford,"Windsor Locks, Connecticut",Windsor Locks,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2018,Connecticut,"Hartford, CT",Hartford,"Windsor, Connecticut",Windsor,Targeted,11,11,8,10,11,0,11,0,11,EventCity
+2018,Connecticut,"Litchfield, CT",Litchfield,"Goshen, Connecticut",Goshen,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Litchfield, Connecticut",Litchfield,Targeted,5,5,5,3,5,0,5,0,5,EventCity
+2018,Connecticut,"Litchfield, CT",Litchfield,"New Milford, Connecticut",New Milford,Targeted,5,6,6,6,10,99,6,98,7,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Salisbury, Connecticut",Salisbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Sharon, Connecticut",Sharon,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Torrington, Connecticut",Torrington,Targeted,6,7,7,7,9,461,7,461,8,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Watertown, Connecticut",Watertown,Targeted,4,5,5,4,7,12,5,12,5,No Event
+2018,Connecticut,"Litchfield, CT",Litchfield,"Winchester, Connecticut",Winchester,Targeted,6,8,7,8,11,80,8,80,9,No Event
+2018,Connecticut,"Middlesex, CT",Middlesex,"East Hampton, Connecticut",East Hampton,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Middlesex, CT",Middlesex,"Middletown, Connecticut",Middletown,Other,5,6,5,6,7,11,6,11,6,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Ansonia, Connecticut",Ansonia,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"Branford, Connecticut",Branford,Targeted,15,16,7,14,17,598,16,598,16,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Cheshire, Connecticut",Cheshire,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"Derby, Connecticut",Derby,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"East Haven, Connecticut",East Haven,Targeted,21,21,15,19,21,0,21,0,21,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Guilford, Connecticut",Guilford,Targeted,1,1,0,1,1,0,1,0,1,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"Hamden, Connecticut",Hamden,Targeted,23,24,19,20,25,2,24,2,24,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"Madison, Connecticut",Madison,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Meriden, Connecticut",Meriden,Targeted,4,5,5,5,10,254,5,255,6,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Middlebury, Connecticut",Middlebury,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Milford, Connecticut",Milford,Targeted,11,11,10,10,11,0,11,0,11,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Naugatuck, Connecticut",Naugatuck,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"New Haven, Connecticut",New Haven,Targeted,197,205,146,129,216,"3,582",205,"3,581",208,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"North Branford, Connecticut",North Branford,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"North Haven, Connecticut",North Haven,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Orange, Connecticut",Orange,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Oxford, Connecticut",Oxford,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Seymour, Connecticut",Seymour,Targeted,10,10,9,7,10,0,10,0,10,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Southbury, Connecticut",Southbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Wallingford, Connecticut",Wallingford,Targeted,6,8,8,8,10,579,8,579,9,No Event
+2018,Connecticut,"New Haven, CT",New Haven,"Waterbury, Connecticut",Waterbury,Targeted,15,15,14,13,15,0,15,0,15,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"West Haven, Connecticut",West Haven,Targeted,34,34,31,32,34,0,34,0,34,EventCity
+2018,Connecticut,"New Haven, CT",New Haven,"Woodbridge, Connecticut",Woodbridge,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2018,Connecticut,"New London, CT",New London,"East Lyme, Connecticut",East Lyme,Targeted,5,6,6,6,7,1,6,1,6,EventCity
+2018,Connecticut,"New London, CT",New London,"Griswold, Connecticut",Griswold,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Connecticut,"New London, CT",New London,"Groton, Connecticut",Groton,Targeted,12,14,12,14,19,363,14,363,16,No Event
+2018,Connecticut,"New London, CT",New London,"Ledyard, Connecticut",Ledyard,Targeted,4,4,3,4,4,0,4,0,4,EventCity
+2018,Connecticut,"New London, CT",New London,"Montville, Connecticut",Montville,Targeted,6,7,6,7,8,0,7,0,7,No Event
+2018,Connecticut,"New London, CT",New London,"New London, Connecticut",New London,Targeted,12,12,10,10,12,0,12,0,12,No Event
+2018,Connecticut,"New London, CT",New London,"Norwich, Connecticut",Norwich,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,Connecticut,"New London, CT",New London,"Waterford, Connecticut",Waterford,Targeted,13,13,6,13,13,0,13,0,13,EventCity
+2018,Connecticut,"Tolland, CT",Tolland,"Coventry, Connecticut",Coventry,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Connecticut,"Tolland, CT",Tolland,"Mansfield, Connecticut",Mansfield,Targeted,11,11,11,11,11,0,11,0,11,No Event
+2018,Connecticut,"Tolland, CT",Tolland,"Stafford, Connecticut",Stafford,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Connecticut,"Tolland, CT",Tolland,"Tolland, Connecticut",Tolland,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Connecticut,"Tolland, CT",Tolland,"Vernon, Connecticut",Vernon,Targeted,16,16,14,16,16,0,16,0,16,EventCity
+2018,Connecticut,"Tolland, CT",Tolland,"Willington, Connecticut",Willington,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Barnstable, Massachusetts",Barnstable,Targeted,12,14,9,11,16,548,14,548,14,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Bourne, Massachusetts",Bourne,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Brewster, Massachusetts",Brewster,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Chatham, Massachusetts",Chatham,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Dennis, Massachusetts",Dennis,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Falmouth, Massachusetts",Falmouth,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Mashpee, Massachusetts",Mashpee,Targeted,2,4,4,4,7,737,4,737,5,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Sandwich, Massachusetts",Sandwich,Targeted,5,5,5,4,5,0,5,0,5,No Event
+2018,Massachusetts,"Barnstable, MA",Barnstable,"Yarmouth, Massachusetts",Yarmouth,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Berkshire, MA",Berkshire,"Lee, Massachusetts",Lee,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Berkshire, MA",Berkshire,"Lenox, Massachusetts",Lenox,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Berkshire, MA",Berkshire,"Pittsfield, Massachusetts",Pittsfield,Other,4,4,4,4,4,0,4,0,4,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"Attleboro, Massachusetts",Attleboro,Targeted,23,24,22,20,26,345,24,345,24,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"Berkley, Massachusetts",Berkley,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Dartmouth, Massachusetts",Dartmouth,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"Easton, Massachusetts",Easton,Targeted,9,9,9,9,9,0,9,0,9,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Fall River, Massachusetts",Fall River,Targeted,40,41,33,38,42,7,41,7,41,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"Mansfield, Massachusetts",Mansfield,Targeted,13,13,8,10,13,0,13,0,13,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"New Bedford, Massachusetts",New Bedford,Targeted,7,9,8,9,11,29,9,29,10,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"North Attleborough, Massachusetts",North Attleborough,Targeted,3,4,4,4,5,12,4,12,4,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Norton, Massachusetts",Norton,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Massachusetts,"Bristol, MA",Bristol,"Raynham, Massachusetts",Raynham,Targeted,7,7,2,6,7,0,7,0,7,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Rehoboth, Massachusetts",Rehoboth,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Seekonk, Massachusetts",Seekonk,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Bristol, MA",Bristol,"Taunton, Massachusetts",Taunton,Targeted,7,7,6,7,7,0,7,0,7,EventCity
+2018,Massachusetts,"Dukes, MA",Dukes,"Edgartown, Massachusetts",Edgartown,Other,2,2,0,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Amesbury, Massachusetts",Amesbury,Targeted,7,7,6,6,7,0,7,0,7,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Andover, Massachusetts",Andover,Targeted,14,15,15,15,16,458,15,458,15,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Beverly, Massachusetts",Beverly,Targeted,6,8,8,8,11,130,8,129,8,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Boxford, Massachusetts",Boxford,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Danvers, Massachusetts",Danvers,Targeted,3,4,4,4,5,1,4,1,4,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Georgetown, Massachusetts",Georgetown,Targeted,1,2,2,2,4,33,2,32,2,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Gloucester, Massachusetts",Gloucester,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Hamilton, Massachusetts",Hamilton,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Haverhill, Massachusetts",Haverhill,Targeted,28,28,26,26,28,0,28,0,28,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Ipswich, Massachusetts",Ipswich,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Lawrence, Massachusetts",Lawrence,Targeted,43,44,41,39,48,429,44,429,48,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Lynn, Massachusetts",Lynn,Targeted,30,32,30,28,34,54,32,54,33,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Lynnfield, Massachusetts",Lynnfield,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Marblehead, Massachusetts",Marblehead,Targeted,3,3,2,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Methuen, Massachusetts",Methuen,Targeted,29,30,28,28,31,2,30,2,30,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Newbury, Massachusetts",Newbury,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Newburyport, Massachusetts",Newburyport,Targeted,13,13,13,12,13,0,13,0,13,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"North Andover, Massachusetts",North Andover,Targeted,7,8,8,8,9,2,8,2,8,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Peabody, Massachusetts",Peabody,Targeted,6,7,7,7,8,0,7,0,7,EventCity
+2018,Massachusetts,"Essex, MA",Essex,"Rockport, Massachusetts",Rockport,Targeted,10,11,6,10,21,139,11,137,11,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Rowley, Massachusetts",Rowley,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Salem, Massachusetts",Salem,Targeted,12,12,12,11,12,0,12,0,12,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Saugus, Massachusetts",Saugus,Targeted,17,17,14,16,17,0,17,0,17,No Event
+2018,Massachusetts,"Essex, MA",Essex,"Swampscott, Massachusetts",Swampscott,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Franklin, MA",Franklin,"Deerfield, Massachusetts",Deerfield,Other,5,5,5,5,5,0,5,0,5,No Event
+2018,Massachusetts,"Franklin, MA",Franklin,"Sunderland, Massachusetts",Sunderland,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Hampden, MA",Hampden,"Agawam, Massachusetts",Agawam,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Chicopee, Massachusetts",Chicopee,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"East Longmeadow, Massachusetts",East Longmeadow,Targeted,3,4,3,4,5,12,4,12,5,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Hampden, Massachusetts",Hampden,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Hampden, MA",Hampden,"Holyoke, Massachusetts",Holyoke,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Massachusetts,"Hampden, MA",Hampden,"Longmeadow, Massachusetts",Longmeadow,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Ludlow, Massachusetts",Ludlow,Targeted,5,5,4,5,5,0,5,0,5,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Monson, Massachusetts",Monson,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Hampden, MA",Hampden,"Palmer, Massachusetts",Palmer,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Springfield, Massachusetts",Springfield,Targeted,35,37,35,28,40,103,37,103,38,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"West Springfield, Massachusetts",West Springfield,Targeted,7,7,6,5,7,0,7,0,7,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Westfield, Massachusetts",Westfield,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Hampden, MA",Hampden,"Wilbraham, Massachusetts",Wilbraham,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Amherst, Massachusetts",Amherst,Other,10,10,10,10,10,0,10,0,10,No Event
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Belchertown, Massachusetts",Belchertown,Other,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Easthampton, Massachusetts",Easthampton,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Hadley, Massachusetts",Hadley,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Northampton, Massachusetts",Northampton,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Hampshire, MA",Hampshire,"South Hadley, Massachusetts",South Hadley,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Hampshire, MA",Hampshire,"Southampton, Massachusetts",Southampton,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Acton, Massachusetts",Acton,Targeted,11,11,11,11,11,0,11,0,11,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Arlington, Massachusetts",Arlington,Targeted,9,9,8,8,9,0,9,0,9,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Ashland, Massachusetts",Ashland,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Ayer, Massachusetts",Ayer,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Bedford, Massachusetts",Bedford,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Belmont, Massachusetts",Belmont,Targeted,9,9,9,8,9,0,9,0,9,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Billerica, Massachusetts",Billerica,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Burlington, Massachusetts",Burlington,Targeted,7,7,7,7,7,0,7,0,7,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Cambridge, Massachusetts",Cambridge,Targeted,29,30,30,28,31,116,30,116,31,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Chelmsford, Massachusetts",Chelmsford,Targeted,14,16,14,16,18,48,16,48,17,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Concord, Massachusetts",Concord,Targeted,16,17,13,16,18,0,17,0,17,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Dracut, Massachusetts",Dracut,Targeted,12,14,13,14,19,146,14,146,14,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Everett, Massachusetts",Everett,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Framingham, Massachusetts",Framingham,Targeted,36,38,34,34,40,"1,007",38,"1,007",38,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Groton, Massachusetts",Groton,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Holliston, Massachusetts",Holliston,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Hopkinton, Massachusetts",Hopkinton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Hudson, Massachusetts",Hudson,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Lexington, Massachusetts",Lexington,Targeted,10,10,9,10,10,0,10,0,10,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Littleton, Massachusetts",Littleton,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Lowell, Massachusetts",Lowell,Targeted,99,107,64,86,117,"1,281",107,"1,281",108,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Malden, Massachusetts",Malden,Targeted,46,46,32,37,46,0,46,0,46,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Marlborough, Massachusetts",Marlborough,Targeted,25,29,25,28,39,516,29,516,33,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Maynard, Massachusetts",Maynard,Targeted,6,6,6,6,6,0,6,0,6,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Medford, Massachusetts",Medford,Targeted,26,27,23,22,30,216,27,217,27,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Melrose, Massachusetts",Melrose,Targeted,13,15,12,13,17,141,15,141,15,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Natick, Massachusetts",Natick,Targeted,11,11,10,9,11,0,11,0,11,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Newton, Massachusetts",Newton,Targeted,36,36,28,30,36,0,36,0,36,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"North Reading, Massachusetts",North Reading,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Pepperell, Massachusetts",Pepperell,Targeted,4,4,4,3,4,0,4,0,4,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Reading, Massachusetts",Reading,Targeted,5,6,6,5,7,0,6,0,6,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Sherborn, Massachusetts",Sherborn,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Somerville, Massachusetts",Somerville,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Stoneham, Massachusetts",Stoneham,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Stow, Massachusetts",Stow,Targeted,3,4,4,3,5,0,4,0,4,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Sudbury, Massachusetts",Sudbury,Targeted,11,11,8,11,11,0,11,0,11,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Tewksbury, Massachusetts",Tewksbury,Targeted,11,11,10,11,11,0,11,0,11,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Tyngsborough, Massachusetts",Tyngsborough,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Wakefield, Massachusetts",Wakefield,Targeted,9,10,10,9,12,114,10,114,11,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Waltham, Massachusetts",Waltham,Targeted,34,36,29,32,40,"1,490",36,"1,490",38,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Watertown, Massachusetts",Watertown,Targeted,5,5,5,5,5,0,5,0,5,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Wayland, Massachusetts",Wayland,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Westford, Massachusetts",Westford,Targeted,16,16,15,16,16,0,16,0,16,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Weston, Massachusetts",Weston,Targeted,7,8,5,8,9,7,8,7,8,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Wilmington, Massachusetts",Wilmington,Targeted,7,8,7,7,9,801,8,801,8,EventCity
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Winchester, Massachusetts",Winchester,Targeted,9,9,9,9,9,0,9,0,9,No Event
+2018,Massachusetts,"Middlesex, MA",Middlesex,"Woburn, Massachusetts",Woburn,Targeted,15,15,13,14,15,0,15,0,15,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Braintree, Massachusetts",Braintree,Targeted,4,9,4,7,15,27,9,28,9,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Dedham, Massachusetts",Dedham,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Foxborough, Massachusetts",Foxborough,Targeted,9,10,8,10,11,"1,783",10,"1,783",10,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Franklin, Massachusetts",Franklin,Targeted,13,15,15,14,21,77,15,78,19,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Medway, Massachusetts",Medway,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Millis, Massachusetts",Millis,Targeted,4,4,2,3,4,0,4,0,4,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Milton, Massachusetts",Milton,Targeted,8,9,9,9,18,"1,934",9,"1,934",12,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Needham, Massachusetts",Needham,Targeted,8,8,8,8,8,0,8,0,8,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Norwood, Massachusetts",Norwood,Targeted,10,11,11,11,13,86,11,85,12,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Quincy, Massachusetts",Quincy,Targeted,26,27,22,25,29,13,27,13,27,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Randolph, Massachusetts",Randolph,Targeted,7,7,7,7,7,0,7,0,7,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Sharon, Massachusetts",Sharon,Targeted,8,9,8,9,10,2,9,2,9,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Stoughton, Massachusetts",Stoughton,Targeted,7,7,7,5,7,0,7,0,7,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Walpole, Massachusetts",Walpole,Targeted,7,7,7,7,7,0,7,0,7,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Wellesley, Massachusetts",Wellesley,Targeted,9,9,8,9,9,0,9,0,9,No Event
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Westwood, Massachusetts",Westwood,Targeted,1,2,1,1,4,18,2,19,2,EventCity
+2018,Massachusetts,"Norfolk, MA",Norfolk,"Weymouth, Massachusetts",Weymouth,Targeted,11,11,11,9,11,0,11,0,11,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Abington, Massachusetts",Abington,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Bridgewater, Massachusetts",Bridgewater,Targeted,8,9,9,9,10,3,9,3,9,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Brockton, Massachusetts",Brockton,Targeted,49,54,45,42,93,"16,989",54,"16,987",54,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Carver, Massachusetts",Carver,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Duxbury, Massachusetts",Duxbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Hingham, Massachusetts",Hingham,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Kingston, Massachusetts",Kingston,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Lakeville, Massachusetts",Lakeville,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Marion, Massachusetts",Marion,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Marshfield, Massachusetts",Marshfield,Targeted,6,6,4,5,6,0,6,0,6,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Middleborough, Massachusetts",Middleborough,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Norwell, Massachusetts",Norwell,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Pembroke, Massachusetts",Pembroke,Targeted,5,6,6,6,7,12,6,12,6,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Plymouth, Massachusetts",Plymouth,Targeted,15,15,14,14,15,0,15,0,15,EventCity
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Rockland, Massachusetts",Rockland,Targeted,5,6,5,5,7,3,6,3,6,No Event
+2018,Massachusetts,"Plymouth, MA",Plymouth,"Scituate, Massachusetts",Scituate,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Suffolk, MA",Suffolk,"Boston, Massachusetts",Boston,Targeted,"1,406","1,518","1,053",522,"1,740","32,684","1,518","32,682","1,576",EventCity
+2018,Massachusetts,"Suffolk, MA",Suffolk,"Brookline, Massachusetts",Brookline,Targeted,12,12,12,12,12,0,12,0,12,No Event
+2018,Massachusetts,"Suffolk, MA",Suffolk,"Chelsea, Massachusetts",Chelsea,Targeted,12,12,8,12,12,0,12,0,12,No Event
+2018,Massachusetts,"Suffolk, MA",Suffolk,"Revere, Massachusetts",Revere,Targeted,25,25,20,22,25,0,25,0,25,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Athol, Massachusetts",Athol,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Auburn, Massachusetts",Auburn,Targeted,11,11,2,7,11,0,11,0,11,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Barre, Massachusetts",Barre,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Berlin, Massachusetts",Berlin,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Blackstone, Massachusetts",Blackstone,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Charlton, Massachusetts",Charlton,Targeted,3,3,3,2,3,0,3,0,3,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Clinton, Massachusetts",Clinton,Targeted,6,6,3,6,6,0,6,0,6,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Fitchburg, Massachusetts",Fitchburg,Targeted,9,9,9,8,9,0,9,0,9,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Grafton, Massachusetts",Grafton,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Harvard, Massachusetts",Harvard,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Holden, Massachusetts",Holden,Targeted,10,10,10,9,10,0,10,0,10,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Leicester, Massachusetts",Leicester,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Leominster, Massachusetts",Leominster,Targeted,16,16,16,15,16,0,16,0,16,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Lunenburg, Massachusetts",Lunenburg,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Milford, Massachusetts",Milford,Targeted,11,11,11,11,11,0,11,0,11,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"North Brookfield, Massachusetts",North Brookfield,Targeted,0,2,2,2,10,256,2,255,6,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Northborough, Massachusetts",Northborough,Targeted,6,7,6,6,8,237,7,237,7,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Northbridge, Massachusetts",Northbridge,Targeted,5,5,3,4,5,0,5,0,5,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Oxford, Massachusetts",Oxford,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Paxton, Massachusetts",Paxton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Shrewsbury, Massachusetts",Shrewsbury,Targeted,9,9,8,9,9,0,9,0,9,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Southbridge, Massachusetts",Southbridge,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Spencer, Massachusetts",Spencer,Targeted,2,3,3,2,4,1,3,1,3,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Sterling, Massachusetts",Sterling,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Sturbridge, Massachusetts",Sturbridge,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Sutton, Massachusetts",Sutton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Upton, Massachusetts",Upton,Targeted,2,3,3,3,5,77,3,77,5,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Uxbridge, Massachusetts",Uxbridge,Targeted,3,3,3,3,3,0,3,0,3,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"West Boylston, Massachusetts",West Boylston,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Westborough, Massachusetts",Westborough,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Massachusetts,"Worcester, MA",Worcester,"Winchendon, Massachusetts",Winchendon,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Massachusetts,"Worcester, MA",Worcester,"Worcester, Massachusetts",Worcester,Targeted,113,124,99,95,158,"2,832",124,"2,831",132,EventCity
+2018,New Hampshire,"Belknap, NH",Belknap,"Barnstead, New Hampshire",Barnstead,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Belknap, NH",Belknap,"Belmont, New Hampshire",Belmont,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,New Hampshire,"Belknap, NH",Belknap,"Gilford, New Hampshire",Gilford,Other,1,2,2,2,3,1,2,1,3,EventCity
+2018,New Hampshire,"Belknap, NH",Belknap,"Laconia, New Hampshire",Laconia,Other,7,8,7,8,9,4,8,4,8,EventCity
+2018,New Hampshire,"Belknap, NH",Belknap,"Meredith, New Hampshire",Meredith,Other,1,1,1,1,1,0,1,0,1,EventCity
+2018,New Hampshire,"Belknap, NH",Belknap,"Tilton, New Hampshire",Tilton,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,New Hampshire,"Carroll, NH",Carroll,"Bartlett, New Hampshire",Bartlett,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Conway, New Hampshire",Conway,Other,15,15,14,14,15,0,15,0,15,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Freedom, New Hampshire",Freedom,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Madison, New Hampshire",Madison,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Moultonborough, New Hampshire",Moultonborough,Other,5,6,6,6,7,51,6,51,6,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Tamworth, New Hampshire",Tamworth,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Wakefield, New Hampshire",Wakefield,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Carroll, NH",Carroll,"Wolfeboro, New Hampshire",Wolfeboro,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Cheshire, NH",Cheshire,"Fitzwilliam, New Hampshire",Fitzwilliam,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Cheshire, NH",Cheshire,"Keene, New Hampshire",Keene,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Cheshire, NH",Cheshire,"Rindge, New Hampshire",Rindge,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Cheshire, NH",Cheshire,"Stoddard, New Hampshire",Stoddard,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Cheshire, NH",Cheshire,"Walpole, New Hampshire",Walpole,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Coos, NH",Coos,"Berlin, New Hampshire",Berlin,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Coos, NH",Coos,"Colebrook, New Hampshire",Colebrook,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Coos, NH",Coos,"Gorham, New Hampshire",Gorham,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Coos, NH",Coos,"Northumberland, New Hampshire",Northumberland,Other,2,3,2,2,6,17,3,16,4,No Event
+2018,New Hampshire,"Grafton, NH",Grafton,"Bristol, New Hampshire",Bristol,Other,1,1,1,1,1,0,1,0,1,EventCity
+2018,New Hampshire,"Grafton, NH",Grafton,"Holderness, New Hampshire",Holderness,Other,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Grafton, NH",Grafton,"Lebanon, New Hampshire",Lebanon,Other,7,9,3,7,13,"1,731",9,"1,731",10,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Amherst, New Hampshire",Amherst,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Bedford, New Hampshire",Bedford,Targeted,7,7,7,6,7,0,7,0,7,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Goffstown, New Hampshire",Goffstown,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Greenville, New Hampshire",Greenville,Targeted,2,2,1,1,2,0,2,0,2,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Hollis, New Hampshire",Hollis,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Hudson, New Hampshire",Hudson,Targeted,13,13,12,13,13,0,13,0,13,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Manchester, New Hampshire",Manchester,Targeted,27,30,30,27,34,135,30,135,32,EventCity
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Merrimack, New Hampshire",Merrimack,Targeted,9,10,10,10,11,0,10,0,10,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Milford, New Hampshire",Milford,Targeted,13,13,11,12,13,0,13,0,13,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Nashua, New Hampshire",Nashua,Targeted,35,37,33,35,41,460,37,460,38,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"New Boston, New Hampshire",New Boston,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Pelham, New Hampshire",Pelham,Targeted,4,5,5,5,7,902,5,903,5,No Event
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Weare, New Hampshire",Weare,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,New Hampshire,"Hillsborough, NH",Hillsborough,"Wilton, New Hampshire",Wilton,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Bow, New Hampshire",Bow,Targeted,2,2,1,2,2,0,2,0,2,EventCity
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Concord, New Hampshire",Concord,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Epsom, New Hampshire",Epsom,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Franklin, New Hampshire",Franklin,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Hooksett, New Hampshire",Hooksett,Targeted,1,1,1,1,1,0,1,0,1,EventCity
+2018,New Hampshire,"Merrimack, NH",Merrimack,"Loudon, New Hampshire",Loudon,Targeted,2,2,1,1,2,0,2,0,2,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Atkinson, New Hampshire",Atkinson,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Candia, New Hampshire",Candia,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Danville, New Hampshire",Danville,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Deerfield, New Hampshire",Deerfield,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Derry, New Hampshire",Derry,Targeted,12,13,13,13,14,561,13,561,13,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Exeter, New Hampshire",Exeter,Targeted,13,14,14,14,19,154,14,153,19,EventCity
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Hampstead, New Hampshire",Hampstead,Targeted,3,3,3,3,3,0,3,0,3,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Hampton, New Hampshire",Hampton,Targeted,6,6,5,6,6,0,6,0,6,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Kingston, New Hampshire",Kingston,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Londonderry, New Hampshire",Londonderry,Targeted,18,18,15,15,18,0,18,0,18,EventCity
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Newmarket, New Hampshire",Newmarket,Targeted,8,8,3,8,8,0,8,0,8,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Newton, New Hampshire",Newton,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Portsmouth, New Hampshire",Portsmouth,Targeted,19,21,19,21,23,95,21,95,22,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Raymond, New Hampshire",Raymond,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Salem, New Hampshire",Salem,Targeted,7,8,8,8,9,11,8,11,9,EventCity
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Stratham, New Hampshire",Stratham,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Rockingham, NH",Rockingham,"Windham, New Hampshire",Windham,Targeted,5,5,5,5,5,0,5,0,5,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"Barrington, New Hampshire",Barrington,Targeted,16,18,12,18,20,893,18,893,18,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"Dover, New Hampshire",Dover,Targeted,24,25,25,23,26,3,25,3,25,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"Durham, New Hampshire",Durham,Targeted,9,9,9,8,9,0,9,0,9,EventCity
+2018,New Hampshire,"Strafford, NH",Strafford,"Farmington, New Hampshire",Farmington,Targeted,5,5,4,4,5,0,5,0,5,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"New Durham, New Hampshire",New Durham,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"Rochester, New Hampshire",Rochester,Targeted,20,22,15,21,24,46,22,46,22,No Event
+2018,New Hampshire,"Strafford, NH",Strafford,"Strafford, New Hampshire",Strafford,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,New Hampshire,"Sullivan, NH",Sullivan,"Claremont, New Hampshire",Claremont,Other,3,4,4,4,6,167,4,168,5,No Event
+2018,New Hampshire,"Sullivan, NH",Sullivan,"Sunapee, New Hampshire",Sunapee,Other,1,2,1,2,7,"1,314",2,"1,314",2,No Event
+2018,Rhode Island,"Bristol, RI",Bristol,"Barrington, Rhode Island",Barrington,Targeted,14,15,14,13,16,0,15,0,15,No Event
+2018,Rhode Island,"Bristol, RI",Bristol,"Bristol, Rhode Island",Bristol,Targeted,4,4,4,4,4,0,4,0,4,EventCity
+2018,Rhode Island,"Bristol, RI",Bristol,"Warren, Rhode Island",Warren,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2018,Rhode Island,"Kent, RI",Kent,"Coventry, Rhode Island",Coventry,Targeted,14,16,10,15,18,1,16,1,16,No Event
+2018,Rhode Island,"Kent, RI",Kent,"East Greenwich, Rhode Island",East Greenwich,Targeted,3,4,4,4,5,3,4,3,4,No Event
+2018,Rhode Island,"Kent, RI",Kent,"Warwick, Rhode Island",Warwick,Targeted,36,37,32,34,38,73,37,73,37,EventCity
+2018,Rhode Island,"Kent, RI",Kent,"West Warwick, Rhode Island",West Warwick,Targeted,2,3,3,3,4,"1,054",3,"1,054",3,No Event
+2018,Rhode Island,"Newport, RI",Newport,"Middletown, Rhode Island",Middletown,Other,3,3,3,3,3,0,3,0,3,No Event
+2018,Rhode Island,"Newport, RI",Newport,"Portsmouth, Rhode Island",Portsmouth,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Rhode Island,"Newport, RI",Newport,"Tiverton, Rhode Island",Tiverton,Other,5,5,3,5,5,0,5,0,5,EventCity
+2018,Rhode Island,"Providence, RI",Providence,"Burrillville, Rhode Island",Burrillville,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Central Falls, Rhode Island",Central Falls,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Cranston, Rhode Island",Cranston,Targeted,59,62,46,50,65,6,62,6,62,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Cumberland, Rhode Island",Cumberland,Targeted,7,7,7,7,7,0,7,0,7,No Event
+2018,Rhode Island,"Providence, RI",Providence,"East Providence, Rhode Island",East Providence,Targeted,33,34,24,28,35,920,34,920,34,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Johnston, Rhode Island",Johnston,Targeted,5,6,6,6,7,130,6,130,6,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Lincoln, Rhode Island",Lincoln,Targeted,4,6,6,6,8,"1,321",6,"1,321",6,No Event
+2018,Rhode Island,"Providence, RI",Providence,"North Providence, Rhode Island",North Providence,Targeted,23,24,18,22,25,2,24,2,24,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Pawtucket, Rhode Island",Pawtucket,Targeted,80,84,42,66,102,"1,208",84,"1,209",95,EventCity
+2018,Rhode Island,"Providence, RI",Providence,"Providence, Rhode Island",Providence,Targeted,194,205,162,133,218,"2,811",205,"2,811",206,EventCity
+2018,Rhode Island,"Providence, RI",Providence,"Scituate, Rhode Island",Scituate,Targeted,4,4,3,4,4,0,4,0,4,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Smithfield, Rhode Island",Smithfield,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Rhode Island,"Providence, RI",Providence,"Woonsocket, Rhode Island",Woonsocket,Targeted,15,15,11,15,15,0,15,0,15,No Event
+2018,Rhode Island,"Washington, RI",Washington,"Hopkinton, Rhode Island",Hopkinton,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Rhode Island,"Washington, RI",Washington,"Narragansett, Rhode Island",Narragansett,Targeted,2,3,3,3,4,195,3,195,3,No Event
+2018,Rhode Island,"Washington, RI",Washington,"North Kingstown, Rhode Island",North Kingstown,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Rhode Island,"Washington, RI",Washington,"South Kingstown, Rhode Island",South Kingstown,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Rhode Island,"Washington, RI",Washington,"Westerly, Rhode Island",Westerly,Targeted,1,1,0,1,1,0,1,0,1,No Event
+2018,Vermont,"Bennington, VT",Bennington,"Bennington, Vermont",Bennington,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Caledonia, VT",Caledonia,"Lyndon, Vermont",Lyndon,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Caledonia, VT",Caledonia,"Saint Johnsbury, Vermont",Saint Johnsbury,Targeted,4,4,4,4,4,0,4,0,4,No Event
+2018,Vermont,"Chittenden, VT",Chittenden,"Burlington, Vermont",Burlington,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Vermont,"Chittenden, VT",Chittenden,"Colchester, Vermont",Colchester,Targeted,3,3,1,3,3,0,3,0,3,EventCity
+2018,Vermont,"Chittenden, VT",Chittenden,"Essex, Vermont",Essex,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Vermont,"Chittenden, VT",Chittenden,"South Burlington, Vermont",South Burlington,Targeted,2,2,2,2,2,0,2,0,2,No Event
+2018,Vermont,"Chittenden, VT",Chittenden,"Williston, Vermont",Williston,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Lamouille, VT",Lamouille,"Morristown, Vermont",Morristown,Targeted,10,10,10,8,10,0,10,0,10,No Event
+2018,Vermont,"Lamouille, VT",Lamouille,"Stowe, Vermont",Stowe,Targeted,5,5,5,4,5,0,5,0,5,EventCity
+2018,Vermont,"Orleans, VT",Orleans,"Newport, Vermont",Newport,Targeted,2,2,2,2,2,0,2,0,2,EventCity
+2018,Vermont,"Rutland, VT",Rutland,"Fair Haven, Vermont",Fair Haven,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Rutland, VT",Rutland,"Killington, Vermont",Killington,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Rutland, VT",Rutland,"Rutland, Vermont",Rutland,Other,5,5,5,5,5,0,5,0,5,No Event
+2018,Vermont,"Washington, VT",Washington,"Barre, Vermont",Barre,Targeted,2,3,2,3,4,2,3,2,3,EventCity
+2018,Vermont,"Washington, VT",Washington,"Montpelier, Vermont",Montpelier,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Washington, VT",Washington,"Waterbury, Vermont",Waterbury,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Windham, VT",Windham,"Marlboro, Vermont",Marlboro,Other,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Hartford, Vermont",Hartford,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Hartland, Vermont",Hartland,Targeted,5,5,0,4,5,0,5,0,5,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Norwich, Vermont",Norwich,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Springfield, Vermont",Springfield,Targeted,1,1,1,1,1,0,1,0,1,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Windsor, Vermont",Windsor,Targeted,2,2,1,2,2,0,2,0,2,No Event
+2018,Vermont,"Windsor, VT",Windsor,"Woodstock, Vermont",Woodstock,Targeted,1,1,1,1,1,0,1,0,1,No Event

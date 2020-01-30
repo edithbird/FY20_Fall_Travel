@@ -1,0 +1,673 @@
+"CitySt","Year","State","County","City","Targeted","Bounces","Exits","New.Users","Number.of.Records","Pageviews","Session.Duration","Sessions","Time.On.Page","Unique.Pageviews","EventCity","CityState","ZIP","lat","lon"
+"Bethel, CT",2017,"Connecticut","Fairfield","Bethel","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Bridgeport, CT",2017,"Connecticut","Fairfield","Bridgeport","Targeted","72","76","43",47,"85","239","76","239","77","EventCity",NA,NA,NA,NA
+"Brookfield, CT",2017,"Connecticut","Fairfield","Brookfield","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Danbury, CT",2017,"Connecticut","Fairfield","Danbury","Targeted","3","6","5",6,"12","171","6","171","7","EventCity",NA,NA,NA,NA
+"Darien, CT",2017,"Connecticut","Fairfield","Darien","Targeted","0","2","2",2,"11","252","2","252","9","No Event",NA,NA,NA,NA
+"Easton, CT",2017,"Connecticut","Fairfield","Easton","Targeted","1","2","2",2,"6","95","2","95","3","No Event",NA,NA,NA,NA
+"Fairfield, CT",2017,"Connecticut","Fairfield","Fairfield","Targeted","20","22","12",22,"25","42","22","42","22","EventCity",NA,NA,NA,NA
+"Greenwich, CT",2017,"Connecticut","Fairfield","Greenwich","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Monroe, CT",2017,"Connecticut","Fairfield","Monroe","Targeted","5","5","4",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"New Canaan, CT",2017,"Connecticut","Fairfield","New Canaan","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"New Fairfield, CT",2017,"Connecticut","Fairfield","New Fairfield","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Newtown, CT",2017,"Connecticut","Fairfield","Newtown","Targeted","11","11","5",9,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Norwalk, CT",2017,"Connecticut","Fairfield","Norwalk","Targeted","44","50","33",35,"63","1,813","50","1,812","58","No Event",NA,NA,NA,NA
+"Redding, CT",2017,"Connecticut","Fairfield","Redding","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Shelton, CT",2017,"Connecticut","Fairfield","Shelton","Targeted","5","6","6",6,"7","2","6","2","7","EventCity",NA,NA,NA,NA
+"Sherman, CT",2017,"Connecticut","Fairfield","Sherman","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Stamford, CT",2017,"Connecticut","Fairfield","Stamford","Targeted","20","22","14",19,"24","667","22","667","22","EventCity",NA,NA,NA,NA
+"Stratford, CT",2017,"Connecticut","Fairfield","Stratford","Targeted","15","15","7",12,"15","0","15","0","15","No Event",NA,NA,NA,NA
+"Trumbull, CT",2017,"Connecticut","Fairfield","Trumbull","Targeted","17","18","14",16,"19","12","18","12","18","EventCity",NA,NA,NA,NA
+"Weston, CT",2017,"Connecticut","Fairfield","Weston","Targeted","2","2","0",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Westport, CT",2017,"Connecticut","Fairfield","Westport","Targeted","8","8","7",8,"8","0","8","0","8","No Event",NA,NA,NA,NA
+"Wilton, CT",2017,"Connecticut","Fairfield","Wilton","Targeted","4","4","3",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Avon, CT",2017,"Connecticut","Hartford","Avon","Targeted","5","6","6",5,"9","85","6","84","8","No Event",NA,NA,NA,NA
+"Canton, CT",2017,"Connecticut","Hartford","Canton","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Enfield, CT",2017,"Connecticut","Hartford","Enfield","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Hartford, CT",2017,"Connecticut","Hartford","Hartford","Targeted","9","10","6",8,"11","0","10","0","10","EventCity",NA,NA,NA,NA
+"Manchester, CT",2017,"Connecticut","Hartford","Manchester","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"New Britain, CT",2017,"Connecticut","Hartford","New Britain","Targeted","2","2","2",1,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Newington, CT",2017,"Connecticut","Hartford","Newington","Targeted","3","4","2",4,"5","962","4","962","4","EventCity",NA,NA,NA,NA
+"West Hartford, CT",2017,"Connecticut","Hartford","West Hartford","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Windsor, CT",2017,"Connecticut","Hartford","Windsor","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Cromwell, CT",2017,"Connecticut","Middlesex","Cromwell","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Durham, CT",2017,"Connecticut","Middlesex","Durham","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Middletown, CT",2017,"Connecticut","Middlesex","Middletown","Other","0","1","1",1,"2","87","1","87","2","No Event",NA,NA,NA,NA
+"Ansonia, CT",2017,"Connecticut","New Haven","Ansonia","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Branford, CT",2017,"Connecticut","New Haven","Branford","Targeted","5","8","5",8,"14","139","8","139","8","No Event",NA,NA,NA,NA
+"Cheshire, CT",2017,"Connecticut","New Haven","Cheshire","Targeted","13","14","12",12,"18","1,392","14","1,392","15","EventCity",NA,NA,NA,NA
+"Derby, CT",2017,"Connecticut","New Haven","Derby","Targeted","3","3","2",2,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"East Haven, CT",2017,"Connecticut","New Haven","East Haven","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Guilford, CT",2017,"Connecticut","New Haven","Guilford","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Hamden, CT",2017,"Connecticut","New Haven","Hamden","Targeted","3","4","3",3,"5","0","4","0","4","EventCity",NA,NA,NA,NA
+"Madison, CT",2017,"Connecticut","New Haven","Madison","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Meriden, CT",2017,"Connecticut","New Haven","Meriden","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Milford, CT",2017,"Connecticut","New Haven","Milford","Targeted","15","15","11",12,"15","0","15","0","15","No Event",NA,NA,NA,NA
+"Naugatuck, CT",2017,"Connecticut","New Haven","Naugatuck","Targeted","35","36","25",32,"37","17","36","17","36","No Event",NA,NA,NA,NA
+"New Haven, CT",2017,"Connecticut","New Haven","New Haven","Targeted","52","52","40",45,"52","0","52","0","52","No Event",NA,NA,NA,NA
+"North Haven, CT",2017,"Connecticut","New Haven","North Haven","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Orange, CT",2017,"Connecticut","New Haven","Orange","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Seymour, CT",2017,"Connecticut","New Haven","Seymour","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Southbury, CT",2017,"Connecticut","New Haven","Southbury","Targeted","2","3","3",3,"4","12","3","12","3","No Event",NA,NA,NA,NA
+"Wallingford, CT",2017,"Connecticut","New Haven","Wallingford","Targeted","8","8","8",7,"8","0","8","0","8","No Event",NA,NA,NA,NA
+"Waterbury, CT",2017,"Connecticut","New Haven","Waterbury","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"West Haven, CT",2017,"Connecticut","New Haven","West Haven","Targeted","2","2","1",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Woodbridge, CT",2017,"Connecticut","New Haven","Woodbridge","Targeted","7","9","6",7,"13","116","9","116","11","No Event",NA,NA,NA,NA
+"Groton, CT",2017,"Connecticut","New London","Groton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Norwich, CT",2017,"Connecticut","New London","Norwich","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Waterford, CT",2017,"Connecticut","New London","Waterford","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Mansfield, CT",2017,"Connecticut","Tolland","Mansfield","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Thompson, CT",2017,"Connecticut","Windham","Thompson","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Windham, CT",2017,"Connecticut","Windham","Windham","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Barnstable, MA",2017,"Massachusetts","Barnstable","Barnstable","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Dennis, MA",2017,"Massachusetts","Barnstable","Dennis","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Yarmouth, MA",2017,"Massachusetts","Barnstable","Yarmouth","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Williamstown, MA",2017,"Massachusetts","Berkshire","Williamstown","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Attleboro, MA",2017,"Massachusetts","Bristol","Attleboro","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Fall River, MA",2017,"Massachusetts","Bristol","Fall River","Targeted","4","5","3",5,"8","3","5","4","5","EventCity",NA,NA,NA,NA
+"Mansfield, MA",2017,"Massachusetts","Bristol","Mansfield","Targeted","0","1","1",1,"3","933","1","932","1","No Event",NA,NA,NA,NA
+"New Bedford, MA",2017,"Massachusetts","Bristol","New Bedford","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"North Attleborough, MA",2017,"Massachusetts","Bristol","North Attleborough","Targeted","5","5","3",3,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Norton, MA",2017,"Massachusetts","Bristol","Norton","Targeted","2","2","1",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Rehoboth, MA",2017,"Massachusetts","Bristol","Rehoboth","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Seekonk, MA",2017,"Massachusetts","Bristol","Seekonk","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Swansea, MA",2017,"Massachusetts","Bristol","Swansea","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Taunton, MA",2017,"Massachusetts","Bristol","Taunton","Targeted","5","7","4",6,"10","209","7","209","7","EventCity",NA,NA,NA,NA
+"Amesbury, MA",2017,"Massachusetts","Essex","Amesbury","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Andover, MA",2017,"Massachusetts","Essex","Andover","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Beverly, MA",2017,"Massachusetts","Essex","Beverly","Targeted","4","4","3",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Boxford, MA",2017,"Massachusetts","Essex","Boxford","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Gloucester, MA",2017,"Massachusetts","Essex","Gloucester","Targeted","39","39","17",28,"39","0","39","0","39","No Event",NA,NA,NA,NA
+"Haverhill, MA",2017,"Massachusetts","Essex","Haverhill","Targeted","34","37","31",31,"41","93","37","93","38","EventCity",NA,NA,NA,NA
+"Lawrence, MA",2017,"Massachusetts","Essex","Lawrence","Targeted","12","13","9",13,"14","103","13","103","13","EventCity",NA,NA,NA,NA
+"Lynn, MA",2017,"Massachusetts","Essex","Lynn","Targeted","10","11","11",11,"12","4","11","4","11","No Event",NA,NA,NA,NA
+"Methuen, MA",2017,"Massachusetts","Essex","Methuen","Targeted","8","8","8",8,"8","0","8","0","8","EventCity",NA,NA,NA,NA
+"Newburyport, MA",2017,"Massachusetts","Essex","Newburyport","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"North Andover, MA",2017,"Massachusetts","Essex","North Andover","Targeted","15","16","9",12,"17","1,335","16","1,335","16","No Event",NA,NA,NA,NA
+"Peabody, MA",2017,"Massachusetts","Essex","Peabody","Targeted","6","7","5",7,"8","151","7","151","7","EventCity",NA,NA,NA,NA
+"Salem, MA",2017,"Massachusetts","Essex","Salem","Targeted","4","4","3",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Saugus, MA",2017,"Massachusetts","Essex","Saugus","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Wenham, MA",2017,"Massachusetts","Essex","Wenham","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Springfield, MA",2017,"Massachusetts","Hampden","Springfield","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"West Springfield, MA",2017,"Massachusetts","Hampden","West Springfield","Targeted","2","3","1",3,"5","97","3","97","4","EventCity",NA,NA,NA,NA
+"Amherst, MA",2017,"Massachusetts","Hampshire","Amherst","Other","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Northampton, MA",2017,"Massachusetts","Hampshire","Northampton","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Acton, MA",2017,"Massachusetts","Middlesex","Acton","Targeted","4","5","5",5,"6","3","5","3","5","No Event",NA,NA,NA,NA
+"Arlington, MA",2017,"Massachusetts","Middlesex","Arlington","Targeted","14","16","14",14,"38","644","16","645","32","No Event",NA,NA,NA,NA
+"Ashby, MA",2017,"Massachusetts","Middlesex","Ashby","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Ashland, MA",2017,"Massachusetts","Middlesex","Ashland","Targeted","6","6","4",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Bedford, MA",2017,"Massachusetts","Middlesex","Bedford","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Belmont, MA",2017,"Massachusetts","Middlesex","Belmont","Targeted","3","3","1",2,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Billerica, MA",2017,"Massachusetts","Middlesex","Billerica","Targeted","19","21","13",20,"25","1,093","21","1,093","22","EventCity",NA,NA,NA,NA
+"Burlington, MA",2017,"Massachusetts","Middlesex","Burlington","Targeted","10","11","6",10,"12","17","11","17","11","No Event",NA,NA,NA,NA
+"Cambridge, MA",2017,"Massachusetts","Middlesex","Cambridge","Targeted","15","17","16",16,"24","789","17","789","18","EventCity",NA,NA,NA,NA
+"Chelmsford, MA",2017,"Massachusetts","Middlesex","Chelmsford","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Concord, MA",2017,"Massachusetts","Middlesex","Concord","Targeted","5","5","4",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Dracut, MA",2017,"Massachusetts","Middlesex","Dracut","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Everett, MA",2017,"Massachusetts","Middlesex","Everett","Targeted","4","5","5",4,"8","41","5","42","6","No Event",NA,NA,NA,NA
+"Framingham, MA",2017,"Massachusetts","Middlesex","Framingham","Targeted","12","13","10",12,"21","151","13","151","18","No Event",NA,NA,NA,NA
+"Holliston, MA",2017,"Massachusetts","Middlesex","Holliston","Targeted","13","13","10",10,"13","0","13","0","13","No Event",NA,NA,NA,NA
+"Hopkinton, MA",2017,"Massachusetts","Middlesex","Hopkinton","Targeted","10","11","11",11,"12","29","11","29","11","No Event",NA,NA,NA,NA
+"Lexington, MA",2017,"Massachusetts","Middlesex","Lexington","Targeted","5","5","5",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Littleton, MA",2017,"Massachusetts","Middlesex","Littleton","Targeted","8","8","8",7,"8","0","8","0","8","No Event",NA,NA,NA,NA
+"Lowell, MA",2017,"Massachusetts","Middlesex","Lowell","Targeted","7","10","10",10,"13","1,441","10","1,441","11","EventCity",NA,NA,NA,NA
+"Malden, MA",2017,"Massachusetts","Middlesex","Malden","Targeted","24","25","20",23,"26","9","25","9","25","No Event",NA,NA,NA,NA
+"Marlborough, MA",2017,"Massachusetts","Middlesex","Marlborough","Targeted","30","33","30",28,"36","37","33","37","33","No Event",NA,NA,NA,NA
+"Medford, MA",2017,"Massachusetts","Middlesex","Medford","Targeted","10","12","12",11,"15","58","12","58","13","EventCity",NA,NA,NA,NA
+"Melrose, MA",2017,"Massachusetts","Middlesex","Melrose","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Natick, MA",2017,"Massachusetts","Middlesex","Natick","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Newton, MA",2017,"Massachusetts","Middlesex","Newton","Targeted","5","5","5",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"North Reading, MA",2017,"Massachusetts","Middlesex","North Reading","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Pepperell, MA",2017,"Massachusetts","Middlesex","Pepperell","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Reading, MA",2017,"Massachusetts","Middlesex","Reading","Targeted","12","13","10",12,"14","1,007","13","1,007","13","No Event",NA,NA,NA,NA
+"Somerville, MA",2017,"Massachusetts","Middlesex","Somerville","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Stoneham, MA",2017,"Massachusetts","Middlesex","Stoneham","Targeted","5","7","1",6,"9","36","7","36","7","No Event",NA,NA,NA,NA
+"Sudbury, MA",2017,"Massachusetts","Middlesex","Sudbury","Targeted","8","9","9",8,"10","30","9","30","9","No Event",NA,NA,NA,NA
+"Tewksbury, MA",2017,"Massachusetts","Middlesex","Tewksbury","Targeted","25","27","14",21,"30","65","27","65","27","No Event",NA,NA,NA,NA
+"Townsend, MA",2017,"Massachusetts","Middlesex","Townsend","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Tyngsborough, MA",2017,"Massachusetts","Middlesex","Tyngsborough","Targeted","3","3","1",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Wakefield, MA",2017,"Massachusetts","Middlesex","Wakefield","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Waltham, MA",2017,"Massachusetts","Middlesex","Waltham","Targeted","5","6","5",5,"7","914","6","914","6","EventCity",NA,NA,NA,NA
+"Watertown, MA",2017,"Massachusetts","Middlesex","Watertown","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Westford, MA",2017,"Massachusetts","Middlesex","Westford","Targeted","6","8","6",7,"10","33","8","33","9","No Event",NA,NA,NA,NA
+"Weston, MA",2017,"Massachusetts","Middlesex","Weston","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Wilmington, MA",2017,"Massachusetts","Middlesex","Wilmington","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Winchester, MA",2017,"Massachusetts","Middlesex","Winchester","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Woburn, MA",2017,"Massachusetts","Middlesex","Woburn","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Foxborough, MA",2017,"Massachusetts","Norfolk","Foxborough","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Franklin, MA",2017,"Massachusetts","Norfolk","Franklin","Targeted","5","7","4",6,"10","849","7","849","7","EventCity",NA,NA,NA,NA
+"Medway, MA",2017,"Massachusetts","Norfolk","Medway","Targeted","2","2","0",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Quincy, MA",2017,"Massachusetts","Norfolk","Quincy","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Randolph, MA",2017,"Massachusetts","Norfolk","Randolph","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Weymouth, MA",2017,"Massachusetts","Norfolk","Weymouth","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Bridgewater, MA",2017,"Massachusetts","Plymouth","Bridgewater","Targeted","2","3","1",2,"6","29","3","28","3","EventCity",NA,NA,NA,NA
+"Brockton, MA",2017,"Massachusetts","Plymouth","Brockton","Targeted","0","2","2",2,"6","28","2","27","2","EventCity",NA,NA,NA,NA
+"Boston, MA",2017,"Massachusetts","Suffolk","Boston","Targeted","1,808","1,943","1,023",229,"2,284","34,101","1,943","34,102","2,029","EventCity",NA,NA,NA,NA
+"Revere, MA",2017,"Massachusetts","Suffolk","Revere","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Athol, MA",2017,"Massachusetts","Worcester","Athol","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Auburn, MA",2017,"Massachusetts","Worcester","Auburn","Targeted","19","20","9",15,"21","66","20","66","20","EventCity",NA,NA,NA,NA
+"Barre, MA",2017,"Massachusetts","Worcester","Barre","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Charlton, MA",2017,"Massachusetts","Worcester","Charlton","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Fitchburg, MA",2017,"Massachusetts","Worcester","Fitchburg","Targeted","10","10","8",9,"10","0","10","0","10","EventCity",NA,NA,NA,NA
+"Gardner, MA",2017,"Massachusetts","Worcester","Gardner","Targeted","7","7","7",6,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Leicester, MA",2017,"Massachusetts","Worcester","Leicester","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Leominster, MA",2017,"Massachusetts","Worcester","Leominster","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Milford, MA",2017,"Massachusetts","Worcester","Milford","Targeted","37","38","24",31,"39","1","38","1","38","No Event",NA,NA,NA,NA
+"Northborough, MA",2017,"Massachusetts","Worcester","Northborough","Targeted","1","2","2",2,"3","2","2","2","2","EventCity",NA,NA,NA,NA
+"Oxford, MA",2017,"Massachusetts","Worcester","Oxford","Targeted","14","14","6",11,"14","0","14","0","14","EventCity",NA,NA,NA,NA
+"Princeton, MA",2017,"Massachusetts","Worcester","Princeton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Shrewsbury, MA",2017,"Massachusetts","Worcester","Shrewsbury","Targeted","1","2","1",1,"3","16","2","16","2","No Event",NA,NA,NA,NA
+"Southborough, MA",2017,"Massachusetts","Worcester","Southborough","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Spencer, MA",2017,"Massachusetts","Worcester","Spencer","Targeted","1","2","2",2,"3","9","2","9","2","No Event",NA,NA,NA,NA
+"Templeton, MA",2017,"Massachusetts","Worcester","Templeton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Upton, MA",2017,"Massachusetts","Worcester","Upton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Uxbridge, MA",2017,"Massachusetts","Worcester","Uxbridge","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Webster, MA",2017,"Massachusetts","Worcester","Webster","Targeted","8","8","5",8,"8","0","8","0","8","EventCity",NA,NA,NA,NA
+"Westborough, MA",2017,"Massachusetts","Worcester","Westborough","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Westminster, MA",2017,"Massachusetts","Worcester","Westminster","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Worcester, MA",2017,"Massachusetts","Worcester","Worcester","Targeted","19","21","18",21,"27","682","21","681","22","EventCity",NA,NA,NA,NA
+"Alton, NH",2017,"New Hampshire","Belknap","Alton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Gilford, NH",2017,"New Hampshire","Belknap","Gilford","Other","0","1","1",1,"2","7","1","7","1","EventCity",NA,NA,NA,NA
+"Laconia, NH",2017,"New Hampshire","Belknap","Laconia","Other","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Meredith, NH",2017,"New Hampshire","Belknap","Meredith","Other","0","1","1",1,"2","135","1","135","2","EventCity",NA,NA,NA,NA
+"New Hampton, NH",2017,"New Hampshire","Belknap","New Hampton","Other","2","2","1",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Bartlett, NH",2017,"New Hampshire","Carroll","Bartlett","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Conway, NH",2017,"New Hampshire","Carroll","Conway","Other","29","29","28",27,"29","0","29","0","29","No Event",NA,NA,NA,NA
+"Freedom, NH",2017,"New Hampshire","Carroll","Freedom","Other","8","9","9",9,"16","162","9","161","16","No Event",NA,NA,NA,NA
+"Jackson, NH",2017,"New Hampshire","Carroll","Jackson","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Madison, NH",2017,"New Hampshire","Carroll","Madison","Other","3","4","4",4,"12","813","4","813","11","No Event",NA,NA,NA,NA
+"Moultonborough, NH",2017,"New Hampshire","Carroll","Moultonborough","Other","13","13","12",13,"13","0","13","0","13","No Event",NA,NA,NA,NA
+"Tamworth, NH",2017,"New Hampshire","Carroll","Tamworth","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Wakefield, NH",2017,"New Hampshire","Carroll","Wakefield","Other","2","3","3",3,"4","18","3","18","4","No Event",NA,NA,NA,NA
+"Wolfeboro, NH",2017,"New Hampshire","Carroll","Wolfeboro","Other","12","13","12",13,"14","116","13","116","13","No Event",NA,NA,NA,NA
+"Keene, NH",2017,"New Hampshire","Cheshire","Keene","Other","6","6","6",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Rindge, NH",2017,"New Hampshire","Cheshire","Rindge","Other","5","5","3",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Berlin, NH",2017,"New Hampshire","Coos","Berlin","Other","12","17","14",17,"26","792","17","793","20","No Event",NA,NA,NA,NA
+"Carroll, NH",2017,"New Hampshire","Coos","Carroll","Other","4","4","3",3,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Colebrook, NH",2017,"New Hampshire","Coos","Colebrook","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Gorham, NH",2017,"New Hampshire","Coos","Gorham","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Lancaster, NH",2017,"New Hampshire","Coos","Lancaster","Other","9","9","9",9,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Northumberland, NH",2017,"New Hampshire","Coos","Northumberland","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Pittsburg, NH",2017,"New Hampshire","Coos","Pittsburg","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Whitefield, NH",2017,"New Hampshire","Coos","Whitefield","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Bethlehem, NH",2017,"New Hampshire","Grafton","Bethlehem","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hanover, NH",2017,"New Hampshire","Grafton","Hanover","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Lyme, NH",2017,"New Hampshire","Grafton","Lyme","Other","6","6","5",5,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Woodstock, NH",2017,"New Hampshire","Grafton","Woodstock","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Bedford, NH",2017,"New Hampshire","Hillsborough","Bedford","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Brookline, NH",2017,"New Hampshire","Hillsborough","Brookline","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Goffstown, NH",2017,"New Hampshire","Hillsborough","Goffstown","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Hudson, NH",2017,"New Hampshire","Hillsborough","Hudson","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Manchester, NH",2017,"New Hampshire","Hillsborough","Manchester","Targeted","33","33","28",28,"33","0","33","0","33","EventCity",NA,NA,NA,NA
+"Merrimack, NH",2017,"New Hampshire","Hillsborough","Merrimack","Targeted","12","14","14",12,"16","2","14","2","14","No Event",NA,NA,NA,NA
+"Nashua, NH",2017,"New Hampshire","Hillsborough","Nashua","Targeted","17","18","17",18,"21","223","18","223","19","No Event",NA,NA,NA,NA
+"Pelham, NH",2017,"New Hampshire","Hillsborough","Pelham","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Peterborough, NH",2017,"New Hampshire","Hillsborough","Peterborough","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Temple, NH",2017,"New Hampshire","Hillsborough","Temple","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Concord, NH",2017,"New Hampshire","Merrimack","Concord","Targeted","7","7","5",6,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Epsom, NH",2017,"New Hampshire","Merrimack","Epsom","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Hopkinton, NH",2017,"New Hampshire","Merrimack","Hopkinton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Newbury, NH",2017,"New Hampshire","Merrimack","Newbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Salisbury, NH",2017,"New Hampshire","Merrimack","Salisbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Atkinson, NH",2017,"New Hampshire","Rockingham","Atkinson","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Deerfield, NH",2017,"New Hampshire","Rockingham","Deerfield","Targeted","0","1","1",1,"2","0","1","0","1","No Event",NA,NA,NA,NA
+"Derry, NH",2017,"New Hampshire","Rockingham","Derry","Targeted","23","25","22",25,"28","22","25","21","26","No Event",NA,NA,NA,NA
+"Exeter, NH",2017,"New Hampshire","Rockingham","Exeter","Targeted","21","27","21",20,"37","1,693","27","1,692","29","EventCity",NA,NA,NA,NA
+"Hampton, NH",2017,"New Hampshire","Rockingham","Hampton","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Londonderry, NH",2017,"New Hampshire","Rockingham","Londonderry","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Newmarket, NH",2017,"New Hampshire","Rockingham","Newmarket","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Northwood, NH",2017,"New Hampshire","Rockingham","Northwood","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Portsmouth, NH",2017,"New Hampshire","Rockingham","Portsmouth","Targeted","6","8","8",8,"10","1,500","8","1,500","8","No Event",NA,NA,NA,NA
+"Raymond, NH",2017,"New Hampshire","Rockingham","Raymond","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Salem, NH",2017,"New Hampshire","Rockingham","Salem","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Windham, NH",2017,"New Hampshire","Rockingham","Windham","Targeted","6","6","6",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Barrington, NH",2017,"New Hampshire","Strafford","Barrington","Targeted","4","5","4",5,"6","0","5","0","5","No Event",NA,NA,NA,NA
+"Dover, NH",2017,"New Hampshire","Strafford","Dover","Targeted","38","38","29",35,"38","0","38","0","38","No Event",NA,NA,NA,NA
+"Durham, NH",2017,"New Hampshire","Strafford","Durham","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Farmington, NH",2017,"New Hampshire","Strafford","Farmington","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Milton, NH",2017,"New Hampshire","Strafford","Milton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Rochester, NH",2017,"New Hampshire","Strafford","Rochester","Targeted","10","11","10",10,"12","7","11","7","12","No Event",NA,NA,NA,NA
+"Somersworth, NH",2017,"New Hampshire","Strafford","Somersworth","Targeted","1","2","2",2,"3","4","2","4","2","No Event",NA,NA,NA,NA
+"Claremont, NH",2017,"New Hampshire","Sullivan","Claremont","Other","6","6","2",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Sunapee, NH",2017,"New Hampshire","Sullivan","Sunapee","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Barrington, RI",2017,"Rhode Island","Bristol","Barrington","Targeted","20","20","16",17,"20","0","20","0","20","No Event",NA,NA,NA,NA
+"Bristol, RI",2017,"Rhode Island","Bristol","Bristol","Targeted","12","12","10",7,"12","0","12","0","12","EventCity",NA,NA,NA,NA
+"Coventry, RI",2017,"Rhode Island","Kent","Coventry","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"East Greenwich, RI",2017,"Rhode Island","Kent","East Greenwich","Targeted","4","4","3",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Warwick, RI",2017,"Rhode Island","Kent","Warwick","Targeted","32","34","18",27,"36","1,425","34","1,425","34","EventCity",NA,NA,NA,NA
+"West Warwick, RI",2017,"Rhode Island","Kent","West Warwick","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Newport, RI",2017,"Rhode Island","Newport","Newport","Other","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Burrillville, RI",2017,"Rhode Island","Providence","Burrillville","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Cranston, RI",2017,"Rhode Island","Providence","Cranston","Targeted","96","97","42",52,"98","1,049","97","1,049","97","No Event",NA,NA,NA,NA
+"Cumberland, RI",2017,"Rhode Island","Providence","Cumberland","Targeted","3","4","3",4,"8","456","4","455","7","No Event",NA,NA,NA,NA
+"East Providence, RI",2017,"Rhode Island","Providence","East Providence","Targeted","16","16","15",13,"16","0","16","0","16","No Event",NA,NA,NA,NA
+"Johnston, RI",2017,"Rhode Island","Providence","Johnston","Targeted","6","6","3",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Lincoln, RI",2017,"Rhode Island","Providence","Lincoln","Targeted","4","5","4",5,"7","9","5","9","7","No Event",NA,NA,NA,NA
+"North Providence, RI",2017,"Rhode Island","Providence","North Providence","Targeted","24","27","12",21,"30","908","27","908","29","No Event",NA,NA,NA,NA
+"Pawtucket, RI",2017,"Rhode Island","Providence","Pawtucket","Targeted","30","34","13",29,"39","2,876","34","2,876","36","EventCity",NA,NA,NA,NA
+"Providence, RI",2017,"Rhode Island","Providence","Providence","Targeted","592","643","342",85,"719","22,239","643","22,237","662","EventCity",NA,NA,NA,NA
+"Smithfield, RI",2017,"Rhode Island","Providence","Smithfield","Targeted","7","8","4",7,"9","49","8","49","8","No Event",NA,NA,NA,NA
+"Woonsocket, RI",2017,"Rhode Island","Providence","Woonsocket","Targeted","11","12","9",8,"13","100","12","100","13","No Event",NA,NA,NA,NA
+"Narragansett, RI",2017,"Rhode Island","Washington","Narragansett","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"North Kingstown, RI",2017,"Rhode Island","Washington","North Kingstown","Targeted","3","3","2",2,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"South Kingstown, RI",2017,"Rhode Island","Washington","South Kingstown","Targeted","6","6","6",5,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Lyndon, VT",2017,"Vermont","Caledonia","Lyndon","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Saint Johnsbury, VT",2017,"Vermont","Caledonia","Saint Johnsbury","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Burlington, VT",2017,"Vermont","Chittenden","Burlington","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Charlotte, VT",2017,"Vermont","Chittenden","Charlotte","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Colchester, VT",2017,"Vermont","Chittenden","Colchester","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Essex, VT",2017,"Vermont","Chittenden","Essex","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hinesburg, VT",2017,"Vermont","Chittenden","Hinesburg","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Jericho, VT",2017,"Vermont","Chittenden","Jericho","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Shelburne, VT",2017,"Vermont","Chittenden","Shelburne","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"South Burlington, VT",2017,"Vermont","Chittenden","South Burlington","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Williston, VT",2017,"Vermont","Chittenden","Williston","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Alburgh, VT",2017,"Vermont","Grand Isle","Alburgh","Other","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Stowe, VT",2017,"Vermont","Lamouille","Stowe","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Jay, VT",2017,"Vermont","Orleans","Jay","Targeted","0","1","1",1,"3","234","1","233","1","No Event",NA,NA,NA,NA
+"Danby, VT",2017,"Vermont","Rutland","Danby","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Rutland, VT",2017,"Vermont","Rutland","Rutland","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Barre, VT",2017,"Vermont","Washington","Barre","Targeted","5","5","4",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Warren, VT",2017,"Vermont","Washington","Warren","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Townshend, VT",2017,"Vermont","Windham","Townshend","Other","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Chester, VT",2017,"Vermont","Windsor","Chester","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Weathersfield, VT",2017,"Vermont","Windsor","Weathersfield","Targeted","0","1","1",1,"2","130","1","130","1","No Event",NA,NA,NA,NA
+"Bridgeport, CT",2018,"Connecticut","Fairfield","Bridgeport","Targeted","108","119","82",92,"143","5,180","119","5,182","122","EventCity",NA,NA,NA,NA
+"Danbury, CT",2018,"Connecticut","Fairfield","Danbury","Targeted","9","10","9",9,"11","4","10","4","10","EventCity",NA,NA,NA,NA
+"Fairfield, CT",2018,"Connecticut","Fairfield","Fairfield","Targeted","35","36","32",31,"37","2","36","2","36","EventCity",NA,NA,NA,NA
+"Greenwich, CT",2018,"Connecticut","Fairfield","Greenwich","Targeted","4","5","4",5,"6","59","5","59","6","EventCity",NA,NA,NA,NA
+"Monroe, CT",2018,"Connecticut","Fairfield","Monroe","Targeted","2","3","3",3,"4","17","3","17","3","No Event",NA,NA,NA,NA
+"New Canaan, CT",2018,"Connecticut","Fairfield","New Canaan","Targeted","5","5","3",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Newtown, CT",2018,"Connecticut","Fairfield","Newtown","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Norwalk, CT",2018,"Connecticut","Fairfield","Norwalk","Targeted","41","46","26",40,"51","995","46","995","46","No Event",NA,NA,NA,NA
+"Redding, CT",2018,"Connecticut","Fairfield","Redding","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Ridgefield, CT",2018,"Connecticut","Fairfield","Ridgefield","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Shelton, CT",2018,"Connecticut","Fairfield","Shelton","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Stamford, CT",2018,"Connecticut","Fairfield","Stamford","Targeted","16","19","13",18,"23","1,510","19","1,510","19","EventCity",NA,NA,NA,NA
+"Stratford, CT",2018,"Connecticut","Fairfield","Stratford","Targeted","49","51","37",43,"53","30","51","30","51","No Event",NA,NA,NA,NA
+"Trumbull, CT",2018,"Connecticut","Fairfield","Trumbull","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Westport, CT",2018,"Connecticut","Fairfield","Westport","Targeted","21","22","17",22,"23","4","22","4","22","No Event",NA,NA,NA,NA
+"Wilton, CT",2018,"Connecticut","Fairfield","Wilton","Targeted","4","4","2",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Avon, CT",2018,"Connecticut","Hartford","Avon","Targeted","7","7","7",7,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Berlin, CT",2018,"Connecticut","Hartford","Berlin","Targeted","5","5","4",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Bloomfield, CT",2018,"Connecticut","Hartford","Bloomfield","Targeted","15","15","13",14,"15","0","15","0","15","EventCity",NA,NA,NA,NA
+"Bristol, CT",2018,"Connecticut","Hartford","Bristol","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"East Hartford, CT",2018,"Connecticut","Hartford","East Hartford","Targeted","51","55","43",49,"60","11","55","11","55","No Event",NA,NA,NA,NA
+"East Windsor, CT",2018,"Connecticut","Hartford","East Windsor","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Enfield, CT",2018,"Connecticut","Hartford","Enfield","Targeted","6","6","5",6,"6","0","6","0","6","EventCity",NA,NA,NA,NA
+"Farmington, CT",2018,"Connecticut","Hartford","Farmington","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Glastonbury, CT",2018,"Connecticut","Hartford","Glastonbury","Targeted","12","12","8",10,"12","0","12","0","12","EventCity",NA,NA,NA,NA
+"Granby, CT",2018,"Connecticut","Hartford","Granby","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Hartford, CT",2018,"Connecticut","Hartford","Hartford","Targeted","135","142","113",108,"150","934","142","934","143","EventCity",NA,NA,NA,NA
+"Manchester, CT",2018,"Connecticut","Hartford","Manchester","Targeted","19","21","15",19,"23","1,100","21","1,100","21","No Event",NA,NA,NA,NA
+"New Britain, CT",2018,"Connecticut","Hartford","New Britain","Targeted","33","38","23",31,"45","2,115","38","2,115","38","EventCity",NA,NA,NA,NA
+"Newington, CT",2018,"Connecticut","Hartford","Newington","Targeted","7","7","6",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Plainville, CT",2018,"Connecticut","Hartford","Plainville","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Rocky Hill, CT",2018,"Connecticut","Hartford","Rocky Hill","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Simsbury, CT",2018,"Connecticut","Hartford","Simsbury","Targeted","4","5","5",4,"6","131","5","131","6","No Event",NA,NA,NA,NA
+"South Windsor, CT",2018,"Connecticut","Hartford","South Windsor","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Southington, CT",2018,"Connecticut","Hartford","Southington","Targeted","3","4","4",4,"7","40","4","40","7","EventCity",NA,NA,NA,NA
+"Suffield, CT",2018,"Connecticut","Hartford","Suffield","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"West Hartford, CT",2018,"Connecticut","Hartford","West Hartford","Targeted","24","26","21",21,"30","213","26","213","27","EventCity",NA,NA,NA,NA
+"Wethersfield, CT",2018,"Connecticut","Hartford","Wethersfield","Targeted","9","9","6",8,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Windsor Locks, CT",2018,"Connecticut","Hartford","Windsor Locks","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Windsor, CT",2018,"Connecticut","Hartford","Windsor","Targeted","11","11","8",10,"11","0","11","0","11","EventCity",NA,NA,NA,NA
+"Goshen, CT",2018,"Connecticut","Litchfield","Goshen","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Litchfield, CT",2018,"Connecticut","Litchfield","Litchfield","Targeted","5","5","5",3,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"New Milford, CT",2018,"Connecticut","Litchfield","New Milford","Targeted","5","6","6",6,"10","99","6","98","7","No Event",NA,NA,NA,NA
+"Salisbury, CT",2018,"Connecticut","Litchfield","Salisbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Sharon, CT",2018,"Connecticut","Litchfield","Sharon","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Torrington, CT",2018,"Connecticut","Litchfield","Torrington","Targeted","6","7","7",7,"9","461","7","461","8","No Event",NA,NA,NA,NA
+"Watertown, CT",2018,"Connecticut","Litchfield","Watertown","Targeted","4","5","5",4,"7","12","5","12","5","No Event",NA,NA,NA,NA
+"Winchester, CT",2018,"Connecticut","Litchfield","Winchester","Targeted","6","8","7",8,"11","80","8","80","9","No Event",NA,NA,NA,NA
+"East Hampton, CT",2018,"Connecticut","Middlesex","East Hampton","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Middletown, CT",2018,"Connecticut","Middlesex","Middletown","Other","5","6","5",6,"7","11","6","11","6","No Event",NA,NA,NA,NA
+"Ansonia, CT",2018,"Connecticut","New Haven","Ansonia","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Branford, CT",2018,"Connecticut","New Haven","Branford","Targeted","15","16","7",14,"17","598","16","598","16","No Event",NA,NA,NA,NA
+"Cheshire, CT",2018,"Connecticut","New Haven","Cheshire","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Derby, CT",2018,"Connecticut","New Haven","Derby","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"East Haven, CT",2018,"Connecticut","New Haven","East Haven","Targeted","21","21","15",19,"21","0","21","0","21","No Event",NA,NA,NA,NA
+"Guilford, CT",2018,"Connecticut","New Haven","Guilford","Targeted","1","1","0",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Hamden, CT",2018,"Connecticut","New Haven","Hamden","Targeted","23","24","19",20,"25","2","24","2","24","EventCity",NA,NA,NA,NA
+"Madison, CT",2018,"Connecticut","New Haven","Madison","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Meriden, CT",2018,"Connecticut","New Haven","Meriden","Targeted","4","5","5",5,"10","254","5","255","6","No Event",NA,NA,NA,NA
+"Middlebury, CT",2018,"Connecticut","New Haven","Middlebury","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Milford, CT",2018,"Connecticut","New Haven","Milford","Targeted","11","11","10",10,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Naugatuck, CT",2018,"Connecticut","New Haven","Naugatuck","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"New Haven, CT",2018,"Connecticut","New Haven","New Haven","Targeted","197","205","146",129,"216","3,582","205","3,581","208","No Event",NA,NA,NA,NA
+"North Branford, CT",2018,"Connecticut","New Haven","North Branford","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"North Haven, CT",2018,"Connecticut","New Haven","North Haven","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Orange, CT",2018,"Connecticut","New Haven","Orange","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Oxford, CT",2018,"Connecticut","New Haven","Oxford","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Seymour, CT",2018,"Connecticut","New Haven","Seymour","Targeted","10","10","9",7,"10","0","10","0","10","No Event",NA,NA,NA,NA
+"Southbury, CT",2018,"Connecticut","New Haven","Southbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Wallingford, CT",2018,"Connecticut","New Haven","Wallingford","Targeted","6","8","8",8,"10","579","8","579","9","No Event",NA,NA,NA,NA
+"Waterbury, CT",2018,"Connecticut","New Haven","Waterbury","Targeted","15","15","14",13,"15","0","15","0","15","EventCity",NA,NA,NA,NA
+"West Haven, CT",2018,"Connecticut","New Haven","West Haven","Targeted","34","34","31",32,"34","0","34","0","34","EventCity",NA,NA,NA,NA
+"Woodbridge, CT",2018,"Connecticut","New Haven","Woodbridge","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"East Lyme, CT",2018,"Connecticut","New London","East Lyme","Targeted","5","6","6",6,"7","1","6","1","6","EventCity",NA,NA,NA,NA
+"Griswold, CT",2018,"Connecticut","New London","Griswold","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Groton, CT",2018,"Connecticut","New London","Groton","Targeted","12","14","12",14,"19","363","14","363","16","No Event",NA,NA,NA,NA
+"Ledyard, CT",2018,"Connecticut","New London","Ledyard","Targeted","4","4","3",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Montville, CT",2018,"Connecticut","New London","Montville","Targeted","6","7","6",7,"8","0","7","0","7","No Event",NA,NA,NA,NA
+"New London, CT",2018,"Connecticut","New London","New London","Targeted","12","12","10",10,"12","0","12","0","12","No Event",NA,NA,NA,NA
+"Norwich, CT",2018,"Connecticut","New London","Norwich","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Waterford, CT",2018,"Connecticut","New London","Waterford","Targeted","13","13","6",13,"13","0","13","0","13","EventCity",NA,NA,NA,NA
+"Coventry, CT",2018,"Connecticut","Tolland","Coventry","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Mansfield, CT",2018,"Connecticut","Tolland","Mansfield","Targeted","11","11","11",11,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Stafford, CT",2018,"Connecticut","Tolland","Stafford","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Tolland, CT",2018,"Connecticut","Tolland","Tolland","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Vernon, CT",2018,"Connecticut","Tolland","Vernon","Targeted","16","16","14",16,"16","0","16","0","16","EventCity",NA,NA,NA,NA
+"Willington, CT",2018,"Connecticut","Tolland","Willington","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Barnstable, MA",2018,"Massachusetts","Barnstable","Barnstable","Targeted","12","14","9",11,"16","548","14","548","14","No Event",NA,NA,NA,NA
+"Bourne, MA",2018,"Massachusetts","Barnstable","Bourne","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Brewster, MA",2018,"Massachusetts","Barnstable","Brewster","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Chatham, MA",2018,"Massachusetts","Barnstable","Chatham","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Dennis, MA",2018,"Massachusetts","Barnstable","Dennis","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Falmouth, MA",2018,"Massachusetts","Barnstable","Falmouth","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Mashpee, MA",2018,"Massachusetts","Barnstable","Mashpee","Targeted","2","4","4",4,"7","737","4","737","5","No Event",NA,NA,NA,NA
+"Sandwich, MA",2018,"Massachusetts","Barnstable","Sandwich","Targeted","5","5","5",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Yarmouth, MA",2018,"Massachusetts","Barnstable","Yarmouth","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Lee, MA",2018,"Massachusetts","Berkshire","Lee","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Lenox, MA",2018,"Massachusetts","Berkshire","Lenox","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Pittsfield, MA",2018,"Massachusetts","Berkshire","Pittsfield","Other","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Attleboro, MA",2018,"Massachusetts","Bristol","Attleboro","Targeted","23","24","22",20,"26","345","24","345","24","EventCity",NA,NA,NA,NA
+"Berkley, MA",2018,"Massachusetts","Bristol","Berkley","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Dartmouth, MA",2018,"Massachusetts","Bristol","Dartmouth","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Easton, MA",2018,"Massachusetts","Bristol","Easton","Targeted","9","9","9",9,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Fall River, MA",2018,"Massachusetts","Bristol","Fall River","Targeted","40","41","33",38,"42","7","41","7","41","EventCity",NA,NA,NA,NA
+"Mansfield, MA",2018,"Massachusetts","Bristol","Mansfield","Targeted","13","13","8",10,"13","0","13","0","13","No Event",NA,NA,NA,NA
+"New Bedford, MA",2018,"Massachusetts","Bristol","New Bedford","Targeted","7","9","8",9,"11","29","9","29","10","EventCity",NA,NA,NA,NA
+"North Attleborough, MA",2018,"Massachusetts","Bristol","North Attleborough","Targeted","3","4","4",4,"5","12","4","12","4","No Event",NA,NA,NA,NA
+"Norton, MA",2018,"Massachusetts","Bristol","Norton","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Raynham, MA",2018,"Massachusetts","Bristol","Raynham","Targeted","7","7","2",6,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Rehoboth, MA",2018,"Massachusetts","Bristol","Rehoboth","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Seekonk, MA",2018,"Massachusetts","Bristol","Seekonk","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Taunton, MA",2018,"Massachusetts","Bristol","Taunton","Targeted","7","7","6",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Edgartown, MA",2018,"Massachusetts","Dukes","Edgartown","Other","2","2","0",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Amesbury, MA",2018,"Massachusetts","Essex","Amesbury","Targeted","7","7","6",6,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Andover, MA",2018,"Massachusetts","Essex","Andover","Targeted","14","15","15",15,"16","458","15","458","15","No Event",NA,NA,NA,NA
+"Beverly, MA",2018,"Massachusetts","Essex","Beverly","Targeted","6","8","8",8,"11","130","8","129","8","EventCity",NA,NA,NA,NA
+"Boxford, MA",2018,"Massachusetts","Essex","Boxford","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Danvers, MA",2018,"Massachusetts","Essex","Danvers","Targeted","3","4","4",4,"5","1","4","1","4","No Event",NA,NA,NA,NA
+"Georgetown, MA",2018,"Massachusetts","Essex","Georgetown","Targeted","1","2","2",2,"4","33","2","32","2","No Event",NA,NA,NA,NA
+"Gloucester, MA",2018,"Massachusetts","Essex","Gloucester","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Hamilton, MA",2018,"Massachusetts","Essex","Hamilton","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Haverhill, MA",2018,"Massachusetts","Essex","Haverhill","Targeted","28","28","26",26,"28","0","28","0","28","EventCity",NA,NA,NA,NA
+"Ipswich, MA",2018,"Massachusetts","Essex","Ipswich","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Lawrence, MA",2018,"Massachusetts","Essex","Lawrence","Targeted","43","44","41",39,"48","429","44","429","48","EventCity",NA,NA,NA,NA
+"Lynn, MA",2018,"Massachusetts","Essex","Lynn","Targeted","30","32","30",28,"34","54","32","54","33","No Event",NA,NA,NA,NA
+"Lynnfield, MA",2018,"Massachusetts","Essex","Lynnfield","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Marblehead, MA",2018,"Massachusetts","Essex","Marblehead","Targeted","3","3","2",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Methuen, MA",2018,"Massachusetts","Essex","Methuen","Targeted","29","30","28",28,"31","2","30","2","30","EventCity",NA,NA,NA,NA
+"Newbury, MA",2018,"Massachusetts","Essex","Newbury","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Newburyport, MA",2018,"Massachusetts","Essex","Newburyport","Targeted","13","13","13",12,"13","0","13","0","13","EventCity",NA,NA,NA,NA
+"North Andover, MA",2018,"Massachusetts","Essex","North Andover","Targeted","7","8","8",8,"9","2","8","2","8","No Event",NA,NA,NA,NA
+"Peabody, MA",2018,"Massachusetts","Essex","Peabody","Targeted","6","7","7",7,"8","0","7","0","7","EventCity",NA,NA,NA,NA
+"Rockport, MA",2018,"Massachusetts","Essex","Rockport","Targeted","10","11","6",10,"21","139","11","137","11","No Event",NA,NA,NA,NA
+"Rowley, MA",2018,"Massachusetts","Essex","Rowley","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Salem, MA",2018,"Massachusetts","Essex","Salem","Targeted","12","12","12",11,"12","0","12","0","12","No Event",NA,NA,NA,NA
+"Saugus, MA",2018,"Massachusetts","Essex","Saugus","Targeted","17","17","14",16,"17","0","17","0","17","No Event",NA,NA,NA,NA
+"Swampscott, MA",2018,"Massachusetts","Essex","Swampscott","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Deerfield, MA",2018,"Massachusetts","Franklin","Deerfield","Other","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Sunderland, MA",2018,"Massachusetts","Franklin","Sunderland","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Agawam, MA",2018,"Massachusetts","Hampden","Agawam","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Chicopee, MA",2018,"Massachusetts","Hampden","Chicopee","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"East Longmeadow, MA",2018,"Massachusetts","Hampden","East Longmeadow","Targeted","3","4","3",4,"5","12","4","12","5","EventCity",NA,NA,NA,NA
+"Hampden, MA",2018,"Massachusetts","Hampden","Hampden","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Holyoke, MA",2018,"Massachusetts","Hampden","Holyoke","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Longmeadow, MA",2018,"Massachusetts","Hampden","Longmeadow","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Ludlow, MA",2018,"Massachusetts","Hampden","Ludlow","Targeted","5","5","4",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Monson, MA",2018,"Massachusetts","Hampden","Monson","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Palmer, MA",2018,"Massachusetts","Hampden","Palmer","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Springfield, MA",2018,"Massachusetts","Hampden","Springfield","Targeted","35","37","35",28,"40","103","37","103","38","EventCity",NA,NA,NA,NA
+"West Springfield, MA",2018,"Massachusetts","Hampden","West Springfield","Targeted","7","7","6",5,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Westfield, MA",2018,"Massachusetts","Hampden","Westfield","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Wilbraham, MA",2018,"Massachusetts","Hampden","Wilbraham","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Amherst, MA",2018,"Massachusetts","Hampshire","Amherst","Other","10","10","10",10,"10","0","10","0","10","No Event",NA,NA,NA,NA
+"Belchertown, MA",2018,"Massachusetts","Hampshire","Belchertown","Other","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Easthampton, MA",2018,"Massachusetts","Hampshire","Easthampton","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Hadley, MA",2018,"Massachusetts","Hampshire","Hadley","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Northampton, MA",2018,"Massachusetts","Hampshire","Northampton","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"South Hadley, MA",2018,"Massachusetts","Hampshire","South Hadley","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Southampton, MA",2018,"Massachusetts","Hampshire","Southampton","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Acton, MA",2018,"Massachusetts","Middlesex","Acton","Targeted","11","11","11",11,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Arlington, MA",2018,"Massachusetts","Middlesex","Arlington","Targeted","9","9","8",8,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Ashland, MA",2018,"Massachusetts","Middlesex","Ashland","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Ayer, MA",2018,"Massachusetts","Middlesex","Ayer","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Bedford, MA",2018,"Massachusetts","Middlesex","Bedford","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Belmont, MA",2018,"Massachusetts","Middlesex","Belmont","Targeted","9","9","9",8,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Billerica, MA",2018,"Massachusetts","Middlesex","Billerica","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Burlington, MA",2018,"Massachusetts","Middlesex","Burlington","Targeted","7","7","7",7,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Cambridge, MA",2018,"Massachusetts","Middlesex","Cambridge","Targeted","29","30","30",28,"31","116","30","116","31","EventCity",NA,NA,NA,NA
+"Chelmsford, MA",2018,"Massachusetts","Middlesex","Chelmsford","Targeted","14","16","14",16,"18","48","16","48","17","No Event",NA,NA,NA,NA
+"Concord, MA",2018,"Massachusetts","Middlesex","Concord","Targeted","16","17","13",16,"18","0","17","0","17","No Event",NA,NA,NA,NA
+"Dracut, MA",2018,"Massachusetts","Middlesex","Dracut","Targeted","12","14","13",14,"19","146","14","146","14","No Event",NA,NA,NA,NA
+"Everett, MA",2018,"Massachusetts","Middlesex","Everett","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Framingham, MA",2018,"Massachusetts","Middlesex","Framingham","Targeted","36","38","34",34,"40","1,007","38","1,007","38","No Event",NA,NA,NA,NA
+"Groton, MA",2018,"Massachusetts","Middlesex","Groton","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Holliston, MA",2018,"Massachusetts","Middlesex","Holliston","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hopkinton, MA",2018,"Massachusetts","Middlesex","Hopkinton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Hudson, MA",2018,"Massachusetts","Middlesex","Hudson","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Lexington, MA",2018,"Massachusetts","Middlesex","Lexington","Targeted","10","10","9",10,"10","0","10","0","10","EventCity",NA,NA,NA,NA
+"Littleton, MA",2018,"Massachusetts","Middlesex","Littleton","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Lowell, MA",2018,"Massachusetts","Middlesex","Lowell","Targeted","99","107","64",86,"117","1,281","107","1,281","108","EventCity",NA,NA,NA,NA
+"Malden, MA",2018,"Massachusetts","Middlesex","Malden","Targeted","46","46","32",37,"46","0","46","0","46","No Event",NA,NA,NA,NA
+"Marlborough, MA",2018,"Massachusetts","Middlesex","Marlborough","Targeted","25","29","25",28,"39","516","29","516","33","No Event",NA,NA,NA,NA
+"Maynard, MA",2018,"Massachusetts","Middlesex","Maynard","Targeted","6","6","6",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Medford, MA",2018,"Massachusetts","Middlesex","Medford","Targeted","26","27","23",22,"30","216","27","217","27","EventCity",NA,NA,NA,NA
+"Melrose, MA",2018,"Massachusetts","Middlesex","Melrose","Targeted","13","15","12",13,"17","141","15","141","15","No Event",NA,NA,NA,NA
+"Natick, MA",2018,"Massachusetts","Middlesex","Natick","Targeted","11","11","10",9,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Newton, MA",2018,"Massachusetts","Middlesex","Newton","Targeted","36","36","28",30,"36","0","36","0","36","No Event",NA,NA,NA,NA
+"North Reading, MA",2018,"Massachusetts","Middlesex","North Reading","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Pepperell, MA",2018,"Massachusetts","Middlesex","Pepperell","Targeted","4","4","4",3,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Reading, MA",2018,"Massachusetts","Middlesex","Reading","Targeted","5","6","6",5,"7","0","6","0","6","No Event",NA,NA,NA,NA
+"Sherborn, MA",2018,"Massachusetts","Middlesex","Sherborn","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Somerville, MA",2018,"Massachusetts","Middlesex","Somerville","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Stoneham, MA",2018,"Massachusetts","Middlesex","Stoneham","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Stow, MA",2018,"Massachusetts","Middlesex","Stow","Targeted","3","4","4",3,"5","0","4","0","4","No Event",NA,NA,NA,NA
+"Sudbury, MA",2018,"Massachusetts","Middlesex","Sudbury","Targeted","11","11","8",11,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Tewksbury, MA",2018,"Massachusetts","Middlesex","Tewksbury","Targeted","11","11","10",11,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Tyngsborough, MA",2018,"Massachusetts","Middlesex","Tyngsborough","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Wakefield, MA",2018,"Massachusetts","Middlesex","Wakefield","Targeted","9","10","10",9,"12","114","10","114","11","No Event",NA,NA,NA,NA
+"Waltham, MA",2018,"Massachusetts","Middlesex","Waltham","Targeted","34","36","29",32,"40","1,490","36","1,490","38","EventCity",NA,NA,NA,NA
+"Watertown, MA",2018,"Massachusetts","Middlesex","Watertown","Targeted","5","5","5",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Wayland, MA",2018,"Massachusetts","Middlesex","Wayland","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Westford, MA",2018,"Massachusetts","Middlesex","Westford","Targeted","16","16","15",16,"16","0","16","0","16","No Event",NA,NA,NA,NA
+"Weston, MA",2018,"Massachusetts","Middlesex","Weston","Targeted","7","8","5",8,"9","7","8","7","8","No Event",NA,NA,NA,NA
+"Wilmington, MA",2018,"Massachusetts","Middlesex","Wilmington","Targeted","7","8","7",7,"9","801","8","801","8","EventCity",NA,NA,NA,NA
+"Winchester, MA",2018,"Massachusetts","Middlesex","Winchester","Targeted","9","9","9",9,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Woburn, MA",2018,"Massachusetts","Middlesex","Woburn","Targeted","15","15","13",14,"15","0","15","0","15","No Event",NA,NA,NA,NA
+"Braintree, MA",2018,"Massachusetts","Norfolk","Braintree","Targeted","4","9","4",7,"15","27","9","28","9","EventCity",NA,NA,NA,NA
+"Dedham, MA",2018,"Massachusetts","Norfolk","Dedham","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Foxborough, MA",2018,"Massachusetts","Norfolk","Foxborough","Targeted","9","10","8",10,"11","1,783","10","1,783","10","No Event",NA,NA,NA,NA
+"Franklin, MA",2018,"Massachusetts","Norfolk","Franklin","Targeted","13","15","15",14,"21","77","15","78","19","EventCity",NA,NA,NA,NA
+"Medway, MA",2018,"Massachusetts","Norfolk","Medway","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Millis, MA",2018,"Massachusetts","Norfolk","Millis","Targeted","4","4","2",3,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Milton, MA",2018,"Massachusetts","Norfolk","Milton","Targeted","8","9","9",9,"18","1,934","9","1,934","12","EventCity",NA,NA,NA,NA
+"Needham, MA",2018,"Massachusetts","Norfolk","Needham","Targeted","8","8","8",8,"8","0","8","0","8","No Event",NA,NA,NA,NA
+"Norwood, MA",2018,"Massachusetts","Norfolk","Norwood","Targeted","10","11","11",11,"13","86","11","85","12","No Event",NA,NA,NA,NA
+"Quincy, MA",2018,"Massachusetts","Norfolk","Quincy","Targeted","26","27","22",25,"29","13","27","13","27","No Event",NA,NA,NA,NA
+"Randolph, MA",2018,"Massachusetts","Norfolk","Randolph","Targeted","7","7","7",7,"7","0","7","0","7","EventCity",NA,NA,NA,NA
+"Sharon, MA",2018,"Massachusetts","Norfolk","Sharon","Targeted","8","9","8",9,"10","2","9","2","9","No Event",NA,NA,NA,NA
+"Stoughton, MA",2018,"Massachusetts","Norfolk","Stoughton","Targeted","7","7","7",5,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Walpole, MA",2018,"Massachusetts","Norfolk","Walpole","Targeted","7","7","7",7,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Wellesley, MA",2018,"Massachusetts","Norfolk","Wellesley","Targeted","9","9","8",9,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Westwood, MA",2018,"Massachusetts","Norfolk","Westwood","Targeted","1","2","1",1,"4","18","2","19","2","EventCity",NA,NA,NA,NA
+"Weymouth, MA",2018,"Massachusetts","Norfolk","Weymouth","Targeted","11","11","11",9,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"Abington, MA",2018,"Massachusetts","Plymouth","Abington","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Bridgewater, MA",2018,"Massachusetts","Plymouth","Bridgewater","Targeted","8","9","9",9,"10","3","9","3","9","EventCity",NA,NA,NA,NA
+"Brockton, MA",2018,"Massachusetts","Plymouth","Brockton","Targeted","49","54","45",42,"93","16,989","54","16,987","54","EventCity",NA,NA,NA,NA
+"Carver, MA",2018,"Massachusetts","Plymouth","Carver","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Duxbury, MA",2018,"Massachusetts","Plymouth","Duxbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hingham, MA",2018,"Massachusetts","Plymouth","Hingham","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Kingston, MA",2018,"Massachusetts","Plymouth","Kingston","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Lakeville, MA",2018,"Massachusetts","Plymouth","Lakeville","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Marion, MA",2018,"Massachusetts","Plymouth","Marion","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Marshfield, MA",2018,"Massachusetts","Plymouth","Marshfield","Targeted","6","6","4",5,"6","0","6","0","6","EventCity",NA,NA,NA,NA
+"Middleborough, MA",2018,"Massachusetts","Plymouth","Middleborough","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Norwell, MA",2018,"Massachusetts","Plymouth","Norwell","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Pembroke, MA",2018,"Massachusetts","Plymouth","Pembroke","Targeted","5","6","6",6,"7","12","6","12","6","No Event",NA,NA,NA,NA
+"Plymouth, MA",2018,"Massachusetts","Plymouth","Plymouth","Targeted","15","15","14",14,"15","0","15","0","15","EventCity",NA,NA,NA,NA
+"Rockland, MA",2018,"Massachusetts","Plymouth","Rockland","Targeted","5","6","5",5,"7","3","6","3","6","No Event",NA,NA,NA,NA
+"Scituate, MA",2018,"Massachusetts","Plymouth","Scituate","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Boston, MA",2018,"Massachusetts","Suffolk","Boston","Targeted","1,406","1,518","1,053",522,"1,740","32,684","1,518","32,682","1,576","EventCity",NA,NA,NA,NA
+"Brookline, MA",2018,"Massachusetts","Suffolk","Brookline","Targeted","12","12","12",12,"12","0","12","0","12","No Event",NA,NA,NA,NA
+"Chelsea, MA",2018,"Massachusetts","Suffolk","Chelsea","Targeted","12","12","8",12,"12","0","12","0","12","No Event",NA,NA,NA,NA
+"Revere, MA",2018,"Massachusetts","Suffolk","Revere","Targeted","25","25","20",22,"25","0","25","0","25","EventCity",NA,NA,NA,NA
+"Athol, MA",2018,"Massachusetts","Worcester","Athol","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Auburn, MA",2018,"Massachusetts","Worcester","Auburn","Targeted","11","11","2",7,"11","0","11","0","11","EventCity",NA,NA,NA,NA
+"Barre, MA",2018,"Massachusetts","Worcester","Barre","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Berlin, MA",2018,"Massachusetts","Worcester","Berlin","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Blackstone, MA",2018,"Massachusetts","Worcester","Blackstone","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Charlton, MA",2018,"Massachusetts","Worcester","Charlton","Targeted","3","3","3",2,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Clinton, MA",2018,"Massachusetts","Worcester","Clinton","Targeted","6","6","3",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Fitchburg, MA",2018,"Massachusetts","Worcester","Fitchburg","Targeted","9","9","9",8,"9","0","9","0","9","EventCity",NA,NA,NA,NA
+"Grafton, MA",2018,"Massachusetts","Worcester","Grafton","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Harvard, MA",2018,"Massachusetts","Worcester","Harvard","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Holden, MA",2018,"Massachusetts","Worcester","Holden","Targeted","10","10","10",9,"10","0","10","0","10","No Event",NA,NA,NA,NA
+"Leicester, MA",2018,"Massachusetts","Worcester","Leicester","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Leominster, MA",2018,"Massachusetts","Worcester","Leominster","Targeted","16","16","16",15,"16","0","16","0","16","No Event",NA,NA,NA,NA
+"Lunenburg, MA",2018,"Massachusetts","Worcester","Lunenburg","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Milford, MA",2018,"Massachusetts","Worcester","Milford","Targeted","11","11","11",11,"11","0","11","0","11","No Event",NA,NA,NA,NA
+"North Brookfield, MA",2018,"Massachusetts","Worcester","North Brookfield","Targeted","0","2","2",2,"10","256","2","255","6","No Event",NA,NA,NA,NA
+"Northborough, MA",2018,"Massachusetts","Worcester","Northborough","Targeted","6","7","6",6,"8","237","7","237","7","EventCity",NA,NA,NA,NA
+"Northbridge, MA",2018,"Massachusetts","Worcester","Northbridge","Targeted","5","5","3",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Oxford, MA",2018,"Massachusetts","Worcester","Oxford","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Paxton, MA",2018,"Massachusetts","Worcester","Paxton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Shrewsbury, MA",2018,"Massachusetts","Worcester","Shrewsbury","Targeted","9","9","8",9,"9","0","9","0","9","No Event",NA,NA,NA,NA
+"Southbridge, MA",2018,"Massachusetts","Worcester","Southbridge","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Spencer, MA",2018,"Massachusetts","Worcester","Spencer","Targeted","2","3","3",2,"4","1","3","1","3","No Event",NA,NA,NA,NA
+"Sterling, MA",2018,"Massachusetts","Worcester","Sterling","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Sturbridge, MA",2018,"Massachusetts","Worcester","Sturbridge","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Sutton, MA",2018,"Massachusetts","Worcester","Sutton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Upton, MA",2018,"Massachusetts","Worcester","Upton","Targeted","2","3","3",3,"5","77","3","77","5","No Event",NA,NA,NA,NA
+"Uxbridge, MA",2018,"Massachusetts","Worcester","Uxbridge","Targeted","3","3","3",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"West Boylston, MA",2018,"Massachusetts","Worcester","West Boylston","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Westborough, MA",2018,"Massachusetts","Worcester","Westborough","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Winchendon, MA",2018,"Massachusetts","Worcester","Winchendon","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Worcester, MA",2018,"Massachusetts","Worcester","Worcester","Targeted","113","124","99",95,"158","2,832","124","2,831","132","EventCity",NA,NA,NA,NA
+"Barnstead, NH",2018,"New Hampshire","Belknap","Barnstead","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Belmont, NH",2018,"New Hampshire","Belknap","Belmont","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Gilford, NH",2018,"New Hampshire","Belknap","Gilford","Other","1","2","2",2,"3","1","2","1","3","EventCity",NA,NA,NA,NA
+"Laconia, NH",2018,"New Hampshire","Belknap","Laconia","Other","7","8","7",8,"9","4","8","4","8","EventCity",NA,NA,NA,NA
+"Meredith, NH",2018,"New Hampshire","Belknap","Meredith","Other","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Tilton, NH",2018,"New Hampshire","Belknap","Tilton","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Bartlett, NH",2018,"New Hampshire","Carroll","Bartlett","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Conway, NH",2018,"New Hampshire","Carroll","Conway","Other","15","15","14",14,"15","0","15","0","15","No Event",NA,NA,NA,NA
+"Freedom, NH",2018,"New Hampshire","Carroll","Freedom","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Madison, NH",2018,"New Hampshire","Carroll","Madison","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Moultonborough, NH",2018,"New Hampshire","Carroll","Moultonborough","Other","5","6","6",6,"7","51","6","51","6","No Event",NA,NA,NA,NA
+"Tamworth, NH",2018,"New Hampshire","Carroll","Tamworth","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Wakefield, NH",2018,"New Hampshire","Carroll","Wakefield","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Wolfeboro, NH",2018,"New Hampshire","Carroll","Wolfeboro","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Fitzwilliam, NH",2018,"New Hampshire","Cheshire","Fitzwilliam","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Keene, NH",2018,"New Hampshire","Cheshire","Keene","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Rindge, NH",2018,"New Hampshire","Cheshire","Rindge","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Stoddard, NH",2018,"New Hampshire","Cheshire","Stoddard","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Walpole, NH",2018,"New Hampshire","Cheshire","Walpole","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Berlin, NH",2018,"New Hampshire","Coos","Berlin","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Colebrook, NH",2018,"New Hampshire","Coos","Colebrook","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Gorham, NH",2018,"New Hampshire","Coos","Gorham","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Northumberland, NH",2018,"New Hampshire","Coos","Northumberland","Other","2","3","2",2,"6","17","3","16","4","No Event",NA,NA,NA,NA
+"Bristol, NH",2018,"New Hampshire","Grafton","Bristol","Other","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Holderness, NH",2018,"New Hampshire","Grafton","Holderness","Other","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Lebanon, NH",2018,"New Hampshire","Grafton","Lebanon","Other","7","9","3",7,"13","1,731","9","1,731","10","No Event",NA,NA,NA,NA
+"Amherst, NH",2018,"New Hampshire","Hillsborough","Amherst","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Bedford, NH",2018,"New Hampshire","Hillsborough","Bedford","Targeted","7","7","7",6,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"Goffstown, NH",2018,"New Hampshire","Hillsborough","Goffstown","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Greenville, NH",2018,"New Hampshire","Hillsborough","Greenville","Targeted","2","2","1",1,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Hollis, NH",2018,"New Hampshire","Hillsborough","Hollis","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hudson, NH",2018,"New Hampshire","Hillsborough","Hudson","Targeted","13","13","12",13,"13","0","13","0","13","No Event",NA,NA,NA,NA
+"Manchester, NH",2018,"New Hampshire","Hillsborough","Manchester","Targeted","27","30","30",27,"34","135","30","135","32","EventCity",NA,NA,NA,NA
+"Merrimack, NH",2018,"New Hampshire","Hillsborough","Merrimack","Targeted","9","10","10",10,"11","0","10","0","10","No Event",NA,NA,NA,NA
+"Milford, NH",2018,"New Hampshire","Hillsborough","Milford","Targeted","13","13","11",12,"13","0","13","0","13","No Event",NA,NA,NA,NA
+"Nashua, NH",2018,"New Hampshire","Hillsborough","Nashua","Targeted","35","37","33",35,"41","460","37","460","38","No Event",NA,NA,NA,NA
+"New Boston, NH",2018,"New Hampshire","Hillsborough","New Boston","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Pelham, NH",2018,"New Hampshire","Hillsborough","Pelham","Targeted","4","5","5",5,"7","902","5","903","5","No Event",NA,NA,NA,NA
+"Weare, NH",2018,"New Hampshire","Hillsborough","Weare","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Wilton, NH",2018,"New Hampshire","Hillsborough","Wilton","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Bow, NH",2018,"New Hampshire","Merrimack","Bow","Targeted","2","2","1",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Concord, NH",2018,"New Hampshire","Merrimack","Concord","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Epsom, NH",2018,"New Hampshire","Merrimack","Epsom","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Franklin, NH",2018,"New Hampshire","Merrimack","Franklin","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Hooksett, NH",2018,"New Hampshire","Merrimack","Hooksett","Targeted","1","1","1",1,"1","0","1","0","1","EventCity",NA,NA,NA,NA
+"Loudon, NH",2018,"New Hampshire","Merrimack","Loudon","Targeted","2","2","1",1,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Atkinson, NH",2018,"New Hampshire","Rockingham","Atkinson","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Candia, NH",2018,"New Hampshire","Rockingham","Candia","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Danville, NH",2018,"New Hampshire","Rockingham","Danville","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Deerfield, NH",2018,"New Hampshire","Rockingham","Deerfield","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Derry, NH",2018,"New Hampshire","Rockingham","Derry","Targeted","12","13","13",13,"14","561","13","561","13","No Event",NA,NA,NA,NA
+"Exeter, NH",2018,"New Hampshire","Rockingham","Exeter","Targeted","13","14","14",14,"19","154","14","153","19","EventCity",NA,NA,NA,NA
+"Hampstead, NH",2018,"New Hampshire","Rockingham","Hampstead","Targeted","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Hampton, NH",2018,"New Hampshire","Rockingham","Hampton","Targeted","6","6","5",6,"6","0","6","0","6","No Event",NA,NA,NA,NA
+"Kingston, NH",2018,"New Hampshire","Rockingham","Kingston","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Londonderry, NH",2018,"New Hampshire","Rockingham","Londonderry","Targeted","18","18","15",15,"18","0","18","0","18","EventCity",NA,NA,NA,NA
+"Newmarket, NH",2018,"New Hampshire","Rockingham","Newmarket","Targeted","8","8","3",8,"8","0","8","0","8","No Event",NA,NA,NA,NA
+"Newton, NH",2018,"New Hampshire","Rockingham","Newton","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Portsmouth, NH",2018,"New Hampshire","Rockingham","Portsmouth","Targeted","19","21","19",21,"23","95","21","95","22","No Event",NA,NA,NA,NA
+"Raymond, NH",2018,"New Hampshire","Rockingham","Raymond","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Salem, NH",2018,"New Hampshire","Rockingham","Salem","Targeted","7","8","8",8,"9","11","8","11","9","EventCity",NA,NA,NA,NA
+"Stratham, NH",2018,"New Hampshire","Rockingham","Stratham","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Windham, NH",2018,"New Hampshire","Rockingham","Windham","Targeted","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Barrington, NH",2018,"New Hampshire","Strafford","Barrington","Targeted","16","18","12",18,"20","893","18","893","18","No Event",NA,NA,NA,NA
+"Dover, NH",2018,"New Hampshire","Strafford","Dover","Targeted","24","25","25",23,"26","3","25","3","25","No Event",NA,NA,NA,NA
+"Durham, NH",2018,"New Hampshire","Strafford","Durham","Targeted","9","9","9",8,"9","0","9","0","9","EventCity",NA,NA,NA,NA
+"Farmington, NH",2018,"New Hampshire","Strafford","Farmington","Targeted","5","5","4",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"New Durham, NH",2018,"New Hampshire","Strafford","New Durham","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Rochester, NH",2018,"New Hampshire","Strafford","Rochester","Targeted","20","22","15",21,"24","46","22","46","22","No Event",NA,NA,NA,NA
+"Strafford, NH",2018,"New Hampshire","Strafford","Strafford","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Claremont, NH",2018,"New Hampshire","Sullivan","Claremont","Other","3","4","4",4,"6","167","4","168","5","No Event",NA,NA,NA,NA
+"Sunapee, NH",2018,"New Hampshire","Sullivan","Sunapee","Other","1","2","1",2,"7","1,314","2","1,314","2","No Event",NA,NA,NA,NA
+"Barrington, RI",2018,"Rhode Island","Bristol","Barrington","Targeted","14","15","14",13,"16","0","15","0","15","No Event",NA,NA,NA,NA
+"Bristol, RI",2018,"Rhode Island","Bristol","Bristol","Targeted","4","4","4",4,"4","0","4","0","4","EventCity",NA,NA,NA,NA
+"Warren, RI",2018,"Rhode Island","Bristol","Warren","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Coventry, RI",2018,"Rhode Island","Kent","Coventry","Targeted","14","16","10",15,"18","1","16","1","16","No Event",NA,NA,NA,NA
+"East Greenwich, RI",2018,"Rhode Island","Kent","East Greenwich","Targeted","3","4","4",4,"5","3","4","3","4","No Event",NA,NA,NA,NA
+"Warwick, RI",2018,"Rhode Island","Kent","Warwick","Targeted","36","37","32",34,"38","73","37","73","37","EventCity",NA,NA,NA,NA
+"West Warwick, RI",2018,"Rhode Island","Kent","West Warwick","Targeted","2","3","3",3,"4","1,054","3","1,054","3","No Event",NA,NA,NA,NA
+"Middletown, RI",2018,"Rhode Island","Newport","Middletown","Other","3","3","3",3,"3","0","3","0","3","No Event",NA,NA,NA,NA
+"Portsmouth, RI",2018,"Rhode Island","Newport","Portsmouth","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Tiverton, RI",2018,"Rhode Island","Newport","Tiverton","Other","5","5","3",5,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Burrillville, RI",2018,"Rhode Island","Providence","Burrillville","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Central Falls, RI",2018,"Rhode Island","Providence","Central Falls","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Cranston, RI",2018,"Rhode Island","Providence","Cranston","Targeted","59","62","46",50,"65","6","62","6","62","No Event",NA,NA,NA,NA
+"Cumberland, RI",2018,"Rhode Island","Providence","Cumberland","Targeted","7","7","7",7,"7","0","7","0","7","No Event",NA,NA,NA,NA
+"East Providence, RI",2018,"Rhode Island","Providence","East Providence","Targeted","33","34","24",28,"35","920","34","920","34","No Event",NA,NA,NA,NA
+"Johnston, RI",2018,"Rhode Island","Providence","Johnston","Targeted","5","6","6",6,"7","130","6","130","6","No Event",NA,NA,NA,NA
+"Lincoln, RI",2018,"Rhode Island","Providence","Lincoln","Targeted","4","6","6",6,"8","1,321","6","1,321","6","No Event",NA,NA,NA,NA
+"North Providence, RI",2018,"Rhode Island","Providence","North Providence","Targeted","23","24","18",22,"25","2","24","2","24","No Event",NA,NA,NA,NA
+"Pawtucket, RI",2018,"Rhode Island","Providence","Pawtucket","Targeted","80","84","42",66,"102","1,208","84","1,209","95","EventCity",NA,NA,NA,NA
+"Providence, RI",2018,"Rhode Island","Providence","Providence","Targeted","194","205","162",133,"218","2,811","205","2,811","206","EventCity",NA,NA,NA,NA
+"Scituate, RI",2018,"Rhode Island","Providence","Scituate","Targeted","4","4","3",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Smithfield, RI",2018,"Rhode Island","Providence","Smithfield","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Woonsocket, RI",2018,"Rhode Island","Providence","Woonsocket","Targeted","15","15","11",15,"15","0","15","0","15","No Event",NA,NA,NA,NA
+"Hopkinton, RI",2018,"Rhode Island","Washington","Hopkinton","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Narragansett, RI",2018,"Rhode Island","Washington","Narragansett","Targeted","2","3","3",3,"4","195","3","195","3","No Event",NA,NA,NA,NA
+"North Kingstown, RI",2018,"Rhode Island","Washington","North Kingstown","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"South Kingstown, RI",2018,"Rhode Island","Washington","South Kingstown","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Westerly, RI",2018,"Rhode Island","Washington","Westerly","Targeted","1","1","0",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Bennington, VT",2018,"Vermont","Bennington","Bennington","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Lyndon, VT",2018,"Vermont","Caledonia","Lyndon","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Saint Johnsbury, VT",2018,"Vermont","Caledonia","Saint Johnsbury","Targeted","4","4","4",4,"4","0","4","0","4","No Event",NA,NA,NA,NA
+"Burlington, VT",2018,"Vermont","Chittenden","Burlington","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Colchester, VT",2018,"Vermont","Chittenden","Colchester","Targeted","3","3","1",3,"3","0","3","0","3","EventCity",NA,NA,NA,NA
+"Essex, VT",2018,"Vermont","Chittenden","Essex","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"South Burlington, VT",2018,"Vermont","Chittenden","South Burlington","Targeted","2","2","2",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Williston, VT",2018,"Vermont","Chittenden","Williston","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Morristown, VT",2018,"Vermont","Lamouille","Morristown","Targeted","10","10","10",8,"10","0","10","0","10","No Event",NA,NA,NA,NA
+"Stowe, VT",2018,"Vermont","Lamouille","Stowe","Targeted","5","5","5",4,"5","0","5","0","5","EventCity",NA,NA,NA,NA
+"Newport, VT",2018,"Vermont","Orleans","Newport","Targeted","2","2","2",2,"2","0","2","0","2","EventCity",NA,NA,NA,NA
+"Fair Haven, VT",2018,"Vermont","Rutland","Fair Haven","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Killington, VT",2018,"Vermont","Rutland","Killington","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Rutland, VT",2018,"Vermont","Rutland","Rutland","Other","5","5","5",5,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Barre, VT",2018,"Vermont","Washington","Barre","Targeted","2","3","2",3,"4","2","3","2","3","EventCity",NA,NA,NA,NA
+"Montpelier, VT",2018,"Vermont","Washington","Montpelier","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Waterbury, VT",2018,"Vermont","Washington","Waterbury","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Marlboro, VT",2018,"Vermont","Windham","Marlboro","Other","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hartford, VT",2018,"Vermont","Windsor","Hartford","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Hartland, VT",2018,"Vermont","Windsor","Hartland","Targeted","5","5","0",4,"5","0","5","0","5","No Event",NA,NA,NA,NA
+"Norwich, VT",2018,"Vermont","Windsor","Norwich","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Springfield, VT",2018,"Vermont","Windsor","Springfield","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA
+"Windsor, VT",2018,"Vermont","Windsor","Windsor","Targeted","2","2","1",2,"2","0","2","0","2","No Event",NA,NA,NA,NA
+"Woodstock, VT",2018,"Vermont","Windsor","Woodstock","Targeted","1","1","1",1,"1","0","1","0","1","No Event",NA,NA,NA,NA

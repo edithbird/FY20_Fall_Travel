@@ -1,0 +1,1402 @@
+CityState,ZIP,City,State,lat,lon
+"Portsmouth, NH",00210,Portsmouth,NH,43.005895,-71.013202
+"Agawam, MA",01001,Agawam,MA,42.07061,-72.62029
+"Amherst, MA",01002,Amherst,MA,42.377651,-72.50323
+"Barre, MA",01005,Barre,MA,42.412094,-72.10443
+"Belchertown, MA",01007,Belchertown,MA,42.278424,-72.411
+"Blandford, MA",01008,Blandford,MA,42.174313,-72.94828
+"Bondsville, MA",01009,Bondsville,MA,42.206092,-72.340486
+"Brimfield, MA",01010,Brimfield,MA,42.126038,-72.20552
+"Chester, MA",01011,Chester,MA,42.271442,-73.01958
+"Chesterfield, MA",01012,Chesterfield,MA,42.390836,-72.84356
+"Chicopee, MA",01013,Chicopee,MA,42.161492,-72.60316
+"Cummington, MA",01026,Cummington,MA,42.465041,-72.91813
+"Easthampton, MA",01027,Easthampton,MA,42.27279,-72.68677
+"East Longmeadow, MA",01028,East Longmeadow,MA,42.066795,-72.5102
+"East Otis, MA",01029,East Otis,MA,42.175896,-73.04204
+"Feeding Hills, MA",01030,Feeding Hills,MA,42.070774,-72.67248
+"Gilbertville, MA",01031,Gilbertville,MA,42.33071,-72.18833
+"Goshen, MA",01032,Goshen,MA,42.45792,-72.81551
+"Granby, MA",01033,Granby,MA,42.254563,-72.51831
+"Granville, MA",01034,Granville,MA,42.086224,-72.94464
+"Hadley, MA",01035,Hadley,MA,42.35549,-72.5733
+"Hampden, MA",01036,Hampden,MA,42.064703,-72.41735
+"Hardwick, MA",01037,Hardwick,MA,42.374202,-72.19524
+"Hatfield, MA",01038,Hatfield,MA,42.375155,-72.60832
+"Haydenville, MA",01039,Haydenville,MA,42.381475,-72.69259
+"Holyoke, MA",01040,Holyoke,MA,42.201891,-72.6242
+"Huntington, MA",01050,Huntington,MA,42.290209,-72.87942
+"Leeds, MA",01053,Leeds,MA,42.353105,-72.70206
+"Leverett, MA",01054,Leverett,MA,42.479839,-72.49879
+"Ludlow, MA",01056,Ludlow,MA,42.174893,-72.47068
+"Monson, MA",01057,Monson,MA,42.089269,-72.317
+"North Amherst, MA",01059,North Amherst,MA,42.369562,-72.63599
+"Northampton, MA",01060,Northampton,MA,42.324539,-72.63561
+"Florence, MA",01062,Florence,MA,42.324232,-72.67915
+"North Hatfield, MA",01066,North Hatfield,MA,42.406697,-72.633901
+"Oakham, MA",01068,Oakham,MA,42.349769,-72.04413
+"Palmer, MA",01069,Palmer,MA,42.176401,-72.32646
+"Plainfield, MA",01070,Plainfield,MA,42.515853,-72.91661
+"Russell, MA",01071,Russell,MA,42.165931,-72.85153
+"Shutesbury, MA",01072,Shutesbury,MA,42.486027,-72.42208
+"Southampton, MA",01073,Southampton,MA,42.223885,-72.72777
+"South Barre, MA",01074,South Barre,MA,42.375998,-72.149388
+"South Hadley, MA",01075,South Hadley,MA,42.234891,-72.58243
+"Southwick, MA",01077,Southwick,MA,42.05283,-72.76966
+"Thorndike, MA",01079,Thorndike,MA,42.192892,-72.329574
+"Three Rivers, MA",01080,Three Rivers,MA,42.180563,-72.36518
+"Wales, MA",01081,Wales,MA,42.058024,-72.22517
+"Ware, MA",01082,Ware,MA,42.270611,-72.26067
+"Warren, MA",01083,Warren,MA,42.20468,-72.20259
+"West Chesterfield, MA",01084,West Chesterfield,MA,42.379807,-72.89043
+"Westfield, MA",01085,Westfield,MA,42.133642,-72.75029
+"West Hatfield, MA",01088,West Hatfield,MA,42.388831,-72.6321
+"West Springfield, MA",01089,West Springfield,MA,42.112793,-72.64066
+"West Warren, MA",01092,West Warren,MA,42.210777,-72.23904
+"Whately, MA",01093,Whately,MA,42.442673,-72.652511
+"Wheelwright, MA",01094,Wheelwright,MA,42.358201,-72.140846
+"Wilbraham, MA",01095,Wilbraham,MA,42.12531,-72.44057
+"Williamsburg, MA",01096,Williamsburg,MA,42.415236,-72.78271
+"Woronoco, MA",01097,Woronoco,MA,42.161743,-72.845912
+"Worthington, MA",01098,Worthington,MA,42.399054,-72.93871
+"Springfield, MA",01101,Springfield,MA,42.170731,-72.604842
+"Longmeadow, MA",01106,Longmeadow,MA,42.050395,-72.5712
+"Indian Orchard, MA",01151,Indian Orchard,MA,42.153926,-72.50531
+"Pittsfield, MA",01201,Pittsfield,MA,42.45384,-73.254
+"Adams, MA",01220,Adams,MA,42.619727,-73.11842
+"Ashley Falls, MA",01222,Ashley Falls,MA,42.057496,-73.32177
+"Becket, MA",01223,Becket,MA,42.314449,-73.09335
+"Berkshire, MA",01224,Berkshire,MA,42.3929,-73.228483
+"Cheshire, MA",01225,Cheshire,MA,42.551731,-73.1653
+"Dalton, MA",01226,Dalton,MA,42.476575,-73.11547
+"Glendale, MA",01229,Glendale,MA,42.279292,-73.343545
+"Great Barrington, MA",01230,Great Barrington,MA,42.189715,-73.35249
+"Sheffield, MA",01231,Sheffield,MA,42.153001,-73.298131
+"Hinsdale, MA",01235,Hinsdale,MA,42.433661,-73.09278
+"Housatonic, MA",01236,Housatonic,MA,42.266874,-73.36236
+"Lanesboro, MA",01237,Lanesboro,MA,42.557346,-73.24364
+"Lee, MA",01238,Lee,MA,42.299263,-73.2327
+"Lenox, MA",01240,Lenox,MA,42.36237,-73.27683
+"Lenox Dale, MA",01242,Lenox Dale,MA,42.336557,-73.24599
+"Middlefield, MA",01243,Middlefield,MA,42.356088,-73.010448
+"Mill River, MA",01244,Mill River,MA,42.139104,-73.20312
+"Monterey, MA",01245,Monterey,MA,42.180659,-73.20849
+"North Adams, MA",01247,North Adams,MA,42.696064,-73.10145
+"North Egremont, MA",01252,North Egremont,MA,42.198648,-73.446234
+"Otis, MA",01253,Otis,MA,42.198403,-73.10205
+"Richmond, MA",01254,Richmond,MA,42.374711,-73.36336
+"Sandisfield, MA",01255,Sandisfield,MA,42.088973,-73.12444
+"Savoy, MA",01256,Savoy,MA,42.592506,-73.01123
+"South Egremont, MA",01258,South Egremont,MA,42.103122,-73.45734
+"Southfield, MA",01259,Southfield,MA,42.0645,-73.24674
+"South Lee, MA",01260,South Lee,MA,42.286586,-73.313274
+"Stockbridge, MA",01262,Stockbridge,MA,42.283216,-73.31423
+"Tyringham, MA",01264,Tyringham,MA,42.224905,-73.20394
+"West Stockbridge, MA",01266,West Stockbridge,MA,42.328535,-73.36407
+"Williamstown, MA",01267,Williamstown,MA,42.689962,-73.22355
+"Windsor, MA",01270,Windsor,MA,42.443726,-73.116127
+"Greenfield, MA",01301,Greenfield,MA,42.605524,-72.60098
+"Ashfield, MA",01330,Ashfield,MA,42.521131,-72.81116
+"Athol, MA",01331,Athol,MA,42.579931,-72.20836
+"Bernardston, MA",01337,Bernardston,MA,42.678023,-72.55569
+"Buckland, MA",01338,Buckland,MA,42.569498,-72.802
+"Charlemont, MA",01339,Charlemont,MA,42.626858,-72.87939
+"Colrain, MA",01340,Colrain,MA,42.673371,-72.73104
+"Conway, MA",01341,Conway,MA,42.508313,-72.70403
+"Deerfield, MA",01342,Deerfield,MA,42.542322,-72.6091
+"Drury, MA",01343,Drury,MA,42.642666,-72.986231
+"Erving, MA",01344,Erving,MA,42.607051,-72.41396
+"Heath, MA",01346,Heath,MA,42.669255,-72.80494
+"Lake Pleasant, MA",01347,Lake Pleasant,MA,42.556558,-72.518104
+"Turners Falls, MA",01349,Turners Falls,MA,42.5737,-72.50525
+"Monroe Bridge, MA",01350,Monroe Bridge,MA,42.712257,-72.97629
+"Montague, MA",01351,Montague,MA,42.534976,-72.52522
+"Northfield, MA",01354,Northfield,MA,42.522178,-72.624164
+"New Salem, MA",01355,New Salem,MA,42.485899,-72.33345
+"Orange, MA",01364,Orange,MA,42.599614,-72.29263
+"Petersham, MA",01366,Petersham,MA,42.474718,-72.21226
+"Rowe, MA",01367,Rowe,MA,42.694883,-72.90962
+"Royalston, MA",01368,Royalston,MA,42.671012,-72.16999
+"Shattuckville, MA",01369,Shattuckville,MA,42.522178,-72.624164
+"Shelburne Falls, MA",01370,Shelburne Falls,MA,42.603447,-72.72754
+"South Deerfield, MA",01373,South Deerfield,MA,42.472734,-72.62452
+"Sunderland, MA",01375,Sunderland,MA,42.449978,-72.56302
+"Warwick, MA",01378,Warwick,MA,42.667152,-72.32729
+"Wendell, MA",01379,Wendell,MA,42.547274,-72.41724
+"Wendell Depot, MA",01380,Wendell Depot,MA,42.594455,-72.36314
+"Fitchburg, MA",01420,Fitchburg,MA,42.578689,-71.80338
+"Westborough, MA",01427,Westborough,MA,42.286575,-71.585753
+"Ashburnham, MA",01430,Ashburnham,MA,42.658768,-71.93287
+"Ashby, MA",01431,Ashby,MA,42.672005,-71.8137
+"Ayer, MA",01432,Ayer,MA,42.549821,-71.59136
+"Devens, MA",01434,Devens,MA,42.53,-71.61
+"Baldwinville, MA",01436,Baldwinville,MA,42.608903,-72.08021
+"East Templeton, MA",01438,East Templeton,MA,42.563367,-72.03498
+"Gardner, MA",01440,Gardner,MA,42.575355,-71.99183
+"Groton, MA",01450,Groton,MA,42.609887,-71.55722
+"Harvard, MA",01451,Harvard,MA,42.505928,-71.5888
+"Hubbardston, MA",01452,Hubbardston,MA,42.477515,-71.99654
+"Leominster, MA",01453,Leominster,MA,42.526523,-71.75358
+"Littleton, MA",01460,Littleton,MA,42.540052,-71.49085
+"Lunenburg, MA",01462,Lunenburg,MA,42.582839,-71.72051
+"Pepperell, MA",01463,Pepperell,MA,42.665686,-71.5929
+"Shirley, MA",01464,Shirley,MA,42.559289,-71.64555
+"Still River, MA",01467,Still River,MA,42.488666,-71.62412
+"Templeton, MA",01468,Templeton,MA,42.557796,-72.06824
+"Townsend, MA",01469,Townsend,MA,42.658738,-71.69204
+"West Groton, MA",01472,West Groton,MA,42.446396,-71.459405
+"Westminster, MA",01473,Westminster,MA,42.544622,-71.9021
+"West Townsend, MA",01474,West Townsend,MA,42.669408,-71.74578
+"Winchendon, MA",01475,Winchendon,MA,42.675441,-72.0467
+"Winchendon Springs, MA",01477,Winchendon Springs,MA,42.364807,-71.896868
+"Auburn, MA",01501,Auburn,MA,42.20361,-71.83843
+"Berlin, MA",01503,Berlin,MA,42.380562,-71.62665
+"Blackstone, MA",01504,Blackstone,MA,42.028147,-71.52999
+"Boylston, MA",01505,Boylston,MA,42.338392,-71.73026
+"Brookfield, MA",01506,Brookfield,MA,42.200374,-72.09787
+"Charlton, MA",01507,Charlton,MA,42.135142,-71.96961
+"Charlton City, MA",01508,Charlton City,MA,42.109748,-72.079455
+"Charlton Depot, MA",01509,Charlton Depot,MA,42.364807,-71.896868
+"Clinton, MA",01510,Clinton,MA,42.418836,-71.68482
+"East Brookfield, MA",01515,East Brookfield,MA,42.212777,-72.05311
+"Douglas, MA",01516,Douglas,MA,42.061437,-71.72887
+"East Princeton, MA",01517,East Princeton,MA,42.364807,-71.896868
+"Fiskdale, MA",01518,Fiskdale,MA,42.12515,-72.12393
+"Grafton, MA",01519,Grafton,MA,42.201674,-71.68771
+"Holden, MA",01520,Holden,MA,42.338962,-71.84434
+"Holland, MA",01521,Holland,MA,42.054676,-72.16137
+"Jefferson, MA",01522,Jefferson,MA,42.369658,-71.87418
+"Lancaster, MA",01523,Lancaster,MA,42.473131,-71.67946
+"Leicester, MA",01524,Leicester,MA,42.238942,-71.91908
+"Linwood, MA",01525,Linwood,MA,42.364807,-71.896868
+"Manchaug, MA",01526,Manchaug,MA,42.364807,-71.896868
+"Millbury, MA",01527,Millbury,MA,42.196144,-71.76272
+"Millville, MA",01529,Millville,MA,42.036396,-71.57798
+"New Braintree, MA",01531,New Braintree,MA,42.317121,-72.12248
+"Northborough, MA",01532,Northborough,MA,42.321917,-71.64692
+"Northbridge, MA",01534,Northbridge,MA,42.140741,-71.64376
+"North Brookfield, MA",01535,North Brookfield,MA,42.267274,-72.07823
+"North Grafton, MA",01536,North Grafton,MA,42.231444,-71.70523
+"North Oxford, MA",01537,North Oxford,MA,42.170846,-71.88989
+"North Uxbridge, MA",01538,North Uxbridge,MA,42.364807,-71.896868
+"Oxford, MA",01540,Oxford,MA,42.117527,-71.8657
+"Princeton, MA",01541,Princeton,MA,42.451569,-71.882
+"Rochdale, MA",01542,Rochdale,MA,42.194793,-71.90651
+"Rutland, MA",01543,Rutland,MA,42.380877,-71.96427
+"Shrewsbury, MA",01545,Shrewsbury,MA,42.286643,-71.72502
+"Southbridge, MA",01550,Southbridge,MA,42.070827,-72.03533
+"South Grafton, MA",01560,South Grafton,MA,42.177462,-71.69382
+"South Lancaster, MA",01561,South Lancaster,MA,42.443539,-71.686137
+"Spencer, MA",01562,Spencer,MA,42.247212,-71.99227
+"Sterling, MA",01564,Sterling,MA,42.436875,-71.77333
+"Sturbridge, MA",01566,Sturbridge,MA,42.104581,-72.08584
+"Upton, MA",01568,Upton,MA,42.17382,-71.60971
+"Uxbridge, MA",01569,Uxbridge,MA,42.064978,-71.62992
+"Webster, MA",01570,Webster,MA,42.047728,-71.86108
+"Dudley, MA",01571,Dudley,MA,42.049864,-71.9173
+"West Boylston, MA",01583,West Boylston,MA,42.359842,-71.787
+"West Brookfield, MA",01585,West Brookfield,MA,42.242965,-72.16734
+"West Millbury, MA",01586,West Millbury,MA,42.364807,-71.896868
+"Whitinsville, MA",01588,Whitinsville,MA,42.114195,-71.67225
+"Sutton, MA",01590,Sutton,MA,42.131028,-71.75121
+"Worcester, MA",01601,Worcester,MA,42.265275,-71.879415
+"Cherry Valley, MA",01611,Cherry Valley,MA,42.238449,-71.87139
+"Paxton, MA",01612,Paxton,MA,42.307591,-71.91929
+"Tolland, MA",01634,Tolland,MA,42.069484,-72.999433
+"Framingham, MA",01701,Framingham,MA,42.318695,-71.42344
+"Village Of Nagog Woods, MA",01718,Village Of Nagog Woods,MA,42.519739,-71.42721
+"Boxborough, MA",01719,Boxborough,MA,42.486259,-71.51244
+"Acton, MA",01720,Acton,MA,42.477142,-71.4422
+"Ashland, MA",01721,Ashland,MA,42.257956,-71.45886
+"Bedford, MA",01730,Bedford,MA,42.496679,-71.27504
+"Hanscom AFB, MA",01731,Hanscom AFB,MA,42.459085,-71.27556
+"Bolton, MA",01740,Bolton,MA,42.437086,-71.61266
+"Carlisle, MA",01741,Carlisle,MA,42.5286,-71.35084
+"Concord, MA",01742,Concord,MA,42.457201,-71.37478
+"Fayville, MA",01745,Fayville,MA,42.295544,-71.50468
+"Holliston, MA",01746,Holliston,MA,42.196065,-71.43797
+"Hopedale, MA",01747,Hopedale,MA,42.125536,-71.53662
+"Hopkinton, MA",01748,Hopkinton,MA,42.220447,-71.53418
+"Hudson, MA",01749,Hudson,MA,42.389813,-71.55791
+"Natick, MA",01750,Natick,MA,42.273817,-71.378157
+"Marlborough, MA",01752,Marlborough,MA,42.350909,-71.54753
+"Maynard, MA",01754,Maynard,MA,42.430781,-71.45594
+"Mendon, MA",01756,Mendon,MA,42.092006,-71.54474
+"Milford, MA",01757,Milford,MA,42.149176,-71.52149
+"Sherborn, MA",01770,Sherborn,MA,42.231025,-71.37202
+"Southborough, MA",01772,Southborough,MA,42.297643,-71.53369
+"Lincoln, MA",01773,Lincoln,MA,42.425537,-71.30316
+"Stow, MA",01775,Stow,MA,42.423882,-71.51086
+"Sudbury, MA",01776,Sudbury,MA,42.38532,-71.42989
+"Wayland, MA",01778,Wayland,MA,42.345583,-71.35643
+"Woodville, MA",01784,Woodville,MA,42.446396,-71.459405
+"Woburn, MA",01801,Woburn,MA,42.484545,-71.15206
+"Burlington, MA",01803,Burlington,MA,42.506362,-71.20008
+"Andover, MA",01810,Andover,MA,42.646942,-71.1513
+"Pinehurst, MA",01820,Pinehurst,MA,42.540779,-71.238175
+"Billerica, MA",01821,Billerica,MA,42.54805,-71.25054
+"Haverhill, MA",01823,Haverhill,MA,42.800429,-71.11087
+"Chelmsford, MA",01824,Chelmsford,MA,42.595491,-71.3544
+"Dracut, MA",01826,Dracut,MA,42.677772,-71.316
+"Dunstable, MA",01827,Dunstable,MA,42.671356,-71.50292
+"Georgetown, MA",01833,Georgetown,MA,42.729437,-70.98291
+"Groveland, MA",01834,Groveland,MA,42.750691,-71.02487
+"Lawrence, MA",01840,Lawrence,MA,42.706941,-71.16181
+"Methuen, MA",01844,Methuen,MA,42.73004,-71.17935
+"North Andover, MA",01845,North Andover,MA,42.683841,-71.11171
+"Lowell, MA",01850,Lowell,MA,42.655791,-71.30504
+"Merrimac, MA",01860,Merrimac,MA,42.834246,-71.00207
+"North Billerica, MA",01862,North Billerica,MA,42.573592,-71.2911
+"North Chelmsford, MA",01863,North Chelmsford,MA,42.634199,-71.39322
+"North Reading, MA",01864,North Reading,MA,42.583436,-71.0982
+"Nutting Lake, MA",01865,Nutting Lake,MA,42.446396,-71.459405
+"Reading, MA",01867,Reading,MA,42.52585,-71.10993
+"Tewksbury, MA",01876,Tewksbury,MA,42.601684,-71.22071
+"Tyngsboro, MA",01879,Tyngsboro,MA,42.671589,-71.41694
+"Wakefield, MA",01880,Wakefield,MA,42.501345,-71.07132
+"West Boxford, MA",01885,West Boxford,MA,42.635443,-70.879123
+"Westford, MA",01886,Westford,MA,42.592086,-71.43754
+"Wilmington, MA",01887,Wilmington,MA,42.558576,-71.17031
+"Winchester, MA",01890,Winchester,MA,42.451945,-71.14276
+"Lynn, MA",01901,Lynn,MA,42.461246,-70.946743
+"Saugus, MA",01906,Saugus,MA,42.462796,-71.0098
+"Swampscott, MA",01907,Swampscott,MA,42.474409,-70.90588
+"Nahant, MA",01908,Nahant,MA,42.427096,-70.92809
+"Amesbury, MA",01913,Amesbury,MA,42.854423,-70.93547
+"Beverly, MA",01915,Beverly,MA,42.560995,-70.8757
+"Boxford, MA",01921,Boxford,MA,42.677869,-71.00844
+"Byfield, MA",01922,Byfield,MA,42.76087,-70.92648
+"Danvers, MA",01923,Danvers,MA,42.569756,-70.94322
+"Essex, MA",01929,Essex,MA,42.631753,-70.77925
+"Gloucester, MA",01930,Gloucester,MA,42.624015,-70.67552
+"Hamilton, MA",01936,Hamilton,MA,42.635443,-70.879123
+"Hathorne, MA",01937,Hathorne,MA,42.635443,-70.879123
+"Ipswich, MA",01938,Ipswich,MA,42.682965,-70.84007
+"Lynnfield, MA",01940,Lynnfield,MA,42.527895,-71.02834
+"Manchester, MA",01944,Manchester,MA,42.580033,-70.76462
+"Marblehead, MA",01945,Marblehead,MA,42.497146,-70.86323
+"Salem, MA",01947,Salem,MA,42.642845,-70.873647
+"Middleton, MA",01949,Middleton,MA,42.602278,-71.01356
+"Newburyport, MA",01950,Newburyport,MA,42.809891,-70.86363
+"Newbury, MA",01951,Newbury,MA,42.780141,-70.86866
+"Salisbury, MA",01952,Salisbury,MA,42.85048,-70.86153
+"Peabody, MA",01960,Peabody,MA,42.534045,-70.96146
+"Prides Crossing, MA",01965,Prides Crossing,MA,42.558113,-70.825743
+"Rockport, MA",01966,Rockport,MA,42.659936,-70.61727
+"Rowley, MA",01969,Rowley,MA,42.716708,-70.90899
+"South Hamilton, MA",01982,South Hamilton,MA,42.616643,-70.86513
+"Topsfield, MA",01983,Topsfield,MA,42.642471,-70.94424
+"Wenham, MA",01984,Wenham,MA,42.600518,-70.87618
+"West Newbury, MA",01985,West Newbury,MA,42.790736,-70.97286
+"Accord, MA",02018,Accord,MA,41.970474,-70.701357
+"Bellingham, MA",02019,Bellingham,MA,42.075122,-71.47953
+"Brant Rock, MA",02020,Brant Rock,MA,42.081825,-70.643868
+"Canton, MA",02021,Canton,MA,42.166776,-71.1343
+"Cohasset, MA",02025,Cohasset,MA,42.241908,-70.81223
+"Dedham, MA",02026,Dedham,MA,42.244609,-71.16553
+"Providence, RI",02029,Providence,RI,41.817398,-71.453674
+"Dover, MA",02030,Dover,MA,42.23888,-71.28241
+"East Mansfield, MA",02031,East Mansfield,MA,41.998799,-71.200894
+"East Walpole, MA",02032,East Walpole,MA,42.153912,-71.21362
+"Foxboro, MA",02035,Foxboro,MA,42.061427,-71.24232
+"Franklin, MA",02038,Franklin,MA,42.089104,-71.4069
+"Greenbush, MA",02040,Greenbush,MA,41.970474,-70.701357
+"Green Harbor, MA",02041,Green Harbor,MA,42.069642,-70.649075
+"Hingham, MA",02043,Hingham,MA,42.225708,-70.88764
+"Hull, MA",02045,Hull,MA,42.286347,-70.87663
+"Humarock, MA",02047,Humarock,MA,42.142836,-70.69353
+"Mansfield, MA",02048,Mansfield,MA,42.019982,-71.2191
+"Marshfield, MA",02050,Marshfield,MA,42.109763,-70.69172
+"Marshfield Hills, MA",02051,Marshfield Hills,MA,42.151202,-70.734146
+"Medfield, MA",02052,Medfield,MA,42.185571,-71.30476
+"Medway, MA",02053,Medway,MA,42.151526,-71.42315
+"Millis, MA",02054,Millis,MA,42.166398,-71.36178
+"Minot, MA",02055,Minot,MA,41.970474,-70.701357
+"Norfolk, MA",02056,Norfolk,MA,42.111836,-71.32855
+"North Marshfield, MA",02059,North Marshfield,MA,41.970474,-70.701357
+"North Scituate, MA",02060,North Scituate,MA,41.970474,-70.701357
+"Norwell, MA",02061,Norwell,MA,42.15243,-70.8205
+"Norwood, MA",02062,Norwood,MA,42.185974,-71.20166
+"Ocean Bluff, MA",02065,Ocean Bluff,MA,42.097219,-70.651567
+"Scituate, MA",02066,Scituate,MA,42.205038,-70.7513
+"Sharon, MA",02067,Sharon,MA,42.113749,-71.17923
+"Sheldonville, MA",02070,Sheldonville,MA,42.180048,-71.08923
+"South Walpole, MA",02071,South Walpole,MA,42.101406,-71.27239
+"Stoughton, MA",02072,Stoughton,MA,42.125432,-71.10627
+"Walpole, MA",02081,Walpole,MA,42.145237,-71.25375
+"Foxborough, MA",02085,Foxborough,MA,42.075995,-71.286055
+"Westwood, MA",02090,Westwood,MA,42.212949,-71.20735
+"Wrentham, MA",02093,Wrentham,MA,42.0597,-71.34617
+"Boston, MA",02101,Boston,MA,42.370567,-71.026964
+"Mattapan, MA",02126,Mattapan,MA,42.272098,-71.09426
+"Charlestown, MA",02129,Charlestown,MA,42.378619,-71.06495
+"Jamaica Plain, MA",02130,Jamaica Plain,MA,42.309998,-71.11171
+"Roslindale, MA",02131,Roslindale,MA,42.284678,-71.13052
+"West Roxbury, MA",02132,West Roxbury,MA,42.279432,-71.1598
+"Allston, MA",02134,Allston,MA,42.355147,-71.13164
+"Brighton, MA",02135,Brighton,MA,42.348418,-71.15349
+"Hyde Park, MA",02136,Hyde Park,MA,42.252198,-71.12593
+"Readville, MA",02137,Readville,MA,42.338947,-70.919635
+"Cambridge, MA",02138,Cambridge,MA,42.379146,-71.12803
+"Somerville, MA",02143,Somerville,MA,42.381929,-71.09908
+"Brookline, MA",02146,Brookline,MA,42.308198,-71.088745
+"Brookline Village, MA",02147,Brookline Village,MA,42.180048,-71.08923
+"Malden, MA",02148,Malden,MA,42.428549,-71.06059
+"Everett, MA",02149,Everett,MA,42.409916,-71.0522
+"Chelsea, MA",02150,Chelsea,MA,42.396382,-71.03352
+"Revere, MA",02151,Revere,MA,42.416247,-71.00525
+"Winthrop, MA",02152,Winthrop,MA,42.373047,-70.97803
+"Medford, MA",02153,Medford,MA,42.446396,-71.459405
+"Waltham, MA",02154,Waltham,MA,42.388938,-71.2398
+"West Medford, MA",02156,West Medford,MA,42.446396,-71.459405
+"Babson Park, MA",02157,Babson Park,MA,42.173933,-71.185494
+"Newton, MA",02158,Newton,MA,42.353696,-71.188149
+"Auburndale, MA",02166,Auburndale,MA,42.346146,-71.243057
+"Chestnut Hill, MA",02167,Chestnut Hill,MA,42.320797,-71.169847
+"Waban, MA",02168,Waban,MA,42.446396,-71.459405
+"Quincy, MA",02169,Quincy,MA,42.250739,-70.99593
+"Watertown, MA",02172,Watertown,MA,42.372596,-71.177998
+"Lexington, MA",02173,Lexington,MA,42.446396,-71.459405
+"Arlington, MA",02174,Arlington,MA,42.417695,-71.167083
+"Arlington Heights, MA",02175,Arlington Heights,MA,42.446396,-71.459405
+"Melrose, MA",02176,Melrose,MA,42.459045,-71.06233
+"Belmont, MA",02178,Belmont,MA,42.446396,-71.459405
+"Waverley, MA",02179,Waverley,MA,42.446396,-71.459405
+"Stoneham, MA",02180,Stoneham,MA,42.480145,-71.09835
+"Wellesley, MA",02181,Wellesley,MA,42.300596,-71.27875
+"Braintree, MA",02184,Braintree,MA,42.209555,-70.99968
+"Milton, MA",02186,Milton,MA,42.253074,-71.07496
+"Milton Village, MA",02187,Milton Village,MA,42.180048,-71.08923
+"Weymouth, MA",02188,Weymouth,MA,42.212866,-70.95872
+"Needham, MA",02192,Needham,MA,42.180048,-71.08923
+"Weston, MA",02193,Weston,MA,42.446396,-71.459405
+"East Boston, MA",02228,East Boston,MA,42.35,-71.06
+"Brockton, MA",02301,Brockton,MA,42.0794,-71.03441
+"Avon, MA",02322,Avon,MA,42.121932,-71.04522
+"Bridgewater, MA",02324,Bridgewater,MA,41.979501,-70.97215
+"Bryantville, MA",02327,Bryantville,MA,42.040708,-70.827245
+"Carver, MA",02330,Carver,MA,41.873697,-70.7656
+"Duxbury, MA",02331,Duxbury,MA,41.970474,-70.701357
+"East Bridgewater, MA",02333,East Bridgewater,MA,42.029083,-70.95227
+"Easton, MA",02334,Easton,MA,42.023528,-71.132397
+"Elmwood, MA",02337,Elmwood,MA,42.022225,-70.931588
+"Halifax, MA",02338,Halifax,MA,41.999851,-70.85395
+"Hanover, MA",02339,Hanover,MA,42.12867,-70.85913
+"Hanson, MA",02341,Hanson,MA,42.059434,-70.86205
+"Holbrook, MA",02343,Holbrook,MA,42.148351,-71.01037
+"Middleboro, MA",02344,Middleboro,MA,41.970474,-70.701357
+"Manomet, MA",02345,Manomet,MA,41.888198,-70.581029
+"Lakeville, MA",02347,Lakeville,MA,41.835094,-70.95973
+"Monponsett, MA",02350,Monponsett,MA,42.018525,-70.847486
+"Abington, MA",02351,Abington,MA,42.119534,-70.94787
+"North Carver, MA",02355,North Carver,MA,41.916918,-70.801331
+"North Easton, MA",02356,North Easton,MA,42.058507,-71.11309
+"North Pembroke, MA",02358,North Pembroke,MA,41.805219,-70.62642
+"Pembroke, MA",02359,Pembroke,MA,42.065554,-70.80426
+"Plymouth, MA",02360,Plymouth,MA,41.894676,-70.61999
+"Kingston, MA",02364,Kingston,MA,41.993102,-70.73827
+"South Carver, MA",02366,South Carver,MA,41.854063,-70.66088
+"Plympton, MA",02367,Plympton,MA,41.968987,-70.80452
+"Randolph, MA",02368,Randolph,MA,42.173417,-71.04912
+"Dennis Port, MA",02369,Dennis Port,MA,41.662531,-70.14021
+"Rockland, MA",02370,Rockland,MA,42.129513,-70.91189
+"South Easton, MA",02375,South Easton,MA,42.029749,-71.10191
+"West Bridgewater, MA",02379,West Bridgewater,MA,42.02195,-71.01878
+"White Horse Beach, MA",02381,White Horse Beach,MA,41.931602,-70.561051
+"Whitman, MA",02382,Whitman,MA,42.08235,-70.93734
+"North Waltham, MA",02455,North Waltham,MA,42.39,-71.22
+"New Town, MA",02456,New Town,MA,42.446396,-71.459405
+"Newton Center, MA",02459,Newton Center,MA,42.321197,-71.193
+"Newtonville, MA",02460,Newtonville,MA,42.352996,-71.20907
+"Newton Highlands, MA",02461,Newton Highlands,MA,42.31883,-71.20822
+"Newton Lower Falls, MA",02462,Newton Lower Falls,MA,42.331646,-71.25761
+"Newton Upper Falls, MA",02464,Newton Upper Falls,MA,42.311997,-71.22046
+"West Newton, MA",02465,West Newton,MA,42.351046,-71.22677
+"Wellesley Hills, MA",02481,Wellesley Hills,MA,42.313329,-71.27649
+"Nonantum, MA",02495,Nonantum,MA,42.446396,-71.459405
+"Buzzards Bay, MA",02532,Buzzards Bay,MA,41.751841,-70.59764
+"Cataumet, MA",02534,Cataumet,MA,41.66566,-70.616
+"Chilmark, MA",02535,Chilmark,MA,41.345578,-70.75145
+"East Falmouth, MA",02536,East Falmouth,MA,41.578992,-70.5614
+"East Sandwich, MA",02537,East Sandwich,MA,41.733837,-70.43754
+"East Wareham, MA",02538,East Wareham,MA,41.782915,-70.64881
+"Edgartown, MA",02539,Edgartown,MA,41.380479,-70.52453
+"Falmouth, MA",02540,Falmouth,MA,41.56105,-70.61968
+"Woods Hole, MA",02543,Woods Hole,MA,41.526791,-70.66505
+"Mashpee, MA",02549,Mashpee,MA,41.621779,-70.504349
+"Oak Bluffs, MA",02551,Oak Bluffs,MA,41.453321,-70.558023
+"Menemsha, MA",02552,Menemsha,MA,41.379836,-70.643092
+"Monument Beach, MA",02553,Monument Beach,MA,41.67336,-70.608047
+"Nantucket, MA",02554,Nantucket,MA,41.276758,-70.09089
+"North Falmouth, MA",02556,North Falmouth,MA,41.6403,-70.63036
+"Onset, MA",02558,Onset,MA,41.746424,-70.65956
+"Pocasset, MA",02559,Pocasset,MA,41.694132,-70.61706
+"Sagamore, MA",02561,Sagamore,MA,41.770254,-70.533664
+"Sagamore Beach, MA",02562,Sagamore Beach,MA,41.793263,-70.519584
+"Sandwich, MA",02563,Sandwich,MA,41.735645,-70.48866
+"Siasconset, MA",02564,Siasconset,MA,41.273949,-70.015545
+"Silver Beach, MA",02565,Silver Beach,MA,41.799312,-70.308662
+"Vineyard Haven, MA",02568,Vineyard Haven,MA,41.451263,-70.60872
+"Wareham, MA",02571,Wareham,MA,41.751554,-70.71059
+"West Falmouth, MA",02574,West Falmouth,MA,41.603946,-70.638189
+"West Tisbury, MA",02575,West Tisbury,MA,41.378807,-70.66376
+"West Wareham, MA",02576,West Wareham,MA,41.776042,-70.75783
+"Hyannis, MA",02601,Hyannis,MA,41.654741,-70.2895
+"Barnstable Town, MA",02625,Barnstable Town,MA,41.640528,-70.433279
+"Barnstable, MA",02630,Barnstable,MA,41.700327,-70.29568
+"Brewster, MA",02631,Brewster,MA,41.746647,-70.07773
+"Centerville, MA",02632,Centerville,MA,41.658718,-70.34658
+"Chatham, MA",02633,Chatham,MA,41.686534,-69.97746
+"Cotuit, MA",02635,Cotuit,MA,41.625037,-70.44317
+"Cummaquid, MA",02637,Cummaquid,MA,41.701438,-70.277212
+"Dennis, MA",02638,Dennis,MA,41.736684,-70.19183
+"East Dennis, MA",02641,East Dennis,MA,41.734713,-70.20467
+"Eastham, MA",02642,Eastham,MA,41.844087,-69.98921
+"East Orleans, MA",02643,East Orleans,MA,41.784308,-69.962034
+"Forestdale, MA",02644,Forestdale,MA,41.683462,-70.51211
+"Harwich, MA",02645,Harwich,MA,41.707332,-70.05679
+"Harwich Port, MA",02646,Harwich Port,MA,41.669219,-70.07419
+"Hyannis Port, MA",02647,Hyannis Port,MA,41.63275,-70.30435
+"Marstons Mills, MA",02648,Marstons Mills,MA,41.667689,-70.4168
+"North Chatham, MA",02650,North Chatham,MA,41.702265,-69.96958
+"North Eastham, MA",02651,North Eastham,MA,41.824264,-69.98176
+"North Truro, MA",02652,North Truro,MA,42.02889,-70.07938
+"Orleans, MA",02653,Orleans,MA,41.777647,-69.97312
+"Osterville, MA",02655,Osterville,MA,41.632935,-70.38693
+"Provincetown, MA",02657,Provincetown,MA,42.053355,-70.18947
+"South Chatham, MA",02659,South Chatham,MA,41.678628,-70.02495
+"South Dennis, MA",02660,South Dennis,MA,41.712338,-70.16165
+"South Harwich, MA",02661,South Harwich,MA,41.675799,-70.0396
+"South Orleans, MA",02662,South Orleans,MA,41.756694,-69.984123
+"South Wellfleet, MA",02663,South Wellfleet,MA,41.800531,-70.076776
+"South Yarmouth, MA",02664,South Yarmouth,MA,41.670981,-70.19797
+"Truro, MA",02666,Truro,MA,41.992804,-70.05427
+"Wellfleet, MA",02667,Wellfleet,MA,41.922412,-70.01484
+"West Barnstable, MA",02668,West Barnstable,MA,41.70631,-70.37048
+"West Chatham, MA",02669,West Chatham,MA,41.673635,-69.99494
+"West Dennis, MA",02670,West Dennis,MA,41.659749,-70.17089
+"West Harwich, MA",02671,West Harwich,MA,41.665589,-70.11152
+"West Hyannisport, MA",02672,West Hyannisport,MA,41.636077,-70.31962
+"West Yarmouth, MA",02673,West Yarmouth,MA,41.656883,-70.23726
+"Yarmouth Port, MA",02675,Yarmouth Port,MA,41.703205,-70.22395
+"Assonet, MA",02702,Assonet,MA,41.792192,-71.06446
+"Attleboro, MA",02703,Attleboro,MA,41.928099,-71.31456
+"Chartley, MA",02712,Chartley,MA,41.756214,-71.067062
+"Cuttyhunk, MA",02713,Cuttyhunk,MA,41.429673,-70.8954
+"Dartmouth, MA",02714,Dartmouth,MA,41.756214,-71.067062
+"Dighton, MA",02715,Dighton,MA,41.811514,-71.13633
+"East Freetown, MA",02717,East Freetown,MA,41.765934,-70.95332
+"East Taunton, MA",02718,East Taunton,MA,41.876249,-71.01827
+"Fairhaven, MA",02719,Fairhaven,MA,41.634152,-70.8814
+"Fall River, MA",02720,Fall River,MA,41.716952,-71.13986
+"Somerset, MA",02725,Somerset,MA,41.721652,-71.17482
+"Marion, MA",02738,Marion,MA,41.706599,-70.75086
+"Mattapoisett, MA",02739,Mattapoisett,MA,41.654776,-70.80087
+"New Bedford, MA",02740,New Bedford,MA,41.634754,-70.93752
+"Acushnet, MA",02743,Acushnet,MA,41.697015,-70.91019
+"North Dartmouth, MA",02747,North Dartmouth,MA,41.637916,-70.99076
+"South Dartmouth, MA",02748,South Dartmouth,MA,41.59156,-70.9494
+"North Attleboro, MA",02760,North Attleboro,MA,41.975495,-71.33086
+"Plainville, MA",02762,Plainville,MA,42.011848,-71.32392
+"Attleboro Falls, MA",02763,Attleboro Falls,MA,41.967949,-71.31024
+"North Dighton, MA",02764,North Dighton,MA,41.851557,-71.15125
+"Norton, MA",02766,Norton,MA,41.969185,-71.1854
+"Raynham, MA",02767,Raynham,MA,41.934586,-71.04905
+"Raynham Center, MA",02768,Raynham Center,MA,41.756214,-71.067062
+"Rehoboth, MA",02769,Rehoboth,MA,41.835067,-71.26115
+"Rochester, MA",02770,Rochester,MA,41.760783,-70.83848
+"Seekonk, MA",02771,Seekonk,MA,41.84345,-71.32343
+"Swansea, MA",02777,Swansea,MA,41.741551,-71.21433
+"Berkley, MA",02779,Berkley,MA,41.825252,-71.07799
+"Taunton, MA",02780,Taunton,MA,41.904888,-71.10288
+"Westport, MA",02781,Westport,MA,41.522877,-71.069344
+"South Kingstown, RI",02789,South Kingstown,RI,41.487831,-71.457592
+"Westport Point, MA",02791,Westport Point,MA,41.519104,-71.085137
+"Adamsville, RI",02801,Adamsville,RI,41.530131,-71.284066
+"Albion, RI",02802,Albion,RI,41.954098,-71.462053
+"Ashaway, RI",02804,Ashaway,RI,41.430068,-71.78101
+"Foster, RI",02805,Foster,RI,41.830469,-71.711713
+"Barrington, RI",02806,Barrington,RI,41.746834,-71.32031
+"Block Island, RI",02807,Block Island,RI,41.171389,-71.58358
+"Bradford, RI",02808,Bradford,RI,41.402009,-71.74785
+"Bristol, RI",02809,Bristol,RI,41.6842,-71.26866
+"Carolina, RI",02812,Carolina,RI,41.46603,-71.66408
+"Charlestown, RI",02813,Charlestown,RI,41.385256,-71.66813
+"Chepachet, RI",02814,Chepachet,RI,41.896002,-71.70335
+"Clayville, RI",02815,Clayville,RI,41.777861,-71.67009
+"Coventry, RI",02816,Coventry,RI,41.69105,-71.57462
+"West Greenwich, RI",02817,West Greenwich,RI,41.625874,-71.67023
+"East Greenwich, RI",02818,East Greenwich,RI,41.649733,-71.46815
+"Exeter, RI",02822,Exeter,RI,41.563937,-71.60547
+"Fiskeville, RI",02823,Fiskeville,RI,41.7312,-71.546756
+"Forestdale, RI",02824,Forestdale,RI,42.000248,-71.563057
+"Glendale, RI",02826,Glendale,RI,41.982417,-71.600848
+"Greene, RI",02827,Greene,RI,41.695419,-71.74472
+"Greenville, RI",02828,Greenville,RI,41.870799,-71.5539
+"Harmony, RI",02829,Harmony,RI,41.879298,-71.589357
+"Harrisville, RI",02830,Harrisville,RI,41.976659,-71.64969
+"Hope, RI",02831,Hope,RI,41.73865,-71.57482
+"Hope Valley, RI",02832,Hope Valley,RI,41.511414,-71.72737
+"Hopkinton, RI",02833,Hopkinton,RI,41.470822,-71.77722
+"Jamestown, RI",02835,Jamestown,RI,41.520312,-71.3718
+"Kenyon, RI",02836,Kenyon,RI,41.448844,-71.62145
+"Little Compton, RI",02837,Little Compton,RI,41.518038,-71.16548
+"Manville, RI",02838,Manville,RI,41.968698,-71.47503
+"Mapleville, RI",02839,Mapleville,RI,41.948108,-71.64003
+"Newport, RI",02840,Newport,RI,41.488002,-71.31262
+"Middletown, RI",02842,Middletown,RI,41.511739,-71.28658
+"North Kingstown, RI",02852,North Kingstown,RI,41.589701,-71.454
+"North Scituate, RI",02857,North Scituate,RI,41.83902,-71.6257
+"Oakland, RI",02858,Oakland,RI,41.96186,-71.64661
+"Pascoag, RI",02859,Pascoag,RI,41.964896,-71.72311
+"Pawtucket, RI",02860,Pawtucket,RI,41.872099,-71.39007
+"Central Falls, RI",02863,Central Falls,RI,41.889863,-71.3926
+"Cumberland, RI",02864,Cumberland,RI,41.949099,-71.41181
+"Lincoln, RI",02865,Lincoln,RI,41.905666,-71.43023
+"Portsmouth, RI",02871,Portsmouth,RI,41.603929,-71.26099
+"Prudence Island, RI",02872,Prudence Island,RI,41.707119,-71.286834
+"Rockville, RI",02873,Rockville,RI,41.519922,-71.774023
+"Saunderstown, RI",02874,Saunderstown,RI,41.515135,-71.45692
+"Shannock, RI",02875,Shannock,RI,41.447642,-71.63877
+"Slatersville, RI",02876,Slatersville,RI,41.998398,-71.576307
+"Slocum, RI",02877,Slocum,RI,41.5289,-71.529854
+"Tiverton, RI",02878,Tiverton,RI,41.629413,-71.18724
+"Wakefield, RI",02879,Wakefield,RI,41.423601,-71.52322
+"Kingston, RI",02881,Kingston,RI,41.481001,-71.52689
+"Narragansett, RI",02882,Narragansett,RI,41.432452,-71.46352
+"Peace Dale, RI",02883,Peace Dale,RI,41.375317,-71.64393
+"Warren, RI",02885,Warren,RI,41.726184,-71.27049
+"Warwick, RI",02886,Warwick,RI,41.705478,-71.45119
+"Westerly, RI",02891,Westerly,RI,41.354881,-71.80387
+"West Kingston, RI",02892,West Kingston,RI,41.50155,-71.58465
+"West Warwick, RI",02893,West Warwick,RI,41.70375,-71.51857
+"Wood River Junction, RI",02894,Wood River Junction,RI,41.444078,-71.69556
+"Woonsocket, RI",02895,Woonsocket,RI,42.001731,-71.50722
+"North Smithfield, RI",02896,North Smithfield,RI,41.988166,-71.55188
+"Wyoming, RI",02898,Wyoming,RI,41.51495,-71.68484
+"Cranston, RI",02910,Cranston,RI,41.776867,-71.43672
+"North Providence, RI",02911,North Providence,RI,41.853699,-71.47354
+"East Providence, RI",02914,East Providence,RI,41.8124,-71.36834
+"Riverside, RI",02915,Riverside,RI,41.7695,-71.35564
+"Rumford, RI",02916,Rumford,RI,41.84325,-71.35391
+"Smithfield, RI",02917,Smithfield,RI,41.894499,-71.51646
+"Johnston, RI",02919,Johnston,RI,41.825132,-71.49468
+"Fremont, NH",03004,Fremont,NH,43.001762,-71.154866
+"Nashua, NH",03030,Nashua,NH,42.749988,-71.46431
+"Amherst, NH",03031,Amherst,NH,42.854886,-71.6082
+"Auburn, NH",03032,Auburn,NH,43.000345,-71.35141
+"Brookline, NH",03033,Brookline,NH,42.742587,-71.66605
+"Candia, NH",03034,Candia,NH,43.048372,-71.3078
+"Chester, NH",03036,Chester,NH,42.967823,-71.23453
+"Deerfield, NH",03037,Deerfield,NH,43.141746,-71.2488
+"Derry, NH",03038,Derry,NH,42.886486,-71.30019
+"East Candia, NH",03040,East Candia,NH,43.005895,-71.013202
+"East Derry, NH",03041,East Derry,NH,43.005895,-71.013202
+"Epping, NH",03042,Epping,NH,43.045076,-71.07095
+"Francestown, NH",03043,Francestown,NH,42.976901,-71.81007
+"Goffstown, NH",03045,Goffstown,NH,43.037495,-71.57023
+"Dunbarton, NH",03046,Dunbarton,NH,43.102146,-71.602132
+"Greenfield, NH",03047,Greenfield,NH,42.935709,-71.86645
+"Greenville, NH",03048,Greenville,NH,42.747024,-71.77591
+"Hollis, NH",03049,Hollis,NH,42.739909,-71.58044
+"Hudson, NH",03051,Hudson,NH,42.759821,-71.42079
+"Litchfield, NH",03052,Litchfield,NH,42.85059,-71.45379
+"Londonderry, NH",03053,Londonderry,NH,42.880481,-71.38205
+"Merrimack, NH",03054,Merrimack,NH,42.858053,-71.51216
+"Milford, NH",03055,Milford,NH,42.831686,-71.66743
+"Mont Vernon, NH",03057,Mont Vernon,NH,42.899434,-71.68057
+"Sharon, NH",03058,Sharon,NH,42.798995,-71.950759
+"New Boston, NH",03070,New Boston,NH,42.978267,-71.69414
+"New Ipswich, NH",03071,New Ipswich,NH,42.753726,-71.86706
+"North Salem, NH",03073,North Salem,NH,43.005895,-71.013202
+"Pelham, NH",03076,Pelham,NH,42.734182,-71.32359
+"Raymond, NH",03077,Raymond,NH,43.031491,-71.19598
+"Salem, NH",03079,Salem,NH,42.792456,-71.21316
+"Lyndeborough, NH",03082,Lyndeborough,NH,42.902259,-71.78452
+"Temple, NH",03084,Temple,NH,42.81949,-71.85063
+"Wilton, NH",03086,Wilton,NH,42.830184,-71.78177
+"Windham, NH",03087,Windham,NH,42.805194,-71.29878
+"Manchester, NH",03101,Manchester,NH,42.989984,-71.46376
+"Hooksett, NH",03106,Hooksett,NH,43.058785,-71.44412
+"Bedford, NH",03110,Bedford,NH,42.942551,-71.51993
+"Waterville Valley, NH",03215,Waterville Valley,NH,43.951304,-71.50336
+"Andover, NH",03216,Andover,NH,43.444702,-71.78401
+"Ashland, NH",03217,Ashland,NH,43.705061,-71.62778
+"Barnstead, NH",03218,Barnstead,NH,43.338347,-71.29305
+"Belmont, NH",03220,Belmont,NH,43.459555,-71.47352
+"Bradford, NH",03221,Bradford,NH,43.256053,-71.95405
+"Bristol, NH",03222,Bristol,NH,43.615799,-71.75006
+"Campton, NH",03223,Campton,NH,43.887682,-71.65161
+"Canterbury, NH",03224,Canterbury,NH,43.346137,-71.54434
+"Center Barnstead, NH",03225,Center Barnstead,NH,43.354005,-71.22819
+"Center Harbor, NH",03226,Center Harbor,NH,43.721094,-71.49652
+"Center Sandwich, NH",03227,Center Sandwich,NH,43.802936,-71.45126
+"Contoocook, NH",03229,Contoocook,NH,43.204192,-71.70711
+"Danbury, NH",03230,Danbury,NH,43.506405,-71.87281
+"East Andover, NH",03231,East Andover,NH,43.466172,-71.736518
+"East Hebron, NH",03232,East Hebron,NH,43.967542,-71.840883
+"Elkins, NH",03233,Elkins,NH,43.423484,-71.93648
+"Epsom, NH",03234,Epsom,NH,43.228594,-71.3611
+"Franklin, NH",03235,Franklin,NH,43.444456,-71.66034
+"Gilmanton, NH",03237,Gilmanton,NH,43.42975,-71.37517
+"Glencliff, NH",03238,Glencliff,NH,43.967542,-71.840883
+"Grafton, NH",03240,Grafton,NH,43.568328,-71.96422
+"Hebron, NH",03241,Hebron,NH,43.713794,-71.80642
+"Henniker, NH",03242,Henniker,NH,43.173469,-71.81722
+"Hill, NH",03243,Hill,NH,43.521669,-71.73815
+"Hillsboro, NH",03244,Hillsboro,NH,43.119417,-71.92108
+"Holderness, NH",03245,Holderness,NH,43.737831,-71.604406
+"Laconia, NH",03246,Laconia,NH,43.557153,-71.43842
+"Lincoln, NH",03251,Lincoln,NH,44.051981,-71.6606
+"Lochmere, NH",03252,Lochmere,NH,43.468562,-71.537145
+"Meredith, NH",03253,Meredith,NH,43.644559,-71.50488
+"Moultonborough, NH",03254,Moultonborough,NH,43.712184,-71.39299
+"Newbury, NH",03255,Newbury,NH,43.32582,-72.02654
+"New Hampton, NH",03256,New Hampton,NH,43.60768,-71.64372
+"New London, NH",03257,New London,NH,43.418863,-72.00004
+"Chichester, NH",03258,Chichester,NH,43.255881,-71.397599
+"North Sandwich, NH",03259,North Sandwich,NH,43.880005,-71.39475
+"North Sutton, NH",03260,North Sutton,NH,43.356838,-71.9255
+"Northwood, NH",03261,Northwood,NH,43.216633,-71.2079
+"North Woodstock, NH",03262,North Woodstock,NH,44.0285,-71.68701
+"Pittsfield, NH",03263,Pittsfield,NH,43.30368,-71.3215
+"Plymouth, NH",03264,Plymouth,NH,43.753837,-71.64503
+"Rumney, NH",03266,Rumney,NH,43.806365,-71.87952
+"Salisbury, NH",03268,Salisbury,NH,43.388571,-71.74199
+"Sanbornton, NH",03269,Sanbornton,NH,43.523175,-71.5876
+"South Newbury, NH",03272,South Newbury,NH,43.310279,-71.662928
+"South Sutton, NH",03273,South Sutton,NH,43.317257,-71.92709
+"Stinson Lake, NH",03274,Stinson Lake,NH,43.967542,-71.840883
+"Suncook, NH",03275,Suncook,NH,43.152469,-71.43654
+"Tilton, NH",03276,Tilton,NH,43.446729,-71.5785
+"Warner, NH",03278,Warner,NH,43.283838,-71.82537
+"Warren, NH",03279,Warren,NH,43.938224,-71.88853
+"Washington, NH",03280,Washington,NH,43.173046,-72.09755
+"Weare, NH",03281,Weare,NH,43.080986,-71.72329
+"Wentworth, NH",03282,Wentworth,NH,43.874357,-71.91765
+"Springfield, NH",03284,Springfield,NH,43.501755,-72.01296
+"Thornton, NH",03285,Thornton,NH,43.93,-71.62
+"Wilmot, NH",03287,Wilmot,NH,43.430018,-71.90457
+"Winnisquam, NH",03289,Winnisquam,NH,43.496372,-71.519728
+"Nottingham, NH",03290,Nottingham,NH,43.115874,-71.11081
+"West Nottingham, NH",03291,West Nottingham,NH,43.179984,-71.1392
+"Woodstock, NH",03293,Woodstock,NH,43.967542,-71.840883
+"Concord, NH",03301,Concord,NH,43.213705,-71.53774
+"Bow, NH",03304,Bow,NH,43.144614,-71.53576
+"Loudon, NH",03307,Loudon,NH,43.31773,-71.4534
+"Bennington, NH",03342,Bennington,NH,43.01428,-71.881017
+"Tamworth, NH",03386,Tamworth,NH,43.89715,-71.30915
+"Keene, NH",03431,Keene,NH,42.946418,-72.28616
+"Harrisville, NH",03438,Harrisville,NH,42.921791,-72.00547
+"Antrim, NH",03440,Antrim,NH,43.060424,-71.95068
+"Ashuelot, NH",03441,Ashuelot,NH,42.791069,-72.4352
+"Chesterfield, NH",03443,Chesterfield,NH,42.871815,-72.47163
+"Dublin, NH",03444,Dublin,NH,42.899874,-72.06334
+"Sullivan, NH",03445,Sullivan,NH,43.009728,-72.19383
+"Swanzey, NH",03446,Swanzey,NH,42.870578,-72.29978
+"Fitzwilliam, NH",03447,Fitzwilliam,NH,42.754744,-72.14838
+"Gilsum, NH",03448,Gilsum,NH,43.055293,-72.26149
+"Hancock, NH",03449,Hancock,NH,42.975105,-71.98913
+"Hinsdale, NH",03451,Hinsdale,NH,42.797633,-72.49518
+"Jaffrey, NH",03452,Jaffrey,NH,42.827096,-72.03418
+"Marlborough, NH",03455,Marlborough,NH,42.932177,-72.16219
+"Marlow, NH",03456,Marlow,NH,43.125523,-72.21382
+"Munsonville, NH",03457,Munsonville,NH,43.025227,-72.14365
+"Peterborough, NH",03458,Peterborough,NH,42.884919,-71.95133
+"Rindge, NH",03461,Rindge,NH,42.749835,-72.01034
+"Spofford, NH",03462,Spofford,NH,42.913966,-72.41522
+"Stoddard, NH",03464,Stoddard,NH,43.078658,-72.0959
+"Troy, NH",03465,Troy,NH,42.822155,-72.17618
+"West Chesterfield, NH",03466,West Chesterfield,NH,42.899338,-72.51629
+"Westmoreland, NH",03467,Westmoreland,NH,42.971069,-72.42512
+"West Peterborough, NH",03468,West Peterborough,NH,42.890804,-71.933396
+"West Swanzey, NH",03469,West Swanzey,NH,42.87341,-72.31509
+"Winchester, NH",03470,Winchester,NH,42.775629,-72.33893
+"Pittsburg, NH",03552,Pittsburg,NH,45.085717,-71.345714
+"Littleton, NH",03561,Littleton,NH,44.313606,-71.79751
+"Berlin, NH",03570,Berlin,NH,44.463337,-71.19092
+"Goshen, NH",03572,Goshen,NH,43.28616,-72.148784
+"Bethlehem, NH",03574,Bethlehem,NH,44.28177,-71.69225
+"Bretton Woods, NH",03575,Bretton Woods,NH,44.695648,-71.387387
+"Colebrook, NH",03576,Colebrook,NH,44.893888,-71.44766
+"Landaff, NH",03578,Landaff,NH,44.101208,-71.854211
+"Errol, NH",03579,Errol,NH,44.789296,-71.15394
+"Franconia, NH",03580,Franconia,NH,44.200124,-71.69959
+"Gorham, NH",03581,Gorham,NH,44.386557,-71.16273
+"Groveton, NH",03582,Groveton,NH,44.610605,-71.48147
+"Jefferson, NH",03583,Jefferson,NH,44.376866,-71.46436
+"Lancaster, NH",03584,Lancaster,NH,44.483756,-71.54999
+"Lisbon, NH",03585,Lisbon,NH,44.225864,-71.87371
+"Sugar Hill, NH",03586,Sugar Hill,NH,44.23,-71.78
+"Meadows, NH",03587,Meadows,NH,44.695648,-71.387387
+"Milan, NH",03588,Milan,NH,44.608332,-71.24335
+"Mount Washington, NH",03589,Mount Washington,NH,44.695648,-71.387387
+"North Stratford, NH",03590,North Stratford,NH,44.719769,-71.59395
+"Randolph, NH",03593,Randolph,NH,44.37,-71.25
+"Twin Mountain, NH",03595,Twin Mountain,NH,44.271516,-71.51746
+"West Stewartstown, NH",03597,West Stewartstown,NH,44.695648,-71.387387
+"Whitefield, NH",03598,Whitefield,NH,44.378771,-71.62248
+"Acworth, NH",03601,Acworth,NH,43.242719,-72.30269
+"Alstead, NH",03602,Alstead,NH,43.142384,-72.32575
+"Charlestown, NH",03603,Charlestown,NH,43.249468,-72.39026
+"Drewsville, NH",03604,Drewsville,NH,42.947098,-72.243029
+"Lempster, NH",03605,Lempster,NH,43.231807,-72.17556
+"South Acworth, NH",03607,South Acworth,NH,43.195329,-72.26894
+"Walpole, NH",03608,Walpole,NH,43.075411,-72.41902
+"North Walpole, NH",03609,North Walpole,NH,43.142254,-72.4483
+"Freedom, NH",03638,Freedom,NH,43.822389,-71.092797
+"Enfield, NH",03648,Enfield,NH,43.630276,-72.135352
+"Lyme, NH",03678,Lyme,NH,43.827375,-72.139036
+"Newport, NH",03733,Newport,NH,43.38807,-72.243666
+"Bath, NH",03740,Bath,NH,44.114163,-71.948852
+"Canaan, NH",03741,Canaan,NH,43.659172,-72.01333
+"Claremont, NH",03743,Claremont,NH,43.374562,-72.34152
+"Cornish, NH",03745,Cornish,NH,43.476337,-72.33337
+"Cornish Flat, NH",03746,Cornish Flat,NH,43.364504,-72.193966
+"Enfield Center, NH",03749,Enfield Center,NH,43.579573,-72.08541
+"Etna, NH",03750,Etna,NH,43.701003,-72.20056
+"Georges Mills, NH",03751,Georges Mills,NH,43.437503,-72.07185
+"Grantham, NH",03753,Grantham,NH,43.516383,-72.12954
+"Guild, NH",03754,Guild,NH,43.365618,-72.125562
+"Hanover, NH",03755,Hanover,NH,43.719756,-72.2507
+"Lebanon, NH",03756,Lebanon,NH,43.967542,-71.840883
+"Sunapee, NH",03757,Sunapee,NH,43.444147,-72.088709
+"Haverhill, NH",03765,Haverhill,NH,44.037125,-72.05658
+"Lyme Center, NH",03769,Lyme Center,NH,43.786267,-72.120468
+"Meriden, NH",03770,Meriden,NH,43.525462,-72.28072
+"Monroe, NH",03771,Monroe,NH,44.281722,-72.02789
+"North Haverhill, NH",03774,North Haverhill,NH,44.08541,-71.9943
+"Orford, NH",03777,Orford,NH,43.908925,-72.07831
+"Piermont, NH",03779,Piermont,NH,43.976427,-72.04409
+"Pike, NH",03780,Pike,NH,44.029684,-71.98612
+"Plainfield, NH",03781,Plainfield,NH,43.53357,-72.30353
+"West Lebanon, NH",03784,West Lebanon,NH,43.649781,-72.30594
+"Woodsville, NH",03785,Woodsville,NH,44.133215,-71.96306
+"Rollinsford, NH",03805,Rollinsford,NH,43.285282,-70.930684
+"Alton, NH",03809,Alton,NH,43.478364,-71.22377
+"Alton Bay, NH",03810,Alton Bay,NH,43.478917,-71.28776
+"Atkinson, NH",03811,Atkinson,NH,42.836245,-71.16246
+"Bartlett, NH",03812,Bartlett,NH,44.081906,-71.29729
+"Center Conway, NH",03813,Center Conway,NH,44.041089,-71.0627
+"Center Ossipee, NH",03814,Center Ossipee,NH,43.767878,-71.12926
+"Center Strafford, NH",03815,Center Strafford,NH,43.256254,-71.10317
+"Center Tuftonboro, NH",03816,Center Tuftonboro,NH,43.685171,-71.28404
+"Chocorua, NH",03817,Chocorua,NH,43.878112,-71.22069
+"Conway, NH",03818,Conway,NH,43.966958,-71.15892
+"Danville, NH",03819,Danville,NH,42.927682,-71.12034
+"Dover, NH",03820,Dover,NH,43.190984,-70.88787
+"Madbury, NH",03823,Madbury,NH,43.17,-70.93
+"Durham, NH",03824,Durham,NH,43.128085,-70.96035
+"Barrington, NH",03825,Barrington,NH,43.208136,-71.04356
+"East Hampstead, NH",03826,East Hampstead,NH,42.890357,-71.12296
+"East Kingston, NH",03827,East Kingston,NH,42.91574,-70.98459
+"East Wakefield, NH",03830,East Wakefield,NH,43.640621,-70.98935
+"Eaton Center, NH",03832,Eaton Center,NH,43.907045,-71.04716
+"Exeter, NH",03833,Exeter,NH,42.973783,-70.97665
+"Farmington, NH",03835,Farmington,NH,43.395688,-71.06217
+"Gilmanton Iron Works, NH",03837,Gilmanton Iron Works,NH,43.435913,-71.32971
+"Glen, NH",03838,Glen,NH,44.116958,-71.20354
+"Rochester, NH",03839,Rochester,NH,43.267581,-70.98552
+"Greenland, NH",03840,Greenland,NH,43.038279,-70.84714
+"Hampstead, NH",03841,Hampstead,NH,42.880837,-71.18252
+"Hampton, NH",03842,Hampton,NH,42.93569,-70.82514
+"Hampton Falls, NH",03844,Hampton Falls,NH,42.923946,-70.88666
+"Intervale, NH",03845,Intervale,NH,44.086488,-71.13865
+"Jackson, NH",03846,Jackson,NH,44.166268,-71.18089
+"Kearsarge, NH",03847,Kearsarge,NH,43.883871,-71.257726
+"Kingston, NH",03848,Kingston,NH,42.923643,-71.06236
+"Madison, NH",03849,Madison,NH,43.930805,-71.14311
+"Melvin Village, NH",03850,Melvin Village,NH,43.707657,-71.301681
+"Milton, NH",03851,Milton,NH,43.422942,-71.011369
+"Milton Mills, NH",03852,Milton Mills,NH,43.500126,-70.96931
+"Mirror Lake, NH",03853,Mirror Lake,NH,43.642398,-71.28614
+"New Castle, NH",03854,New Castle,NH,43.068338,-70.72353
+"New Durham, NH",03855,New Durham,NH,43.443682,-71.14628
+"Newfields, NH",03856,Newfields,NH,43.03833,-70.95076
+"Newmarket, NH",03857,Newmarket,NH,43.072738,-70.94336
+"Newton, NH",03858,Newton,NH,42.871322,-71.04807
+"Newton Junction, NH",03859,Newton Junction,NH,42.861915,-71.04002
+"North Conway, NH",03860,North Conway,NH,44.035684,-71.13084
+"Lee, NH",03861,Lee,NH,43.1,-71.01
+"North Hampton, NH",03862,North Hampton,NH,42.97778,-70.83055
+"Ossipee, NH",03864,Ossipee,NH,43.672636,-71.10266
+"Plaistow, NH",03865,Plaistow,NH,42.837189,-71.09445
+"Rye, NH",03870,Rye,NH,43.000003,-70.76517
+"Rye Beach, NH",03871,Rye Beach,NH,42.980639,-70.771896
+"Sanbornville, NH",03872,Sanbornville,NH,43.564008,-71.03405
+"Sandown, NH",03873,Sandown,NH,42.929588,-71.18444
+"Seabrook, NH",03874,Seabrook,NH,42.88439,-70.85466
+"Silver Lake, NH",03875,Silver Lake,NH,43.868287,-71.18267
+"Somersworth, NH",03878,Somersworth,NH,43.253783,-70.87549
+"South Effingham, NH",03882,South Effingham,NH,43.721239,-71.00006
+"South Tamworth, NH",03883,South Tamworth,NH,43.828696,-71.32104
+"Strafford, NH",03884,Strafford,NH,43.257919,-71.17701
+"Stratham, NH",03885,Stratham,NH,43.015756,-70.90192
+"Union, NH",03887,Union,NH,43.448064,-71.02823
+"West Ossipee, NH",03890,West Ossipee,NH,43.811782,-71.194586
+"Wolfeboro, NH",03894,Wolfeboro,NH,43.596233,-71.19552
+"Wolfeboro Falls, NH",03896,Wolfeboro Falls,NH,43.589157,-71.218894
+"Wonalancet, NH",03897,Wonalancet,NH,43.908738,-71.34507
+"White River Junction, VT",05001,White River Junction,VT,43.662892,-72.36825
+"Ascutney, VT",05030,Ascutney,VT,43.410672,-72.429777
+"Barnard, VT",05031,Barnard,VT,43.735816,-72.6026
+"Bethel, VT",05032,Bethel,VT,43.811958,-72.64493
+"Bradford, VT",05033,Bradford,VT,43.994064,-72.15534
+"Bridgewater, VT",05034,Bridgewater,VT,43.577762,-72.61789
+"Bridgewater Corners, VT",05035,Bridgewater Corners,VT,43.608849,-72.6799
+"Brookfield, VT",05036,Brookfield,VT,44.02591,-72.58502
+"Brownsville, VT",05037,Brownsville,VT,43.461468,-72.48743
+"Chelsea, VT",05038,Chelsea,VT,43.989583,-72.46276
+"Corinth, VT",05039,Corinth,VT,44.026521,-72.29347
+"East Corinth, VT",05040,East Corinth,VT,44.070771,-72.21275
+"East Randolph, VT",05041,East Randolph,VT,43.966821,-72.54784
+"East Ryegate, VT",05042,East Ryegate,VT,44.213499,-72.08037
+"East Thetford, VT",05043,East Thetford,VT,43.795686,-72.21325
+"Fairlee, VT",05045,Fairlee,VT,43.919887,-72.20655
+"Groton, VT",05046,Groton,VT,44.254302,-72.22669
+"Hartford, VT",05047,Hartford,VT,43.672103,-72.355539
+"Hartland, VT",05048,Hartland,VT,43.566105,-72.39941
+"Hartland Four Corners, VT",05049,Hartland Four Corners,VT,43.592039,-72.588407
+"McIndoe Falls, VT",05050,McIndoe Falls,VT,44.46239,-72.135804
+"Newbury, VT",05051,Newbury,VT,44.075132,-72.07174
+"North Hartland, VT",05052,North Hartland,VT,43.598261,-72.351
+"North Pomfret, VT",05053,North Pomfret,VT,43.714887,-72.49886
+"North Thetford, VT",05054,North Thetford,VT,43.852619,-72.18798
+"Norwich, VT",05055,Norwich,VT,43.735335,-72.29086
+"Plymouth, VT",05056,Plymouth,VT,43.531612,-72.72179
+"Post Mills, VT",05058,Post Mills,VT,43.884626,-72.26075
+"Quechee, VT",05059,Quechee,VT,43.649153,-72.42943
+"Randolph, VT",05060,Randolph,VT,43.954353,-72.66916
+"Randolph Center, VT",05061,Randolph Center,VT,43.928369,-72.5731
+"Reading, VT",05062,Reading,VT,43.485715,-72.5536
+"Sharon, VT",05065,Sharon,VT,43.775807,-72.42387
+"South Pomfret, VT",05067,South Pomfret,VT,43.687515,-72.54272
+"South Royalton, VT",05068,South Royalton,VT,43.808623,-72.53208
+"South Ryegate, VT",05069,South Ryegate,VT,44.168111,-72.14245
+"South Strafford, VT",05070,South Strafford,VT,43.830375,-72.36228
+"South Woodstock, VT",05071,South Woodstock,VT,43.568095,-72.55327
+"Strafford, VT",05072,Strafford,VT,43.890244,-72.39364
+"Taftsville, VT",05073,Taftsville,VT,43.625216,-72.47756
+"Thetford, VT",05074,Thetford,VT,43.815621,-72.22275
+"Thetford Center, VT",05075,Thetford Center,VT,43.83178,-72.27125
+"Tunbridge, VT",05077,Tunbridge,VT,43.897183,-72.4848
+"Vershire, VT",05079,Vershire,VT,43.948258,-72.32092
+"Wells River, VT",05081,Wells River,VT,44.135828,-72.09061
+"West Fairlee, VT",05083,West Fairlee,VT,43.910089,-72.26637
+"West Hartford, VT",05084,West Hartford,VT,43.720826,-72.43372
+"West Newbury, VT",05085,West Newbury,VT,44.062646,-72.13946
+"West Topsham, VT",05086,West Topsham,VT,44.116731,-72.31915
+"Wilder, VT",05088,Wilder,VT,43.676947,-72.3082
+"Windsor, VT",05089,Windsor,VT,43.486791,-72.42611
+"Woodstock, VT",05091,Woodstock,VT,43.631076,-72.53739
+"Bellows Falls, VT",05101,Bellows Falls,VT,43.156451,-72.4729
+"Cavendish, VT",05124,Cavendish,VT,43.441399,-72.533124
+"Cambridgeport, VT",05141,Cambridgeport,VT,42.99467,-72.720362
+"Chester, VT",05143,Chester,VT,43.26449,-72.61831
+"Chester Depot, VT",05144,Chester Depot,VT,43.592039,-72.588407
+"Grafton, VT",05146,Grafton,VT,43.186044,-72.61661
+"Londonderry, VT",05148,Londonderry,VT,43.238921,-72.80106
+"Ludlow, VT",05149,Ludlow,VT,43.416827,-72.70416
+"North Springfield, VT",05150,North Springfield,VT,43.334787,-72.53053
+"Perkinsville, VT",05151,Perkinsville,VT,43.380411,-72.49397
+"Peru, VT",05152,Peru,VT,43.24283,-72.88309
+"Proctorsville, VT",05153,Proctorsville,VT,43.439302,-72.63738
+"Saxtons River, VT",05154,Saxtons River,VT,43.139961,-72.50844
+"South Londonderry, VT",05155,South Londonderry,VT,43.158484,-72.84497
+"Springfield, VT",05156,Springfield,VT,43.300126,-72.47767
+"Westminster, VT",05158,Westminster,VT,43.093695,-72.45054
+"Westminster Station, VT",05159,Westminster Station,VT,43.093972,-72.456492
+"Weston, VT",05161,Weston,VT,43.303613,-72.79134
+"Bennington, VT",05201,Bennington,VT,42.882231,-73.17873
+"Woodford, VT",05210,Woodford,VT,42.886696,-73.012715
+"Barnet, VT",05219,Barnet,VT,44.352579,-72.031815
+"Sudbury, VT",05233,Sudbury,VT,43.761499,-73.187699
+"Arlington, VT",05250,Arlington,VT,43.106492,-73.17405
+"Dorset, VT",05251,Dorset,VT,43.266886,-73.11308
+"East Arlington, VT",05252,East Arlington,VT,43.065891,-73.07824
+"East Dorset, VT",05253,East Dorset,VT,43.243449,-73.00758
+"Manchester, VT",05254,Manchester,VT,43.162074,-73.07155
+"Manchester Center, VT",05255,Manchester Center,VT,43.172699,-73.05261
+"North Bennington, VT",05257,North Bennington,VT,42.936801,-73.24838
+"North Pownal, VT",05260,North Pownal,VT,42.797636,-73.25716
+"Pownal, VT",05261,Pownal,VT,42.776384,-73.21395
+"Shaftsbury, VT",05262,Shaftsbury,VT,42.977018,-73.16602
+"Sutton, VT",05267,Sutton,VT,44.6877,-72.011815
+"Craftsbury, VT",05286,Craftsbury,VT,44.627698,-72.434398
+"Brattleboro, VT",05301,Brattleboro,VT,42.849957,-72.62328
+"Bondville, VT",05340,Bondville,VT,43.15601,-72.91347
+"East Dover, VT",05341,East Dover,VT,42.952754,-72.79694
+"Jacksonville, VT",05342,Jacksonville,VT,42.781648,-72.80609
+"Jamaica, VT",05343,Jamaica,VT,43.103191,-72.7925
+"Marlboro, VT",05344,Marlboro,VT,42.851149,-72.74073
+"Newfane, VT",05345,Newfane,VT,43.003271,-72.65777
+"Putney, VT",05346,Putney,VT,43.02419,-72.51725
+"Readsboro, VT",05350,Readsboro,VT,42.779542,-72.96146
+"South Newfane, VT",05351,South Newfane,VT,42.934798,-72.75062
+"Townshend, VT",05353,Townshend,VT,43.04943,-72.66643
+"Vernon, VT",05354,Vernon,VT,42.768143,-72.51835
+"Wardsboro, VT",05355,Wardsboro,VT,43.034152,-72.80748
+"West Dover, VT",05356,West Dover,VT,42.952974,-72.87237
+"West Dummerston, VT",05357,West Dummerston,VT,42.957233,-72.62408
+"West Halifax, VT",05358,West Halifax,VT,42.77448,-72.71702
+"West Townshend, VT",05359,West Townshend,VT,43.149377,-72.72492
+"West Wardsboro, VT",05360,West Wardsboro,VT,43.028157,-72.87914
+"Whitingham, VT",05361,Whitingham,VT,42.782281,-72.86962
+"Williamsville, VT",05362,Williamsville,VT,42.9445,-72.69222
+"Wilmington, VT",05363,Wilmington,VT,42.886921,-72.86457
+"Burlington, VT",05401,Burlington,VT,44.484038,-73.22126
+"South Burlington, VT",05403,South Burlington,VT,44.451941,-73.17941
+"Winooski, VT",05404,Winooski,VT,44.494999,-73.18259
+"Fletcher, VT",05418,Fletcher,VT,44.738007,-72.87814
+"Lincoln, VT",05433,Lincoln,VT,44.039878,-73.015358
+"Colchester, VT",05439,Colchester,VT,44.49518,-73.165092
+"Alburg, VT",05440,Alburg,VT,44.966836,-73.27028
+"Bakersfield, VT",05441,Bakersfield,VT,44.772886,-72.78854
+"Belvidere Center, VT",05442,Belvidere Center,VT,44.755398,-72.68029
+"Bristol, VT",05443,Bristol,VT,44.129002,-73.05258
+"Cambridge, VT",05444,Cambridge,VT,44.645649,-72.90151
+"Charlotte, VT",05445,Charlotte,VT,44.309241,-73.23504
+"East Berkshire, VT",05447,East Berkshire,VT,44.824855,-72.895849
+"East Fairfield, VT",05448,East Fairfield,VT,44.751801,-72.88247
+"Enosburg Falls, VT",05450,Enosburg Falls,VT,44.885689,-72.78992
+"Essex, VT",05451,Essex,VT,44.50835,-73.050271
+"Essex Junction, VT",05452,Essex Junction,VT,44.501991,-73.09376
+"Fairfax, VT",05454,Fairfax,VT,44.693805,-73.04099
+"Fairfield, VT",05455,Fairfield,VT,44.801734,-72.96213
+"Ferrisburg, VT",05456,Ferrisburg,VT,44.204926,-73.25143
+"Franklin, VT",05457,Franklin,VT,44.961552,-72.89351
+"Grand Isle, VT",05458,Grand Isle,VT,44.712593,-73.30526
+"Highgate Center, VT",05459,Highgate Center,VT,44.941617,-73.03056
+"Highgate Springs, VT",05460,Highgate Springs,VT,44.974765,-73.105205
+"Hinesburg, VT",05461,Hinesburg,VT,44.332217,-73.09254
+"Huntington, VT",05462,Huntington,VT,44.304004,-72.97999
+"Isle La Motte, VT",05463,Isle La Motte,VT,44.866344,-73.33081
+"Jeffersonville, VT",05464,Jeffersonville,VT,44.636283,-72.82257
+"Jericho, VT",05465,Jericho,VT,44.486113,-72.96317
+"Jonesville, VT",05466,Jonesville,VT,44.362504,-73.019801
+"Milton, VT",05468,Milton,VT,44.641974,-73.13469
+"Monkton, VT",05469,Monkton,VT,44.240375,-73.134702
+"Montgomery, VT",05470,Montgomery,VT,44.824855,-72.895849
+"Montgomery Center, VT",05471,Montgomery Center,VT,44.874895,-72.58798
+"New Haven, VT",05472,New Haven,VT,44.121825,-73.166
+"North Ferrisburg, VT",05473,North Ferrisburg,VT,44.255574,-73.22253
+"North Hero, VT",05474,North Hero,VT,44.831101,-73.27354
+"Richford, VT",05476,Richford,VT,44.970417,-72.66316
+"Richmond, VT",05477,Richmond,VT,44.392443,-72.95936
+"Saint Albans, VT",05478,Saint Albans,VT,44.807555,-73.09077
+"Saint Albans Bay, VT",05481,Saint Albans Bay,VT,44.824855,-72.895849
+"Shelburne, VT",05482,Shelburne,VT,44.388556,-73.22318
+"Sheldon, VT",05483,Sheldon,VT,44.884125,-72.9751
+"Sheldon Springs, VT",05485,Sheldon Springs,VT,44.905573,-72.963154
+"South Hero, VT",05486,South Hero,VT,44.645192,-73.31452
+"Starksboro, VT",05487,Starksboro,VT,44.224103,-73.03164
+"Swanton, VT",05488,Swanton,VT,44.930163,-73.12099
+"Underhill, VT",05489,Underhill,VT,44.546538,-72.92649
+"Underhill Center, VT",05490,Underhill Center,VT,44.504656,-72.885253
+"Vergennes, VT",05491,Vergennes,VT,44.12753,-73.28437
+"Waterville, VT",05492,Waterville,VT,44.708468,-72.7585
+"Westford, VT",05494,Westford,VT,44.608283,-73.00979
+"Williston, VT",05495,Williston,VT,44.44524,-73.09917
+"Montpelier, VT",05601,Montpelier,VT,44.19906,-72.559638
+"Waterbury, VT",05626,Waterbury,VT,44.352339,-72.779614
+"Adamant, VT",05640,Adamant,VT,44.354296,-72.49053
+"Barre, VT",05641,Barre,VT,44.194307,-72.49443
+"Cabot, VT",05647,Cabot,VT,44.414576,-72.28652
+"Calais, VT",05648,Calais,VT,44.375726,-72.49509
+"East Barre, VT",05649,East Barre,VT,44.152477,-72.43328
+"East Calais, VT",05650,East Calais,VT,44.403899,-72.44328
+"East Montpelier, VT",05651,East Montpelier,VT,44.282269,-72.48983
+"Eden, VT",05652,Eden,VT,44.715079,-72.5717
+"Eden Mills, VT",05653,Eden Mills,VT,44.711083,-72.50846
+"Graniteville, VT",05654,Graniteville,VT,44.140716,-72.47675
+"Hyde Park, VT",05655,Hyde Park,VT,44.610931,-72.59971
+"Johnson, VT",05656,Johnson,VT,44.645219,-72.67941
+"Lake Elmore, VT",05657,Lake Elmore,VT,44.541415,-72.52693
+"Marshfield, VT",05658,Marshfield,VT,44.353823,-72.34925
+"Moretown, VT",05660,Moretown,VT,44.248198,-72.78525
+"Morrisville, VT",05661,Morrisville,VT,44.549391,-72.60332
+"Moscow, VT",05662,Moscow,VT,44.442001,-72.718759
+"Northfield, VT",05663,Northfield,VT,44.141056,-72.66443
+"Northfield Falls, VT",05664,Northfield Falls,VT,44.171238,-72.64976
+"North Hyde Park, VT",05665,North Hyde Park,VT,44.67307,-72.597057
+"North Montpelier, VT",05666,North Montpelier,VT,44.33865,-72.44382
+"Plainfield, VT",05667,Plainfield,VT,44.295577,-72.42365
+"Roxbury, VT",05669,Roxbury,VT,44.062311,-72.74364
+"South Barre, VT",05670,South Barre,VT,44.175744,-72.50247
+"Stowe, VT",05672,Stowe,VT,44.475387,-72.70225
+"Waitsfield, VT",05673,Waitsfield,VT,44.184704,-72.8367
+"Warren, VT",05674,Warren,VT,44.106922,-72.85816
+"Washington, VT",05675,Washington,VT,44.083457,-72.422
+"Waterbury Center, VT",05677,Waterbury Center,VT,44.375144,-72.71362
+"Websterville, VT",05678,Websterville,VT,44.158979,-72.46942
+"Williamstown, VT",05679,Williamstown,VT,44.109793,-72.54155
+"Wolcott, VT",05680,Wolcott,VT,44.551056,-72.4739
+"Woodbury, VT",05681,Woodbury,VT,44.457481,-72.40659
+"Worcester, VT",05682,Worcester,VT,44.383559,-72.55088
+"Rutland, VT",05701,Rutland,VT,43.617302,-72.96325
+"Belmont, VT",05730,Belmont,VT,43.416666,-72.83445
+"Benson, VT",05731,Benson,VT,43.687677,-73.291868
+"Bomoseen, VT",05732,Bomoseen,VT,43.644208,-73.20284
+"Brandon, VT",05733,Brandon,VT,43.810371,-73.09998
+"Bridport, VT",05734,Bridport,VT,43.987529,-73.35144
+"Castleton, VT",05735,Castleton,VT,43.640503,-73.16118
+"Center Rutland, VT",05736,Center Rutland,VT,43.602211,-73.01298
+"Chittenden, VT",05737,Chittenden,VT,43.735819,-72.93145
+"Cuttingsville, VT",05738,Cuttingsville,VT,43.507854,-72.8642
+"Danby, VT",05739,Danby,VT,43.341177,-73.01602
+"East Middlebury, VT",05740,East Middlebury,VT,43.97153,-73.091416
+"East Poultney, VT",05741,East Poultney,VT,43.592039,-72.818121
+"East Wallingford, VT",05742,East Wallingford,VT,43.441404,-72.88507
+"Fair Haven, VT",05743,Fair Haven,VT,43.666758,-73.2857
+"Florence, VT",05744,Florence,VT,43.68805,-73.06783
+"Forest Dale, VT",05745,Forest Dale,VT,43.592039,-72.818121
+"Gaysville, VT",05746,Gaysville,VT,43.785433,-72.71366
+"Granville, VT",05747,Granville,VT,43.999811,-72.83927
+"Hancock, VT",05748,Hancock,VT,43.926595,-72.87143
+"Hydeville, VT",05750,Hydeville,VT,43.619787,-73.23273
+"Killington, VT",05751,Killington,VT,43.659839,-72.79419
+"Poultney, VT",05752,Poultney,VT,43.225264,-73.141318
+"Middlebury, VT",05753,Middlebury,VT,44.006024,-73.172
+"Middletown Springs, VT",05757,Middletown Springs,VT,43.477827,-73.12311
+"Mount Holly, VT",05758,Mount Holly,VT,43.452914,-72.79647
+"North Clarendon, VT",05759,North Clarendon,VT,43.553904,-72.96168
+"Orwell, VT",05760,Orwell,VT,43.801501,-73.2869
+"Pawlet, VT",05761,Pawlet,VT,43.357161,-73.13467
+"Pittsfield, VT",05762,Pittsfield,VT,43.768578,-72.83138
+"Pittsford, VT",05763,Pittsford,VT,43.719898,-73.00087
+"Proctor, VT",05765,Proctor,VT,43.657716,-73.0328
+"Ripton, VT",05766,Ripton,VT,43.981681,-73.0155
+"Rochester, VT",05767,Rochester,VT,43.876046,-72.81212
+"Rupert, VT",05768,Rupert,VT,43.026984,-73.055156
+"Salisbury, VT",05769,Salisbury,VT,43.914026,-73.10703
+"Shoreham, VT",05770,Shoreham,VT,43.892373,-73.31583
+"Stockbridge, VT",05772,Stockbridge,VT,43.761779,-72.73703
+"Wallingford, VT",05773,Wallingford,VT,43.444268,-72.98732
+"Wells, VT",05774,Wells,VT,43.43357,-73.19578
+"West Pawlet, VT",05775,West Pawlet,VT,43.365073,-73.23612
+"West Rupert, VT",05776,West Rupert,VT,43.235771,-73.2489
+"West Rutland, VT",05777,West Rutland,VT,43.574326,-73.04215
+"Whiting, VT",05778,Whiting,VT,43.864419,-73.21148
+"Saint Johnsbury, VT",05819,Saint Johnsbury,VT,44.412413,-72.00996
+"Albany, VT",05820,Albany,VT,44.733624,-72.38308
+"Barton, VT",05822,Barton,VT,44.750509,-72.16376
+"Beebe Plain, VT",05823,Beebe Plain,VT,45.005783,-72.138347
+"Concord, VT",05824,Concord,VT,44.428537,-71.87212
+"Coventry, VT",05825,Coventry,VT,44.863351,-72.26649
+"Craftsbury Common, VT",05827,Craftsbury Common,VT,44.678879,-72.35975
+"Danville, VT",05828,Danville,VT,44.424043,-72.12808
+"Derby, VT",05829,Derby,VT,44.945925,-72.09864
+"Derby Line, VT",05830,Derby Line,VT,44.985004,-72.05857
+"East Burke, VT",05832,East Burke,VT,44.588911,-71.92705
+"East Charleston, VT",05833,East Charleston,VT,44.82446,-71.969
+"East Hardwick, VT",05836,East Hardwick,VT,44.529915,-72.26819
+"East Haven, VT",05837,East Haven,VT,44.643171,-71.86394
+"East Saint Johnsbury, VT",05838,East Saint Johnsbury,VT,44.468494,-71.930077
+"Glover, VT",05839,Glover,VT,44.684488,-72.20936
+"Granby, VT",05840,Granby,VT,44.612521,-71.71536
+"Greensboro, VT",05841,Greensboro,VT,44.599177,-72.31179
+"Greensboro Bend, VT",05842,Greensboro Bend,VT,44.574196,-72.24333
+"Hardwick, VT",05843,Hardwick,VT,44.504593,-72.35822
+"Irasburg, VT",05845,Irasburg,VT,44.800462,-72.28964
+"Island Pond, VT",05846,Island Pond,VT,44.803005,-71.84683
+"Lowell, VT",05847,Lowell,VT,44.799008,-72.45025
+"Lower Waterford, VT",05848,Lower Waterford,VT,44.382103,-71.919518
+"Lyndon, VT",05849,Lyndon,VT,44.497557,-71.950519
+"Lyndon Center, VT",05850,Lyndon Center,VT,44.481915,-71.988258
+"Lyndonville, VT",05851,Lyndonville,VT,44.541352,-72.02686
+"Newport, VT",05852,Newport,VT,44.951093,-72.303696
+"Morgan, VT",05853,Morgan,VT,44.881758,-71.96653
+"Newport Center, VT",05857,Newport Center,VT,44.944231,-72.30054
+"North Concord, VT",05858,North Concord,VT,44.498374,-71.83773
+"North Troy, VT",05859,North Troy,VT,44.963802,-72.41782
+"Orleans, VT",05860,Orleans,VT,44.815511,-72.15478
+"Passumpsic, VT",05861,Passumpsic,VT,44.46239,-72.135804
+"Peacham, VT",05862,Peacham,VT,44.46239,-72.135804
+"Saint Johnsbury Center, VT",05863,Saint Johnsbury Center,VT,44.503403,-71.972088
+"Stannard, VT",05864,Stannard,VT,44.562138,-72.244107
+"Sheffield, VT",05866,Sheffield,VT,44.632918,-72.13245
+"Troy, VT",05868,Troy,VT,44.902837,-72.408
+"West Burke, VT",05871,West Burke,VT,44.673586,-71.95414
+"West Charleston, VT",05872,West Charleston,VT,44.865723,-72.04647
+"West Danville, VT",05873,West Danville,VT,44.411321,-72.2123
+"Westfield, VT",05874,Westfield,VT,44.876447,-72.42902
+"West Glover, VT",05875,West Glover,VT,44.722453,-72.25602
+"Averill, VT",05901,Averill,VT,44.680771,-71.719436
+"Beecher Falls, VT",05902,Beecher Falls,VT,45.008398,-71.50628
+"Canaan, VT",05903,Canaan,VT,44.972508,-71.59275
+"Gilman, VT",05904,Gilman,VT,44.413715,-71.70906
+"Guildhall, VT",05905,Guildhall,VT,44.682269,-71.66238
+"Lunenburg, VT",05906,Lunenburg,VT,44.458803,-71.7162
+"Norton, VT",05907,Norton,VT,44.959647,-71.81134
+"Derby Center, VT",05928,Derby Center,VT,44.95282,-72.135369
+"Avon, CT",06001,Avon,CT,41.789698,-72.86431
+"Bloomfield, CT",06002,Bloomfield,CT,41.832798,-72.72642
+"Windsor, CT",06006,Windsor,CT,41.879637,-72.734271
+"Bristol, CT",06010,Bristol,CT,41.682249,-72.93365
+"Burlington, CT",06013,Burlington,CT,41.758415,-72.94642
+"Broad Brook, CT",06016,Broad Brook,CT,41.909097,-72.54393
+"Canaan, CT",06018,Canaan,CT,42.02351,-73.31103
+"Canton, CT",06019,Canton,CT,41.834247,-72.89174
+"Canton Center, CT",06020,Canton Center,CT,41.864597,-72.91003
+"Colebrook, CT",06021,Colebrook,CT,42.027797,-73.11835
+"Collinsville, CT",06022,Collinsville,CT,41.832842,-72.92526
+"East Berlin, CT",06023,East Berlin,CT,41.612748,-72.72017
+"East Canaan, CT",06024,East Canaan,CT,42.010733,-73.26877
+"East Glastonbury, CT",06025,East Glastonbury,CT,41.688896,-72.534482
+"East Granby, CT",06026,East Granby,CT,41.935501,-72.72718
+"East Hartland, CT",06027,East Hartland,CT,42.002345,-72.90922
+"East Windsor Hill, CT",06028,East Windsor Hill,CT,41.859248,-72.603033
+"Ellington, CT",06029,Ellington,CT,41.909147,-72.45026
+"Farmington, CT",06030,Farmington,CT,41.791776,-72.718832
+"Falls Village, CT",06031,Falls Village,CT,41.948694,-73.3296
+"Glastonbury, CT",06033,Glastonbury,CT,41.707932,-72.57085
+"Granby, CT",06035,Granby,CT,41.959713,-72.79826
+"Kensington, CT",06037,Kensington,CT,41.619048,-72.76734
+"Lakeville, CT",06039,Lakeville,CT,41.951783,-73.43722
+"Manchester, CT",06040,Manchester,CT,41.778888,-72.52384
+"Bolton, CT",06043,Bolton,CT,41.771265,-72.43669
+"Melrose, CT",06049,Melrose,CT,41.791776,-72.718832
+"New Britain, CT",06050,New Britain,CT,41.666049,-72.778391
+"New Hartford, CT",06057,New Hartford,CT,41.852712,-73.00492
+"Norfolk, CT",06058,Norfolk,CT,41.986861,-73.19437
+"North Canton, CT",06059,North Canton,CT,41.937513,-72.92017
+"North Granby, CT",06060,North Granby,CT,42.012195,-72.8445
+"Pine Meadow, CT",06061,Pine Meadow,CT,41.874382,-72.967958
+"Plainville, CT",06062,Plainville,CT,41.671548,-72.86294
+"Pleasant Valley, CT",06063,Pleasant Valley,CT,41.926696,-72.96783
+"Poquonock, CT",06064,Poquonock,CT,41.791776,-72.718832
+"Riverton, CT",06065,Riverton,CT,41.961127,-73.01859
+"Vernon Rockville, CT",06066,Vernon Rockville,CT,41.841615,-72.46708
+"Rocky Hill, CT",06067,Rocky Hill,CT,41.660949,-72.66098
+"Salisbury, CT",06068,Salisbury,CT,42.014673,-73.42408
+"Sharon, CT",06069,Sharon,CT,41.866222,-73.46331
+"Simsbury, CT",06070,Simsbury,CT,41.874064,-72.81644
+"Somers, CT",06071,Somers,CT,41.995851,-72.45336
+"Somersville, CT",06072,Somersville,CT,41.976466,-72.490593
+"South Glastonbury, CT",06073,South Glastonbury,CT,41.660899,-72.56887
+"South Windsor, CT",06074,South Windsor,CT,41.836665,-72.56076
+"Stafford, CT",06075,Stafford,CT,41.81152,-72.308779
+"Stafford Springs, CT",06076,Stafford Springs,CT,41.979871,-72.27863
+"Staffordville, CT",06077,Staffordville,CT,41.991645,-72.257735
+"Suffield, CT",06078,Suffield,CT,41.985946,-72.63897
+"Taconic, CT",06079,Taconic,CT,42.032012,-73.403763
+"Tariffville, CT",06081,Tariffville,CT,41.907114,-72.76831
+"Enfield, CT",06082,Enfield,CT,41.987238,-72.56365
+"Tolland, CT",06084,Tolland,CT,41.87688,-72.36806
+"Unionville, CT",06085,Unionville,CT,41.749832,-72.8898
+"East Windsor, CT",06088,East Windsor,CT,41.908464,-72.60547
+"Weatogue, CT",06089,Weatogue,CT,41.839731,-72.81974
+"West Granby, CT",06090,West Granby,CT,41.953596,-72.85242
+"West Hartland, CT",06091,West Hartland,CT,42.002748,-72.98906
+"West Simsbury, CT",06092,West Simsbury,CT,41.861297,-72.86055
+"West Suffield, CT",06093,West Suffield,CT,42.019907,-72.73357
+"Winchester Center, CT",06094,Winchester Center,CT,41.896321,-73.146312
+"Windsor Locks, CT",06096,Windsor Locks,CT,41.926997,-72.64688
+"Winsted, CT",06098,Winsted,CT,41.925967,-73.06944
+"Hartford, CT",06101,Hartford,CT,41.78007,-72.677099
+"W Hartford, CT",06107,W Hartford,CT,41.75275,-72.7546
+"East Hartford, CT",06108,East Hartford,CT,41.778316,-72.62313
+"Wethersfield, CT",06109,Wethersfield,CT,41.702049,-72.6747
+"Newington, CT",06111,Newington,CT,41.688899,-72.73101
+"Willimantic, CT",06226,Willimantic,CT,41.714867,-72.20934
+"Abington, CT",06230,Abington,CT,41.847302,-72.02528
+"Amston, CT",06231,Amston,CT,41.629818,-72.36419
+"Andover, CT",06232,Andover,CT,41.737015,-72.37151
+"Ballouville, CT",06233,Ballouville,CT,41.831565,-72.020137
+"Brooklyn, CT",06234,Brooklyn,CT,41.782474,-71.95989
+"Chaplin, CT",06235,Chaplin,CT,41.809166,-72.11274
+"Columbia, CT",06237,Columbia,CT,41.702777,-72.29349
+"Coventry, CT",06238,Coventry,CT,41.778651,-72.33137
+"Danielson, CT",06239,Danielson,CT,41.799111,-71.87594
+"Dayville, CT",06241,Dayville,CT,41.850225,-71.85749
+"Eastford, CT",06242,Eastford,CT,41.90913,-72.09527
+"East Killingly, CT",06243,East Killingly,CT,41.844885,-71.818941
+"East Woodstock, CT",06244,East Woodstock,CT,41.984327,-71.981045
+"Fabyan, CT",06245,Fabyan,CT,42.019776,-71.941669
+"Grosvenor Dale, CT",06246,Grosvenor Dale,CT,41.971116,-71.891732
+"Hampton, CT",06247,Hampton,CT,41.767929,-72.06127
+"Hebron, CT",06248,Hebron,CT,41.683399,-72.40144
+"Lebanon, CT",06249,Lebanon,CT,41.618403,-72.24215
+"Mansfield Center, CT",06250,Mansfield Center,CT,41.768455,-72.20007
+"Mansfield Depot, CT",06251,Mansfield Depot,CT,41.799326,-72.306526
+"North Franklin, CT",06254,North Franklin,CT,41.609066,-72.14439
+"North Grosvenordale, CT",06255,North Grosvenordale,CT,41.989579,-71.89659
+"North Windham, CT",06256,North Windham,CT,41.758713,-72.13964
+"Pomfret, CT",06258,Pomfret,CT,41.889048,-71.968232
+"Pomfret Center, CT",06259,Pomfret Center,CT,41.876565,-71.98252
+"Putnam, CT",06260,Putnam,CT,41.913816,-71.88434
+"Quinebaug, CT",06262,Quinebaug,CT,42.022904,-71.94671
+"Rogers, CT",06263,Rogers,CT,41.839051,-71.90634
+"Scotland, CT",06264,Scotland,CT,41.693435,-72.09891
+"South Willington, CT",06265,South Willington,CT,41.81152,-72.308779
+"South Windham, CT",06266,South Windham,CT,41.670349,-72.16028
+"South Woodstock, CT",06267,South Woodstock,CT,41.943902,-71.945253
+"Storrs Mansfield, CT",06268,Storrs Mansfield,CT,41.806041,-72.26127
+"Thompson, CT",06277,Thompson,CT,41.972782,-71.83969
+"Ashford, CT",06278,Ashford,CT,41.895108,-72.17674
+"Willington, CT",06279,Willington,CT,41.896875,-72.27456
+"Windham, CT",06280,Windham,CT,41.697765,-72.14671
+"Woodstock, CT",06281,Woodstock,CT,41.971403,-71.99872
+"Woodstock Valley, CT",06282,Woodstock Valley,CT,41.943199,-72.0728
+"New London, CT",06320,New London,CT,41.352498,-72.10338
+"Baltic, CT",06330,Baltic,CT,41.634556,-72.06549
+"Canterbury, CT",06331,Canterbury,CT,41.697123,-72.0029
+"Central Village, CT",06332,Central Village,CT,41.725694,-71.909019
+"East Lyme, CT",06333,East Lyme,CT,41.371913,-72.2269
+"Bozrah, CT",06334,Bozrah,CT,41.543559,-72.17684
+"Gales Ferry, CT",06335,Gales Ferry,CT,41.426775,-72.07227
+"Gilman, CT",06336,Gilman,CT,41.577198,-72.20036
+"Glasgo, CT",06337,Glasgo,CT,41.559873,-71.889199
+"Mashantucket, CT",06338,Mashantucket,CT,41.35,-72.09
+"Ledyard, CT",06339,Ledyard,CT,41.449482,-71.98233
+"Groton, CT",06340,Groton,CT,41.345331,-72.04524
+"Hanover, CT",06350,Hanover,CT,41.644546,-72.06769
+"Jewett City, CT",06351,Jewett City,CT,41.604341,-71.97599
+"Montville, CT",06353,Montville,CT,41.452548,-72.137471
+"Moosup, CT",06354,Moosup,CT,41.71836,-71.87098
+"Mystic, CT",06355,Mystic,CT,41.360798,-71.97281
+"Niantic, CT",06357,Niantic,CT,41.319649,-72.21064
+"North Stonington, CT",06359,North Stonington,CT,41.456189,-71.86813
+"Norwich, CT",06360,Norwich,CT,41.533848,-72.06232
+"Preston, CT",06365,Preston,CT,41.509586,-71.96621
+"Oakdale, CT",06370,Oakdale,CT,41.464274,-72.19551
+"Old Lyme, CT",06371,Old Lyme,CT,41.339421,-72.31008
+"Old Mystic, CT",06372,Old Mystic,CT,41.388216,-71.949548
+"Oneco, CT",06373,Oneco,CT,41.678897,-71.79952
+"Plainfield, CT",06374,Plainfield,CT,41.684777,-71.91911
+"Quaker Hill, CT",06375,Quaker Hill,CT,41.401398,-72.11444
+"South Lyme, CT",06376,South Lyme,CT,41.294797,-72.25602
+"Sterling, CT",06377,Sterling,CT,41.730575,-71.81845
+"Stonington, CT",06378,Stonington,CT,41.351307,-71.91317
+"Pawcatuck, CT",06379,Pawcatuck,CT,41.375701,-71.84876
+"Taftville, CT",06380,Taftville,CT,41.566298,-72.05148
+"Uncasville, CT",06382,Uncasville,CT,41.457198,-72.11459
+"Versailles, CT",06383,Versailles,CT,41.601648,-72.04037
+"Voluntown, CT",06384,Voluntown,CT,41.5787,-71.85668
+"Waterford, CT",06385,Waterford,CT,41.347948,-72.14762
+"Wauregan, CT",06387,Wauregan,CT,41.744527,-71.913339
+"West Mystic, CT",06388,West Mystic,CT,41.344098,-71.976467
+"Yantic, CT",06389,Yantic,CT,41.559648,-72.122672
+"Ansonia, CT",06401,Ansonia,CT,41.34269,-73.07446
+"Beacon Falls, CT",06403,Beacon Falls,CT,41.432936,-73.06453
+"Botsford, CT",06404,Botsford,CT,41.165097,-73.129186
+"Branford, CT",06405,Branford,CT,41.277763,-72.80542
+"Cheshire, CT",06408,Cheshire,CT,41.365709,-72.927507
+"Centerbrook, CT",06409,Centerbrook,CT,41.353453,-72.41604
+"Chester, CT",06412,Chester,CT,41.408775,-72.47213
+"Clinton, CT",06413,Clinton,CT,41.288599,-72.52728
+"Cobalt, CT",06414,Cobalt,CT,41.566668,-72.558055
+"Colchester, CT",06415,Colchester,CT,41.56033,-72.33795
+"Cromwell, CT",06416,Cromwell,CT,41.612046,-72.66998
+"Deep River, CT",06417,Deep River,CT,41.37934,-72.44578
+"Derby, CT",06418,Derby,CT,41.323005,-73.08433
+"Killingworth, CT",06419,Killingworth,CT,41.380594,-72.57637
+"Salem, CT",06420,Salem,CT,41.485469,-72.25445
+"Durham, CT",06422,Durham,CT,41.461639,-72.68733
+"East Haddam, CT",06423,East Haddam,CT,41.468451,-72.40615
+"East Hampton, CT",06424,East Hampton,CT,41.573008,-72.5078
+"Essex, CT",06426,Essex,CT,41.351598,-72.39787
+"Fairfield, CT",06430,Fairfield,CT,41.163445,-73.2629
+"Greens Farms, CT",06436,Greens Farms,CT,41.308873,-73.363661
+"Guilford, CT",06437,Guilford,CT,41.31353,-72.69791
+"Haddam, CT",06438,Haddam,CT,41.45307,-72.50345
+"Hadlyme, CT",06439,Hadlyme,CT,41.421198,-72.414095
+"Hawleyville, CT",06440,Hawleyville,CT,41.308873,-73.363661
+"Higganum, CT",06441,Higganum,CT,41.468654,-72.57956
+"Ivoryton, CT",06442,Ivoryton,CT,41.345099,-72.44392
+"Madison, CT",06443,Madison,CT,41.298648,-72.60938
+"Marion, CT",06444,Marion,CT,41.791776,-72.718832
+"Marlborough, CT",06447,Marlborough,CT,41.637066,-72.46252
+"Meriden, CT",06450,Meriden,CT,41.532048,-72.78145
+"Middlefield, CT",06455,Middlefield,CT,41.514383,-72.7183
+"Middle Haddam, CT",06456,Middle Haddam,CT,41.538017,-72.525208
+"Middletown, CT",06457,Middletown,CT,41.553672,-72.6632
+"Milford, CT",06460,Milford,CT,41.21953,-73.0554
+"Milldale, CT",06467,Milldale,CT,41.565697,-72.903746
+"Monroe, CT",06468,Monroe,CT,41.336046,-73.22241
+"Moodus, CT",06469,Moodus,CT,41.506499,-72.44479
+"Newtown, CT",06470,Newtown,CT,41.398462,-73.31474
+"North Branford, CT",06471,North Branford,CT,41.332197,-72.77214
+"Northford, CT",06472,Northford,CT,41.399873,-72.77975
+"North Haven, CT",06473,North Haven,CT,41.378447,-72.85897
+"North Westchester, CT",06474,North Westchester,CT,41.464758,-72.127301
+"Old Saybrook, CT",06475,Old Saybrook,CT,41.289348,-72.38285
+"Orange, CT",06477,Orange,CT,41.279547,-73.02541
+"Oxford, CT",06478,Oxford,CT,41.428163,-73.12729
+"Plantsville, CT",06479,Plantsville,CT,41.575847,-72.89696
+"Portland, CT",06480,Portland,CT,41.588297,-72.60384
+"Rockfall, CT",06481,Rockfall,CT,41.536643,-72.69782
+"Sandy Hook, CT",06482,Sandy Hook,CT,41.411536,-73.24888
+"Seymour, CT",06483,Seymour,CT,41.386584,-73.0792
+"Shelton, CT",06484,Shelton,CT,41.306396,-73.1292
+"South Britain, CT",06487,South Britain,CT,41.365709,-72.927507
+"Southbury, CT",06488,Southbury,CT,41.475263,-73.22184
+"Southington, CT",06489,Southington,CT,41.612298,-72.87103
+"Southport, CT",06490,Southport,CT,41.140646,-73.28791
+"Stevenson, CT",06491,Stevenson,CT,41.386646,-73.187207
+"Wallingford, CT",06492,Wallingford,CT,41.457711,-72.81704
+"Stratford, CT",06497,Stratford,CT,41.207146,-73.130503
+"Westbrook, CT",06498,Westbrook,CT,41.289499,-72.46087
+"New Haven, CT",06501,New Haven,CT,41.365709,-72.927507
+"East Haven, CT",06512,East Haven,CT,41.276497,-72.87412
+"Hamden, CT",06514,Hamden,CT,41.357947,-72.93765
+"West Haven, CT",06516,West Haven,CT,41.272147,-72.96496
+"Bethany, CT",06524,Bethany,CT,41.417896,-73.00356
+"Woodbridge, CT",06525,Woodbridge,CT,41.352964,-73.01212
+"Bridgeport, CT",06601,Bridgeport,CT,41.308873,-73.363661
+"Trumbull, CT",06611,Trumbull,CT,41.256129,-73.21227
+"Easton, CT",06612,Easton,CT,41.253946,-73.28842
+"Waterbury, CT",06701,Waterbury,CT,41.365709,-72.927507
+"Prospect, CT",06712,Prospect,CT,41.501856,-72.97799
+"Wolcott, CT",06716,Wolcott,CT,41.594785,-72.97889
+"Bantam, CT",06750,Bantam,CT,41.721024,-73.24774
+"Bethlehem, CT",06751,Bethlehem,CT,41.639235,-73.20864
+"Bridgewater, CT",06752,Bridgewater,CT,41.52599,-73.36092
+"Cornwall, CT",06753,Cornwall,CT,41.828067,-73.332345
+"Cornwall Bridge, CT",06754,Cornwall Bridge,CT,41.786035,-73.35774
+"Gaylordsville, CT",06755,Gaylordsville,CT,41.655998,-73.47692
+"Goshen, CT",06756,Goshen,CT,41.836049,-73.24506
+"Kent, CT",06757,Kent,CT,41.729239,-73.45553
+"Lakeside, CT",06758,Lakeside,CT,41.739889,-73.222981
+"Litchfield, CT",06759,Litchfield,CT,41.754255,-73.21268
+"Middlebury, CT",06762,Middlebury,CT,41.532992,-73.11555
+"Morris, CT",06763,Morris,CT,41.693856,-73.21056
+"Naugatuck, CT",06770,Naugatuck,CT,41.493763,-73.05173
+"New Milford, CT",06776,New Milford,CT,41.581494,-73.41313
+"New Preston Marble Dale, CT",06777,New Preston Marble Dale,CT,41.697487,-73.3435
+"Northfield, CT",06778,Northfield,CT,41.694945,-73.10942
+"Oakville, CT",06779,Oakville,CT,41.592046,-73.08543
+"Pequabuck, CT",06781,Pequabuck,CT,41.669898,-72.99145
+"Plymouth, CT",06782,Plymouth,CT,41.662281,-73.0482
+"Roxbury, CT",06783,Roxbury,CT,41.557711,-73.30816
+"Sherman, CT",06784,Sherman,CT,41.566534,-73.4915
+"South Kent, CT",06785,South Kent,CT,41.69971,-73.44024
+"Terryville, CT",06786,Terryville,CT,41.676415,-73.00836
+"Thomaston, CT",06787,Thomaston,CT,41.677982,-73.08979
+"Torrington, CT",06790,Torrington,CT,41.820274,-73.11787
+"Harwinton, CT",06791,Harwinton,CT,41.754872,-73.06927
+"Washington, CT",06793,Washington,CT,41.633422,-73.28946
+"Washington Depot, CT",06794,Washington Depot,CT,41.644096,-73.32437
+"Watertown, CT",06795,Watertown,CT,41.608196,-73.12099
+"West Cornwall, CT",06796,West Cornwall,CT,41.875075,-73.33673
+"Woodbury, CT",06798,Woodbury,CT,41.554112,-73.20539
+"Bethel, CT",06801,Bethel,CT,41.379978,-73.40105
+"Brookfield, CT",06804,Brookfield,CT,41.465811,-73.39982
+"Cos Cob, CT",06807,Cos Cob,CT,41.047627,-73.59508
+"Danbury, CT",06810,Danbury,CT,41.390194,-73.45441
+"New Fairfield, CT",06812,New Fairfield,CT,41.472227,-73.49673
+"Darien, CT",06820,Darien,CT,41.075663,-73.48294
+"Georgetown, CT",06829,Georgetown,CT,41.25553,-73.427915
+"Greenwich, CT",06830,Greenwich,CT,41.03073,-73.62985
+"New Canaan, CT",06840,New Canaan,CT,41.150146,-73.49178
+"Norwalk, CT",06850,Norwalk,CT,41.124546,-73.43658
+"Old Greenwich, CT",06870,Old Greenwich,CT,41.033347,-73.56804
+"Redding Center, CT",06875,Redding Center,CT,41.308873,-73.363661
+"Redding Ridge, CT",06876,Redding Ridge,CT,41.032647,-73.583569
+"Ridgefield, CT",06877,Ridgefield,CT,41.297911,-73.49178
+"Riverside, CT",06878,Riverside,CT,41.034264,-73.5842
+"Westport, CT",06880,Westport,CT,41.140896,-73.35178
+"Weston, CT",06883,Weston,CT,41.216454,-73.37308
+"Redding, CT",06896,Redding,CT,41.301007,-73.39857
+"Wilton, CT",06897,Wilton,CT,41.201446,-73.43758
+"Stamford, CT",06901,Stamford,CT,41.051996,-73.53903

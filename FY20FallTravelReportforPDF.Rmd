@@ -1,0 +1,445 @@
+---
+title: "FY20 Fall Travel Office of Marketing and Brand Management"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+
+```
+
+```{r cars, message=FALSE, warning=FALSE}
+library(dplyr)
+library(zipcode)
+library(ggmap)
+library(ggplot2)
+library(maps)
+
+library(knitr)
+library(zoo)
+library(lubridate)
+library(hms)
+
+```
+
+```{r}
+targets <- c("Worcester, MA",    
+             "Rockingham, NH",   
+             "Hartford, CT" ,    
+             "New Haven, CT" , 
+             "Litchfield, CT",   
+             "Middlesex, MA",    
+             "Essex, MA",        
+             "Bristol, MA" ,
+             "Plymouth, MA",     
+             "Merrimack, NH",    
+             "Hillsborough, NH", 
+             "Chittenden, VT" ,
+             "Lamouille, VT",    
+             "Fairfield, CT" ,   
+             "Norfolk, MA",      
+             "Hampshire, MA"  ,
+             "Berkshire, MA" ,   
+             "Suffolk, MA" ,     
+             "Strafford, NH",    
+             "Bennington, VT" ,
+             "Windham, VT",      
+             "Rutland, VT" ,     
+             "New London, CT" ,  
+             "Hampden, MA", 
+             "Grafton, NH",      
+             "Belknap, NH",      
+             "Windsor, VT" ,     
+             "Orange, VT"  , 
+             "Washington, VT",  
+             "Addison, VT" )
+```
+
+
+```{r}
+# Load Travel Schedule
+master <- read.csv("file:///C:/Users/christine.iyer/Box/FY20 Travel Fall/RachelAgenda.csv", header = T, stringsAsFactors = F)
+master <- master %>% mutate(Type.Fair = "Other")
+#fairType <- c("Other","Mini Fair", "NEACAC" , "Fair","NACAC")
+master <- master %>% 
+  filter(ST != "ME")
+#master <- master %>% filter(Type.Fair %in% fairType)
+#Clean zipcodes in Travel Schedule
+master <- master %>% 
+  mutate(ZIP = clean.zipcodes(ZIP))
+#Load Zipcode data and convert to a dataframe
+masterZips <- as.data.frame(data("zipcode.civicspace"))
+
+zipcodesCSV <- read.csv("file:///C:/Users/christine.iyer/Downloads/zipcode/zipcode.csv", header = T, stringsAsFactors = F)
+zipcodesCSV <- zipcodesCSV %>% 
+  mutate(ZIP = clean.zipcodes(zip))
+
+```
+
+```{r}
+master <- left_join(master, zipcodesCSV, by = "ZIP") %>% filter(TargetedArea == "targeted with digital ads")
+
+
+```
+
+
+
+```{r}
+#Load Database
+# funnel <- read.csv("file:///C:/Users/christine.iyer/Box/NewestTravelFolder/FunnelTravel.csv", header = T, stringsAsFactors = F)
+# #Filter Database
+statesInNE <- c("NH", "MA", "CT", "RI", "VT")
+
+#Take essential parts of Zipcode csv
+zipcodesCSV <- zipcodesCSV %>% filter(state %in% statesInNE) %>% mutate(CitySt = paste0(city, ", ", state)) %>% select(CitySt, latitude, longitude)  %>% distinct() %>% group_by(CitySt) %>% summarise(latitude = mean(latitude), longitude = mean(longitude))
+
+FallWebTra <- read.csv("file:///C:/Users/christine.iyer/Box/FY20 Travel Fall/FallWebTravel2019.csv", header = T, stringsAsFactors = F)
+
+
+```
+
+
+
+
+
+```{r}
+
+FallWebTra1 <- FallWebTra %>% mutate(Targeted = ifelse(State...City..group. %in% targets, "Targeted", "NotTargeted")) %>% select(Date, State, CountySt = State...City..group., CitySt, City, Bounces:EventCity )
+
+```
+
+
+```{r}
+newwebZip <- left_join(FallWebTra1, zipcodesCSV, by = "CitySt")
+```
+
+
+```{r}
+newwebZip <- newwebZip %>% mutate(latitude = ifelse(CitySt == "Berlin, CT", 41.6215,ifelse(CitySt == "West Hartford, CT", 41.7621,ifelse(CitySt == "Winchester, CT", 41.9358,ifelse(CitySt == "Griswold, CT", 41.5961, ifelse(CitySt == "Mansfield, CT", 41.7885,ifelse(CitySt == "Vernon, CT", 41.8187,ifelse(CitySt == "Bourne, MA", 41.7413,ifelse(CitySt == "Yarmouth, MA", 41.7056, ifelse(CitySt == "North Attleborough, MA", 41.9696,ifelse(CitySt == "Tyngsborough, MA", 42.6767,ifelse(CitySt == "Middleborough, MA", 41.8930,ifelse(CitySt == "Gilford, NH", 43.5476,ifelse(CitySt ==  "Wakefield, NH", 43.5537, ifelse(CitySt == "Northumberland, NH", 44.5975, ifelse(CitySt == "Burrillville, RI", 41.9661,ifelse(CitySt == "Scituate, RI", 41.7964,ifelse(CitySt == "Morristown, VT",44.5573,latitude)
+)))))))))))))))), longitude = ifelse(CitySt == "Berlin, CT", -72.7457,ifelse(CitySt == "West Hartford, CT", -72.7420,ifelse(CitySt == "Winchester, CT", -73.1114,ifelse(CitySt == "Griswold, CT", -71.9283,ifelse(CitySt == "Mansfield, CT", -72.2293, ifelse(CitySt == "Vernon, CT",-72.4790,ifelse(CitySt == "Bourne, MA", -70.5989, ifelse(CitySt == "Yarmouth, MA", -70.2287,ifelse(CitySt == "North Attleborough, MA", -71.3565, ifelse(CitySt == "Tyngsborough, MA", -71.4244,ifelse(CitySt == "Middleborough, MA", -70.9108, ifelse(CitySt == "Gilford, NH", -71.4067,ifelse(CitySt ==  "Wakefield, NH", -71.0289, ifelse(CitySt == "Northumberland, NH" , -71.5121,  ifelse(CitySt == "Burrillville, RI", -71.9661, ifelse(CitySt == "Scituate, RI", -71.6199,ifelse(CitySt == "Morristown, VT", -72.6237, longitude))))))))))))))))))
+
+
+
+newwebZip <- newwebZip %>% mutate(Targeted = ifelse(Targeted == "Targeted", "a geo-target for digital advertising", "an area not geo-targeted to see digital ads"))
+
+
+
+```
+
+
+
+```{r}
+
+newwebZip1 <- newwebZip %>% filter(Targeted == "a geo-target for digital advertising")
+
+
+```
+
+Link to the \href{https://www.wrike.com/open.htm?id=416918416}{{\color{blue}{\underline{Wrike Project}}}}  
+
+ 
+### **Travel Ad Campaign**
+
+From 9/1/19-11/30/19, USM Office of Marketing and Branding ran digital advertisements to support out-of-state Admissions college fairs and High School visits. Using the Office of Admissions calendar of events, we targeted  the geographic areas where these events were booked. All of our ads drove traffic to the [New England Regional Student Program](https://usm.maine.edu/office-of-admissions/new-england-regional-tuition-program). We paid particular attention to where Admissions wanted to increase student applications in hopes to increase Inquiry activity by advertising the events themselves and increasing brand awareness. 
+
+
+**Reading this map**
+
+The dark blue dots represent the specific areas of admission's events where we geo-targeted digitl ads. The yellow areas represent the web traffic driven by the ads. 
+
+![](C:\Users\christine.iyer\Box\FY20_Fall_Travel\Fall19Travel.PNG)
+
+
+
+
+```{r}
+TargetArea <- c("Litchfield","New Haven", "New London",  "Total")
+Fall_18 <- c(100, 665, 127, 892)
+Fall_19 <- c(49, 209, 41, 299)
+
+```
+
+#
+
+Performance:
+
+USM's geo-targeting largely worked well. Most areas targeted drew web traffic. The areas where we would like to see improvement are New Haven, New London, and Litchfield, CT. We saw considerable drop in unique pageviews to the campaign landing pages from these three areas from last fall, as detailed below. 
+
+```{r}
+kable(data.frame(TargetArea, Fall_18, Fall_19))
+```
+
+Note: I have reached out to the agency to ask if perhaps these areas were not targeted so heavily with impressions.
+
+
+### **Ad Performance and Web Traffic**
+
+The tables below summarize the KPIs we collect to evaluate ad performance. I have included the Fall 2018 results in the second table for comparison. 
+
+```{r data 1}
+FM <- read.csv("file:///Z:/DAA/Marketing/MKT_output.csv", header = T, stringsAsFactors = F)
+FM <- FM %>% filter(Master_Adname_Type == "NC")
+FM <- FM %>% select(1:8, 13, 15:19, 21:24, 26, 28:29, 31:39) %>% select(Master_Date, everything())
+FM <- FM %>% mutate_at(10:30, ~replace(., is.na(.), 0)) %>% mutate(Master_Date = as.Date(Master_Date, format = "%Y-%m-%d")) %>% arrange(Master_Date) 
+
+
+colorP <- c("#F6A704", "#0E1033","#4E7B14","#A92007","#D47E0A")
+ FMVM <- FM %>%
+   mutate(Product_Audience = paste0(Code_Product, "_", Code_Audience)) %>%
+   group_by(Code_Audience,Code_Product, Code_Vendor, Code_Medium,Master_Date) %>%
+   summarise(
+     Cost = sum(Master_Cost),
+     Clicks = sum(Master_Clicks),
+     Impressions = round(sum(Master_Impressions),0),
+     #CTR = paste0(round(Clicks/Impressions * 100, 2), "%"),
+     Bounces = sum(Master_Bounces),
+     Sessions = sum(Master_Sessions),
+     UPV = sum(Master_Unique_Pageviews),
+     Views = sum(Master_Views),
+     Completions = sum(Master_Completions),
+     Master_Time_On_Page = sum(Master_Time_On_Page), 
+     Master_Pageviews = sum(Master_Pageviews), 
+     Master_Exits = sum(Master_Exits), 
+     #BounceRate = paste0(round(Bounces/Sessions * 100, 2), "%"),
+     Step1 = sum(Master_Time_On_Page)/(sum(Master_Pageviews)- sum(Master_Exits)),
+     Av_TOP = round_hms(as_hms(Step1), 5),
+     ClickRatePct = round(Clicks/Impressions * 100, 2),
+     BounceRatePct = round(Bounces/Sessions * 100, 2),
+     ViewRate = round(Views/Impressions * 100, 2),
+     VTR = round(Completions/Impressions *100, 2),
+     ClickableCompletions = sum(Master_Clickable_Completions),
+     ClickableCompRate = round(Clicks/ClickableCompletions * 100, 2), 
+     Swipes = sum(Master_Swipes), 
+     SwipeUpRatePct = round(Swipes/Impressions * 100, 2),
+     Opens = sum(Master_Clicks_To_Site),
+     CTOR = round(Opens/Clicks * 100, 2), 
+     Sends = sum(Master_Sends), 
+     LIOpens = sum(Master_Opens),
+     LIClicks = sum(Master_Clicks_Sponsored_InMail),
+     OpenRate = round(LIOpens/Sends * 100, 2), 
+     Engagements = sum(Master_Engagements),
+     EngagementRate = round(Engagements/Impressions * 100, 2),
+     EngRate = round((sum(LIOpens)+sum(Engagements))/sum(Sends)*100, 2),  
+     LICTOR = round(sum(LIClicks)/sum(LIOpens) * 100, 2)) %>%
+   select(Master_Date, Impressions, Clicks, Bounces, Sessions, Swipes, ClickRatePct, SwipeUpRatePct, UPV, BounceRatePct, Av_TOP, ClickableCompRate, VTR, CTOR,OpenRate, Sends, ViewRate, ClickableCompletions, Completions, Opens, LIOpens, LIClicks, Engagements, LICTOR, EngRate, EngagementRate, Master_Exits, Master_Pageviews, Master_Time_On_Page, Cost) 
+
+```
+
+
+**Fall Travel Ads 2019**
+
+```{r}
+Nineteen <-  FMVM %>% filter(Code_Audience == "TL" & 
+                               Master_Date >= "2019-08-01" &                                   Master_Date <= "2019-11-30"                                    # & Code_Medium != "VID"
+                               )%>% group_by(Code_Vendor, Code_Medium) %>% summarise(
+  Cost = sum(Cost),
+  Clicks = sum(Clicks), 
+  Impressions = sum(Impressions),
+  Bounces = sum(Bounces), 
+  Sessions = sum(Sessions), 
+  UPV = sum(UPV), Step1 = sum(Master_Time_On_Page)/(sum(Master_Pageviews)- sum(Master_Exits)),Av_TOP = round_hms(as_hms(Step1), 5),
+     ClickRatePct = round(Clicks/Impressions * 100, 2),
+     BounceRatePct = round(Bounces/Sessions * 100, 2)) %>%  mutate( 
+                                                                  Impressions = prettyNum(Impressions, big.mark = ","), 
+                                                                  ClickRatePct = paste0(ClickRatePct, "%"), 
+                                                                  UPV = prettyNum(UPV, big.mark = ","), 
+                                                                  BounceRatePct = paste0(BounceRatePct, "%"), 
+                                                                  Av_TOP, 
+                                                                  Cost = paste0("$", prettyNum(Cost)))%>% select(Code_Vendor, Code_Medium, Impressions, ClickRatePct, UPV, BounceRatePct, Av_TOP, Cost)
+Code_Vendor <- "SC"
+Code_Medium <- "VID"
+Impressions <- "~"
+ClickRatePct  <-  "~"
+UPV   <-  "~"    
+BounceRatePct  <-  "~"
+Av_TOP <-  "~"     
+Cost   <-  "~"
+df <- data.frame(Code_Vendor, Code_Medium, Impressions, ClickRatePct, UPV, BounceRatePct, Av_TOP, Cost)
+
+Nineteen <- rbind.data.frame(Nineteen, df)
+kable(Nineteen %>% arrange(Code_Vendor, Code_Medium))
+
+```
+
+
+
+**Fall Travel Ads 2018**
+
+```{r}
+Eighteen <-  FMVM %>% filter(Code_Audience == "TL" & 
+                               Master_Date >= "2018-08-01" &                                   Master_Date <= "2018-11-30"  
+                               # & Code_Medium != "VID"
+                               ) %>% group_by(Code_Vendor, Code_Medium) %>% summarise(
+  Cost = sum(Cost),
+  Clicks = sum(Clicks), 
+  Impressions = sum(Impressions),
+  Bounces = sum(Bounces), 
+  Sessions = sum(Sessions), 
+  UPV = sum(UPV), Step1 = sum(Master_Time_On_Page)/(sum(Master_Pageviews)- sum(Master_Exits)),Av_TOP = round_hms(as_hms(Step1), 5),
+     ClickRatePct = round(Clicks/Impressions * 100, 2),
+     BounceRatePct = round(Bounces/Sessions * 100, 2)) %>% 
+  mutate( 
+                                                                  Impressions = prettyNum(Impressions, big.mark = ","), 
+                                                                  ClickRatePct = paste0(ClickRatePct, "%"), 
+                                                                  UPV = prettyNum(UPV, big.mark = ","), 
+                                                                  BounceRatePct = paste0(BounceRatePct, "%"), 
+                                                                  Av_TOP, 
+                                                                  Cost = paste0("$", prettyNum(Cost)))%>% select(Code_Vendor, Code_Medium, Impressions, ClickRatePct, UPV, BounceRatePct, Av_TOP, Cost)
+
+#NewFBCAR <- c("FB", "CAR", "~", "~", "~", "~", "~", "~")
+Code_Vendor <- c("FB", "IG")
+Code_Medium <- c("CAR", "CAR")
+Impressions <- c("~", "~") 
+ClickRatePct  <- c("~", "~")
+UPV   <- c("~", "~")      
+BounceRatePct  <- c("~", "~")
+Av_TOP <- c("~", "~")      
+Cost   <- c("~", "~")
+df <- data.frame(Code_Vendor, Code_Medium, Impressions, ClickRatePct, UPV, BounceRatePct, Av_TOP, Cost)
+
+Eighteen <- rbind.data.frame(Eighteen, df)
+kable(Eighteen %>% arrange(Code_Vendor, Code_Medium))
+```
+				
+					
+Performance:
+
+* DBM display ads maintained a CTR from FY19 during the months of August-November. However, it is important to note that while the budget allocated did not change, we received nearly 1 million fewer impressions. Despite the fewer impressions, the ads drove 500 more unique pageviews with a much lower bounce rate.  
+
+* Facebook display ads saw a drop in budget due to a trend in declining CTR. The CTR dropped from 0.6% in FY19 to 0.38% in FY19. Because Facebook is one of the strongest drivers of web traffic, we saw massive drop in unique pageviews. 
+
+* In FY19, carousel was used as a new medium with FB and IG. The carousel ads have slightly lower bounce rates than display and video. 
+
+* The budget for Instagram display ads also dropped significantly, however the CTR remained above benchmark. 
+
+* Significantly more money was allocated to Facebook video. Because we do not have benchmarks, it is difficult to evaluate the performance. The only standardized metric we have is CTR.  
+
+* Facebook offers a video report and I have included the data below. It is remarkable how much Facebook view rates fell from 2018 to 2019, while Instagram's went up. This data should be considered when planning upcoming Travel campaigns. 
+
+* I have addressed our concerns with the agency. 
+
+
+```{r}
+Campaign <- c("Fall_18_Travel", "Fall_18_Travel","Fall_19_Travel", "Fall_19_Travel")
+Vendor <- c("FB", "IG", "FB", "IG")
+Plays <- c("45,186",	"310,092",	"289,768",	"33,271")
+VTR <- c("22.54%",	"0.56%"	,"1.82%",	"0.89%")				
+
+VR_3_Seconds <- c("59.53%", "3.74%", "8.60%","3.93%")
+VR_25_Percent <- c("49.36%", 
+"2.98%", 
+"6.82%", 
+"3.28%")
+VR_50_Percent <- c("37.87%",	"1.61%",	"3.30%",	"1.80%")
+VR_75_Percent <- c("36.28%",
+"1.13%",
+"2.29%",
+"1.24%")
+
+kable(data.frame(Campaign, Vendor,Plays,VTR, VR_3_Seconds, VR_25_Percent, VR_50_Percent, VR_75_Percent ) %>% arrange(Vendor))
+```
+
+
+
+
+
+### **Inquiries and Applications in Geo-Targeted Areas**
+
+Another way to measure the success of the Travel Ad Campaign is to count how many inquiries and applications we have received from students in the geo-targeted areas who have an initial source date during campaign's run time. This data is below. 
+
+
+
+```{r eval=FALSE, include=FALSE}
+Month <- c("Sept", "Oct", "Nov" )
+Fall_2017 <- c(4,4,2)
+Fall_2018 <- c(10,6,2)
+Fall_2019 <- c(0,0,0)
+
+
+```
+
+
+
+
+
+
+```{r}
+InqAndApps <- read.csv("/Users/christine.iyer/Box/NewTravel/FallTravelAppsInq.csv", header = T, stringsAsFactors = F)
+
+FallInqAndApps <- InqAndApps %>% mutate(Targeted = ifelse(County..State %in% targets, "Targeted in FY19", "NotTargeted")) %>% 
+  mutate_at(5:6, ~replace(., is.na(.), 0)) %>% 
+  filter(Targeted == "Targeted in FY19") %>% 
+  group_by(Initial.Source.DateYr.Sept.Dec) %>% 
+  summarise(Inquiry = sum(Inquiry), Applicant = sum(Applicant)) %>% rename(Date = Initial.Source.DateYr.Sept.Dec) 
+kable(FallInqAndApps)
+```
+
+Performance:
+
+There has been significant growth in inquiries and applications since Fall 2017. Although there has been a slight drop in inquiries (4.4%) from Fall 2018 to Fall 2019, we do not yet know if there will be the same drop in applications as these numbers are not yet final. 
+
+The tables below show how each state has performed. 
+
+
+**CT**
+
+```{r}
+InqAndApps <- read.csv("/Users/christine.iyer/Box/NewTravel/FallTravelAppsInq.csv", header = T, stringsAsFactors = F)
+
+FallInqAndApps <- InqAndApps %>% mutate(Targeted = ifelse(County..State
+ %in% targets, "Targeted in FY19", "NotTargeted")) %>% select(Targeted, Date = Initial.Source.DateYr.Sept.Dec, State, County..State, Inquiry, Applicant ) %>% filter(Targeted == "Targeted in FY19") %>% group_by(State, Date) %>% summarise(Inquiry = sum(Inquiry), Applicant = sum(Applicant)) %>% filter(State == "Connecticut")
+kable(FallInqAndApps)
+```
+
+**MA**
+
+```{r}
+InqAndApps <- read.csv("/Users/christine.iyer/Box/NewTravel/FallTravelAppsInq.csv", header = T, stringsAsFactors = F)
+
+FallInqAndApps <- InqAndApps %>% mutate(Targeted = ifelse(County..State
+ %in% targets, "Targeted in FY19", "NotTargeted")) %>% select(Targeted, Date = Initial.Source.DateYr.Sept.Dec, State, County..State, Inquiry, Applicant ) %>% filter(Targeted == "Targeted in FY19") %>% group_by(State, Date) %>% summarise(Inquiry = sum(Inquiry), Applicant = sum(Applicant)) %>% filter(State == "Massachusetts")
+kable(FallInqAndApps)
+```
+
+**NH**
+
+```{r}
+InqAndApps <- read.csv("/Users/christine.iyer/Box/NewTravel/FallTravelAppsInq.csv", header = T, stringsAsFactors = F)
+
+FallInqAndApps <- InqAndApps %>% mutate(Targeted = ifelse(County..State
+ %in% targets, "Targeted in FY19", "NotTargeted")) %>% select(Targeted, Date = Initial.Source.DateYr.Sept.Dec, State, County..State, Inquiry, Applicant ) %>% filter(Targeted == "Targeted in FY19") %>% group_by(State, Date) %>% summarise(Inquiry = sum(Inquiry), Applicant = sum(Applicant)) %>% filter(State == "New Hampshire")
+kable(FallInqAndApps)
+```
+
+**VT**
+
+```{r}
+InqAndApps <- read.csv("/Users/christine.iyer/Box/NewTravel/FallTravelAppsInq.csv", header = T, stringsAsFactors = F)
+
+FallInqAndApps <- InqAndApps %>% mutate(Targeted = ifelse(County..State
+ %in% targets, "Targeted in FY19", "NotTargeted")) %>% select(Targeted, Date = Initial.Source.DateYr.Sept.Dec, State, County..State, Inquiry, Applicant ) %>% filter(Targeted == "Targeted in FY19") %>% group_by(State, Date) %>% summarise(Inquiry = sum(Inquiry), Applicant = sum(Applicant)) %>% filter(State == "Vermont")
+kable(FallInqAndApps)
+```
+
+Performance:
+
+
+We see consistent growth in the areas we targeted in Fall 2019 in NH and VT. We see a drop in MA and CT from last fall, but applications are likely to go up as the application period goes on. 
+
+### Conclusions:
+
+* The majority of ads are performing at benchmarks. 
+
+* The significant drop in CTR for Facebook digital display ads supports the decision for allocate less funding to this vendor and medium. 
+
+* I recommend we discuss the best way to evaluate the performance of video ads, particularly Facebook video. According to the report available of the Facebook Campaign Manager, there has been a significant drop in performance metrics. 
+
+* Ads are drawing traffic from targeted areas. We would like to see more interest from New Haven, New London, and Litchfield, CT. 
+
+* Again, in Fall 2019, we have seen growth in inquiries and applications since Fall 2017. Inquiries from targeted areas remain robust from Fall 2018. When the application cycle for Fall 2020 ends, we can better assess if there has been continued growth in applications. 
